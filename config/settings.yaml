@@ -25,13 +25,13 @@ analysis_timeout: 300   # 分析超时时间（秒）
 retry_attempts: 3       # 重试次数
 
 # LLM模型配置
-openai_model: "gpt-3.5-turbo"
-deepseek_model: "deepseek-chat"  # DeepSeek模型
+openai_model: "gpt-4o"
+deepseek_model: "deepseek-r1"  # DeepSeek模型
 anthropic_model: "claude-3-sonnet-20240229"
 
 # ArXiv API设置
 arxiv_base_url: "http://export.arxiv.org/api/query"
-arxiv_category: "physics.acc-ph"
+arxiv_category: "astro-ph.CO"
 days_back: 7  # 回溯天数，增加到7天以获取更多论文
 
 # 分析设置
