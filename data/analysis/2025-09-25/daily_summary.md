@@ -1,49 +1,50 @@
 # ArXiv加速器物理论文每日分析报告
 
 **日期**: 2025-09-25
-**分析时间**: 2025-09-25 02:39:23
+**分析时间**: 2025-09-25 04:32:22
 
 ## 📊 概览统计
 
-- **总论文数**: 50
+- **总论文数**: 71
 - **成功分析**: 50
-- **分析成功率**: 100.0% (如果为0，说明需要设置API密钥)
+- **分析成功率**: 70.4% (如果为0，说明需要设置API密钥)
 
 ## 📈 分类分布
 
 - **分类编号: 1
 分类名称: 束流动力学
-置信度: high**: 3 篇 (6.0%)
+置信度: high**: 3 篇 (4.2%)
 - **分类编号: 2
 分类名称: 射频技术
-置信度: high**: 1 篇 (2.0%)
+置信度: high**: 1 篇 (1.4%)
 - **分类编号: 2
 分类名称: 射频技术
-置信度: medium**: 1 篇 (2.0%)
+置信度: medium**: 1 篇 (1.4%)
 - **分类编号: 4
 分类名称: 束流诊断
-置信度: high**: 5 篇 (10.0%)
+置信度: high**: 5 篇 (7.0%)
 - **分类编号: 5
 分类名称: 加速器设计
-置信度: high**: 8 篇 (16.0%)
+置信度: high**: 8 篇 (11.3%)
 - **分类编号: 5
 分类名称: 加速器设计
-置信度: medium**: 1 篇 (2.0%)
+置信度: medium**: 1 篇 (1.4%)
 - **分类编号: 6
 分类名称: 超导技术
-置信度: high**: 2 篇 (4.0%)
+置信度: high**: 2 篇 (2.8%)
 - **分类编号: 6
 分类名称: 超导技术
-置信度: medium**: 1 篇 (2.0%)
+置信度: medium**: 1 篇 (1.4%)
 - **分类编号: 8
 分类名称: 控制系统
-置信度: high**: 2 篇 (4.0%)
+置信度: high**: 2 篇 (2.8%)
 - **分类编号: 9
 分类名称: 其他
-置信度: high**: 24 篇 (48.0%)
+置信度: high**: 24 篇 (33.8%)
 - **分类编号: 9
 分类名称: 其他
-置信度: medium**: 2 篇 (4.0%)
+置信度: medium**: 2 篇 (2.8%)
+- **未分类**: 21 篇 (29.6%)
 
 ## 📚 论文详情
 
@@ -644,6 +645,216 @@
 置信度: high  
 
 **简要总结**: 该论文首次在近日空间太阳风电流片中心区域发现重联喷流内嵌的次级磁通量绳结构，通过高精度原位观测验证了磁重联过程中的能量级联机制，为加速器物理中束流稳定性研究和磁场优化设计提供了重要的空间等离子体类比参考。
+
+---
+
+### 51. Probing Beyond the Standard Model Scenarios in Long-baseline and   Astrophysical Neutrino Experiments
+
+**作者**: Sudipta Das  
+**ArXiv ID**: [2509.20348v1](https://arxiv.org/abs/2509.20348v1)  
+**分类**: 未分类  
+
+**状态**: ❌ 分析失败 - 所有LLM服务都不可用
+
+---
+
+### 52. Matching Optimization for TRIUMF's Rare Isotope Linac
+
+**作者**: O. Shelbaya, O. Hassan, R. Baartman 等  
+**ArXiv ID**: [2509.20292v1](https://arxiv.org/abs/2509.20292v1)  
+**分类**: 未分类  
+
+**状态**: ❌ 分析失败 - 所有LLM服务都不可用
+
+---
+
+### 53. Thermal resilience of the ITER tungsten first wall to runaway electron   impact
+
+**作者**: S. Ratynskaia, K. Paschalidis, T. Rizzi 等  
+**ArXiv ID**: [2509.20261v1](https://arxiv.org/abs/2509.20261v1)  
+**分类**: 未分类  
+
+**状态**: ❌ 分析失败 - 所有LLM服务都不可用
+
+---
+
+### 54. COSINUS model-independent sensitivity to the DAMA/LIBRA dark matter   signal
+
+**作者**: G. Angloher, M. R. Bharadwaj, A. Böhmer 等  
+**ArXiv ID**: [2504.18263v2](https://arxiv.org/abs/2504.18263v2)  
+**分类**: 未分类  
+
+**状态**: ❌ 分析失败 - 所有LLM服务都不可用
+
+---
+
+### 55. Feedforward equilibrium trajectory optimization with GSPulse
+
+**作者**: J. T. Wai, M. D. Boyer, D. J. Battaglia 等  
+**ArXiv ID**: [2506.21760v2](https://arxiv.org/abs/2506.21760v2)  
+**分类**: 未分类  
+
+**状态**: ❌ 分析失败 - 所有LLM服务都不可用
+
+---
+
+### 56. Residual energy of magnetohydrodynamic shocks
+
+**作者**: S. W. Good, K. J. Palmunen, C. H. K. Chen 等  
+**ArXiv ID**: [2509.20096v1](https://arxiv.org/abs/2509.20096v1)  
+**分类**: 未分类  
+
+**状态**: ❌ 分析失败 - 所有LLM服务都不可用
+
+---
+
+### 57. Studies on Response Uniformity of RPC and Exploring Oscillation Dip and   Valley, Non-Standard Interactions, and Earth's Core using Atmospheric   Neutrinos at ICAL-INO detector
+
+**作者**: Anil Kumar  
+**ArXiv ID**: [2509.20094v1](https://arxiv.org/abs/2509.20094v1)  
+**分类**: 未分类  
+
+**状态**: ❌ 分析失败 - 所有LLM服务都不可用
+
+---
+
+### 58. Development of a time calibration system for the KLM upgrade in the   Belle II experiment
+
+**作者**: Ziyu Liu, Xiyang Wang, Shiming Zou 等  
+**ArXiv ID**: [2509.20029v1](https://arxiv.org/abs/2509.20029v1)  
+**分类**: 未分类  
+
+**状态**: ❌ 分析失败 - 所有LLM服务都不可用
+
+---
+
+### 59. Physical Properties of Materials and Testing Methods
+
+**作者**: Ana Arauzo  
+**ArXiv ID**: [2509.19872v1](https://arxiv.org/abs/2509.19872v1)  
+**分类**: 未分类  
+
+**状态**: ❌ 分析失败 - 所有LLM服务都不可用
+
+---
+
+### 60. Attention U-Net for all-sky continuous gravitational wave searches
+
+**作者**: Damon H. T. Cheung  
+**ArXiv ID**: [2509.19838v1](https://arxiv.org/abs/2509.19838v1)  
+**分类**: 未分类  
+
+**状态**: ❌ 分析失败 - 所有LLM服务都不可用
+
+---
+
+### 61. Controls Abstraction Towards Accelerator Physics: A Middle Layer Python   Package for Particle Accelerator Control
+
+**作者**: M. King, A. D. Brynes, F. Jackson 等  
+**ArXiv ID**: [2509.19794v1](https://arxiv.org/abs/2509.19794v1)  
+**分类**: 未分类  
+
+**状态**: ❌ 分析失败 - 所有LLM服务都不可用
+
+---
+
+### 62. Toward a Theory of Gravitational Wave Turbulence
+
+**作者**: Holly Krynicki, Jiaxi Wu, Elias R. Most  
+**ArXiv ID**: [2509.19769v1](https://arxiv.org/abs/2509.19769v1)  
+**分类**: 未分类  
+
+**状态**: ❌ 分析失败 - 所有LLM服务都不可用
+
+---
+
+### 63. Energy transfer from MHD-scale slow-mode waves to kinetic-scale ion   acoustic waves
+
+**作者**: Xiaofei Shi, Xin An, Vassilis Angelopoulos  
+**ArXiv ID**: [2509.19763v1](https://arxiv.org/abs/2509.19763v1)  
+**分类**: 未分类  
+
+**状态**: ❌ 分析失败 - 所有LLM服务都不可用
+
+---
+
+### 64. A Simple Apparatus for Testing PMT Humidity Tolerance
+
+**作者**: A. Germer, K. Park, C. Skuse 等  
+**ArXiv ID**: [2507.13545v2](https://arxiv.org/abs/2507.13545v2)  
+**分类**: 未分类  
+
+**状态**: ❌ 分析失败 - 所有LLM服务都不可用
+
+---
+
+### 65. Anisotropic momentum distributions due to radiation recoil in   relativistic plasmas with electric and magnetic fields
+
+**作者**: Haidar Al-Naseri  
+**ArXiv ID**: [2509.19656v1](https://arxiv.org/abs/2509.19656v1)  
+**分类**: 未分类  
+
+**状态**: ❌ 分析失败 - 所有LLM服务都不可用
+
+---
+
+### 66. Graph-based Neural Space Weather Forecasting
+
+**作者**: Daniel Holmberg, Ivan Zaitsev, Markku Alho 等  
+**ArXiv ID**: [2509.19605v1](https://arxiv.org/abs/2509.19605v1)  
+**分类**: 未分类  
+
+**状态**: ❌ 分析失败 - 所有LLM服务都不可用
+
+---
+
+### 67. The periodicity of three-dimensional oscillatory reconnection
+
+**作者**: Luiz A. C. A. Schiavo, Gert J. J. Botha, James A. McLaughlin  
+**ArXiv ID**: [2509.19603v1](https://arxiv.org/abs/2509.19603v1)  
+**分类**: 未分类  
+
+**状态**: ❌ 分析失败 - 所有LLM服务都不可用
+
+---
+
+### 68. Generalized mixed variable-pullback scheme with non-ideal Ohm's law for   electromagnetic gyrokinetic simulations
+
+**作者**: Zhixin Lu, Guo Meng, Roman Hatzky 等  
+**ArXiv ID**: [2509.19553v1](https://arxiv.org/abs/2509.19553v1)  
+**分类**: 未分类  
+
+**状态**: ❌ 分析失败 - 所有LLM服务都不可用
+
+---
+
+### 69. Nature of Transonic Sub-Alfvénic Turbulence and Density Fluctuations   in the Near-Sun Solar Wind: Insights from Magnetohydrodynamic Simulations and   Nearly-Incompressible Models
+
+**作者**: Giuseppe Arrò, Hui Li, Gary P. Zank 等  
+**ArXiv ID**: [2509.19534v1](https://arxiv.org/abs/2509.19534v1)  
+**分类**: 未分类  
+
+**状态**: ❌ 分析失败 - 所有LLM服务都不可用
+
+---
+
+### 70. Position Reconstruction in the DEAP-3600 Dark Matter Search Experiment
+
+**作者**: The DEAP Collaboration, P. Adhikari, R. Ajaj 等  
+**ArXiv ID**: [2503.10383v2](https://arxiv.org/abs/2503.10383v2)  
+**分类**: 未分类  
+
+**状态**: ❌ 分析失败 - 所有LLM服务都不可用
+
+---
+
+### 71. Characterization of NBI-driven shear Alfvén waves in the TJ-II   stellarator using Mirnov probes and electrostatic potential fluctuation   measurements
+
+**作者**: P. Pons-Villalonga, Á. Cappa, E. Ascasíbar 等  
+**ArXiv ID**: [2501.18529v3](https://arxiv.org/abs/2501.18529v3)  
+**分类**: 未分类  
+
+**状态**: ❌ 分析失败 - 所有LLM服务都不可用
 
 ---
 
