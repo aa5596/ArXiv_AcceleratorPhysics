@@ -1,10 +1,10 @@
 {
-  "total_papers": 4214,
-  "total_days": 83,
-  "average_papers_per_day": 50.7710843373494,
+  "total_papers": 4264,
+  "total_days": 84,
+  "average_papers_per_day": 50.76190476190476,
   "most_common_category": [
     "分类编号: 9\n分类名称: 其他\n置信度: high",
     1333
   ],
-  "last_updated": "2025-10-19"
+  "last_updated": "2025-10-20"
 }
