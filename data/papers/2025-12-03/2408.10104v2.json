@@ -1,0 +1,19 @@
+{
+  "arxiv_id": "2408.10104v2",
+  "url": "https://arxiv.org/abs/2408.10104v2",
+  "pdf_url": "https://arxiv.org/pdf/2408.10104v2.pdf",
+  "title": "Multi-Mode Lens for Momentum Microscopy and XPEEM: Theory",
+  "abstract": "The strong electric field between the sample and the extractor is the core of cathode lenses and a pivotal determinant of high resolution. Nevertheless, fields in the range of 3-8 kV/mm can be a source of complications. Local field enhancement at sharp edges or microscopic protrusions of cleaved samples may result in field emission or flashovers. Moreover, slow background electrons are drawn into the microscope column, where they contribute to space charge effects. A novel front lens configuration, optimized through ray-tracing simulations, significantly reduces the field at the sample and allows even for zero field or retarding field, which serves to suppress space charge effects. One or several annular electrodes, situated in a concentric position relative to the extractor, serve to form an additional lens within the gap between the sample and the extractor. The refractory power of this lens, and consequently the field at the sample surface, can be modified by adjusting the potentials of the annular electrodes. The imaging properties and aberrations of this gap lens have been investigated with regard to momentum imaging and XPEEM. The study encompasses the energy range from the few-eV level for laser-ARPES to 6 keV, for hard X-ray ARPES. The additional converging lens situated in close proximity to the sample exhibits a reduced field curvature of the k-image in the backfocal plane. This allows for the acquisition of larger fields of view in both momentum and real-space imaging.",
+  "authors": [
+    "Olena Tkach",
+    "Gerd Schoenhense"
+  ],
+  "published": "2024-08-19T15:47:17Z",
+  "updated": "2025-11-28T21:55:41Z",
+  "categories": [
+    "physics.app-ph",
+    "cond-mat.mtrl-sci",
+    "physics.ins-det"
+  ],
+  "primary_category": "physics.app-ph"
+}
