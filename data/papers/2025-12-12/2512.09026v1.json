@@ -1,0 +1,21 @@
+{
+  "arxiv_id": "2512.09026v1",
+  "url": "https://arxiv.org/abs/2512.09026v1",
+  "pdf_url": "https://arxiv.org/pdf/2512.09026v1.pdf",
+  "title": "Non-Equilibrium Thermodynamics of Black-Hole Coronae: QPOs, Turbulence, and Jets",
+  "abstract": "The variability of X-rays observed from accreting black hole systems, including quasi-periodic oscillations (QPOs), suggests a complex nonlinear dynamics in the corona. Here, we propose a new theoretical framework for this problem, based on non-equilibrium thermodynamics. In this model, coronal variability arises from feedback between a macroscopic oscillation of the plasma and the rate at which it is cooled by the inverse Compton scattering of soft photons from the disc. The \"pair thermostat'' mechanism then allows the corona to act as a heat engine that extracts work cyclically from the underlying thermal disequilibrium between the low-entropy heating and the high-entropy cooling by the soft photons, in close analogy to the well-known $κ$-mechanism for pulsating stars. This coronal self-oscillation may explain QPOs without the need to invoke an external resonant driving. Moreover, we argue that this mechanism can provide the power to generate turbulence and jets in the corona.",
+  "authors": [
+    "Vanessa López-Barquero",
+    "Alejandro Jenkins",
+    "Christopher S. Reynolds",
+    "Andrew Fabian"
+  ],
+  "published": "2025-12-09T19:00:01Z",
+  "updated": "2025-12-09T19:00:01Z",
+  "categories": [
+    "astro-ph.HE",
+    "physics.flu-dyn",
+    "physics.plasm-ph"
+  ],
+  "primary_category": "astro-ph.HE"
+}

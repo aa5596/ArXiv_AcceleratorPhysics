@@ -1,0 +1,20 @@
+{
+  "arxiv_id": "2512.09205v1",
+  "url": "https://arxiv.org/abs/2512.09205v1",
+  "pdf_url": "https://arxiv.org/pdf/2512.09205v1.pdf",
+  "title": "Activation of Polylactic Acid and Polycarbonate Surfaces with Non-Thermal Plasma",
+  "abstract": "Non-thermal plasma (NTP) surface activation has become a powerful and versatile strategy to engineer the interfacial properties of biomedical polymers whose intrinsic hydrophobicity limits their biological performance. In polymers such as polylactic acid (PLA) and polycarbonate (PC), NTP promotes the controlled incorporation of polar functional groups, increases surface energy, modifies dielectric behavior, and generates micro-roughness that collectively enhance protein adsorption and early cell adhesion. This review synthesizes and critically evaluates evidence across four complementary analytical pillars-contact-angle theory, dielectric impedance spectroscopy, FT-IR chemical mapping, and optical microscopy-to construct an integrated framework for interpreting plasma-induced chemical and morphological transformations.   The convergence of multimodal results demonstrates that NTP consistently produces chemically active, polar, and moderately textured surfaces that support robust initial cell-material interactions. Furthermore, combining wettability, dielectric, and spectroscopic analysis enables the identification of activation pathways, the assessment of hydrophobic recovery dynamics, and the development of quantitative correlations between dielectric parameters and biological response. However, the literature also reveals key methodological gaps, including the limited use of unified multimodal protocols, insufficient evaluation of temporal stability, and a lack of predictive dielectric-biological models.   By articulating these advances and limitations within a unified conceptual scheme, this review provides a roadmap for future research aimed at standardizing characterization workflows and enabling the rational design of next-generation plasma-functionalized biomaterials for tissue-engineering scaffolds, implantable devices, and advanced drug-delivery systems.",
+  "authors": [
+    "Jairo Rondón",
+    "Ginger Urrutia",
+    "Angel Gonzalez-Lizardo"
+  ],
+  "published": "2025-12-10T00:07:13Z",
+  "updated": "2025-12-10T00:07:13Z",
+  "categories": [
+    "physics.plasm-ph",
+    "cond-mat.mtrl-sci",
+    "physics.bio-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

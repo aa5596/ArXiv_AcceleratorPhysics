@@ -1,0 +1,18 @@
+{
+  "arxiv_id": "2512.09168v1",
+  "url": "https://arxiv.org/abs/2512.09168v1",
+  "pdf_url": "https://arxiv.org/pdf/2512.09168v1.pdf",
+  "title": "The skin effect in anomalous transport of charged particles in plasma with a microturbulent magnetic field. I. Isotropic plasma",
+  "abstract": "The influence of electromagnetic skin effect on anomalous charged particle transport in dense, non-relativistic, collisionless plasma with a small-scale turbulent magnetic field was investigated using quasi-linear kinetic equations, through both analytical and numerical methods. Analytical expressions for the diffusion tensor components in the Fokker-Planck equation that take this effect into account have been found. The equation was solved numerically in the case of magnetostatic turbulence. It has been demonstrated that the skin effect increases the mean free path of particles in turbulent plasma, thereby reducing its anomalous resistance. It also leads to anisotropy in particle scattering, resulting in anisotropy in their stationary velocity distribution, which increases as the screening parameter grows. Approximate analytical formulas for the effective mobility of charged particles and the electric conductivity of plasma with isotropic magnetostatic turbulence have been obtained.",
+  "authors": [
+    "N. A. Emelyanov",
+    "Vl. V. Kocharovsky"
+  ],
+  "published": "2025-12-09T22:28:58Z",
+  "updated": "2025-12-09T22:28:58Z",
+  "categories": [
+    "physics.plasm-ph",
+    "physics.space-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

@@ -1,0 +1,20 @@
+{
+  "arxiv_id": "2512.09243v1",
+  "url": "https://arxiv.org/abs/2512.09243v1",
+  "pdf_url": "https://arxiv.org/pdf/2512.09243v1.pdf",
+  "title": "On How Zonal Fields Suppress Reversed Shear Alfvén Eigenmode in Tokamak Plasmas",
+  "abstract": "Employing both nonlinear gyrokinetic simulations and theoretical analyses, we have discovered the novel result that, with energetic particle dynamics kept linear, the nonlinear suppression and eventual saturation of reversed-shear Alfvén eigenmode occur via the downward frequency chirping induced by the beat-driven zonal current. More specifically, as the mode frequency chirps downward, there is enhanced mode conversion to radially propagating electron Landau-damped kinetic Alfvén waves; resulting in enhanced convective (radiative) damping and, thereby, its suppression and saturation. Theoretical results are in good agreement with simulations both qualitatively and quantitatively.",
+  "authors": [
+    "Ruirui Ma",
+    "Pengfei Liu",
+    "Liu Chen",
+    "Fulvio Zonca",
+    "Zhiyong Qiu"
+  ],
+  "published": "2025-12-10T02:03:31Z",
+  "updated": "2025-12-10T02:03:31Z",
+  "categories": [
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

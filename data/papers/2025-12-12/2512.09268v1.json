@@ -1,0 +1,29 @@
+{
+  "arxiv_id": "2512.09268v1",
+  "url": "https://arxiv.org/abs/2512.09268v1",
+  "pdf_url": "https://arxiv.org/pdf/2512.09268v1.pdf",
+  "title": "Generation of Polarization-Tunable Hybrid Cylindrical Vector gamma Rays",
+  "abstract": "Cylindrical vector (CV) gamma rays can introduce spatially structured polarization as a new degree of freedom for fundamental research and practical applications. However, their generation and control remain largely unexplored. Here, we put forward a novel method to generate CV gamma rays with tunable hybrid polarization via a rotating electron beam interacting with a solid foil. In this process, the beam generates a coherent transition radiation field and subsequently emits gamma rays through nonlinear Compton scattering. By manipulating the initial azimuthal momentum of the beam, the polarization angle of gamma rays relative to the transverse momentum can be controlled, yielding tunable hybrid CV polarization states. Three-dimensional spin-resolved particle-in-cell simulations demonstrate continuous tuning of the polarization angle across (-90°, 90°) with a high polarization degree exceeding 60%. Our work contributes to the development of structured gamma rays, potentially opening new avenues in high-energy physics, nuclear science, and laboratory astrophysics.",
+  "authors": [
+    "Si-Man Liu",
+    "Yue Cao",
+    "Kun Xue",
+    "Li-Xiang Hu",
+    "Xin-Yu Liu",
+    "Xin-Yan Li",
+    "Chao-Zhi Li",
+    "Xin-Rong Xu",
+    "Ke Liu",
+    "Wei-Quan Wang",
+    "De-Bin Zou",
+    "Yan Yin",
+    "Jian-Xing Li",
+    "Tong-Pu Yu"
+  ],
+  "published": "2025-12-10T02:47:47Z",
+  "updated": "2025-12-10T02:47:47Z",
+  "categories": [
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

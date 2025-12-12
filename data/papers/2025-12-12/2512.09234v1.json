@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2512.09234v1",
+  "url": "https://arxiv.org/abs/2512.09234v1",
+  "pdf_url": "https://arxiv.org/pdf/2512.09234v1.pdf",
+  "title": "Tracing a Multi-Temperature Quiescent Prominence's Thermodynamic Evolution from Sun to Earth",
+  "abstract": "Solar prominences are cool, dense stable structures routinely observed in the corona. Prominences are often ejected from the Sun via coronal mass ejections (CMEs). However, they are rarely detected in a cool, low-ionized state within CMEs measured in situ, making their evolution hard to study. We examine the thermodynamic evolution of one of these rare cases where a quiescent prominence eruption clearly preserves its low-ionized charge state as evidenced by in situ detection. We use multi-viewpoint Extreme Ultraviolet (EUV) observations to track and estimate the density, temperature and speed of the prominence as it erupts. We observe that part of the prominence remains in absorption well beyond initial liftoff, indicating the bulk of the prominence experiences minimal ionization and suggesting any strong heating is balanced by radiative losses, expansion, or conduction. From its subsequent in situ passage near 1au, charge states reveal that the prominence is composed of both cool, low-ionized ions as well as hotter plasma reflected by the presence of highly ionized iron, Fe$^{16+}$. Simulated non-equilibrium ionization and recombination results using observationally derived initial conditions match the in situ multi-thermal state for a prominence composed of 70% cool plasma with a 1.8MK peak temperature, and 30% hot plasma with a 4.3MK peak temperature. This suggests that the prominence may not be heated uniformly or that parts of it cools more rapidly. The complex, multi-thermal nature of this erupting prominence emphasizes the need for more comprehensive spectral observations of the global corona.",
+  "authors": [
+    "Callie A. García",
+    "Yeimy J. Rivera",
+    "Samuel T. Badman",
+    "John C. Raymond",
+    "Katharine K. Reeves",
+    "Tatiana Niembro",
+    "Kristoff W. Paulson",
+    "Michael L. Stevens"
+  ],
+  "published": "2025-12-10T01:43:13Z",
+  "updated": "2025-12-10T01:43:13Z",
+  "categories": [
+    "astro-ph.SR",
+    "physics.plasm-ph"
+  ],
+  "primary_category": "astro-ph.SR"
+}
