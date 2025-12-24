@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2512.18052v1",
+  "url": "https://arxiv.org/abs/2512.18052v1",
+  "pdf_url": "https://arxiv.org/pdf/2512.18052v1.pdf",
+  "title": "Divertor Detachment Characterization in Negative Triangularity Discharges in DIII-D via 2D Edge-Plasma Transport Modeling",
+  "abstract": "Edge fluid modeling of the first divertor-plasma detachment experiments in negative triangularity discharges on DIII-D is presented using the 2D multi-fluid code UEDGE, including cross-field particle drifts. Density scans are performed to reproduce the experimental roll-over of the outer-target ion saturation current and to investigate detachment physics for both forward and reverse toroidal magnetic field configurations. Consistent with experiments, the simulations show that approximately 40% higher density is required to reach detachment onset for forward BT compared to reverse BT, and that deep detachment is not achieved for reverse BT. Comparisons with positive triangularity Ohmic discharges further demonstrate that negative triangularity requires substantially higher densities, at or above the Greenwald limit, to access detachment. The modeling indicates that the increased difficulty of achieving detachment in negative triangularity arises from a shorter midplane-to-target connection length, a reduced outer divertor leg length, and lower cross-field transport compared to positive triangularity configurations.",
+  "authors": [
+    "Menglong Zhao",
+    "Filippo Scotti",
+    "Thomas Rognlien",
+    "Marvin Rensink",
+    "Alessandro Marinoni",
+    "Dinh Truong",
+    "Huiqian Wang",
+    "Kathreen Thome",
+    "Carlos Paz-Soldan"
+  ],
+  "published": "2025-12-19T20:44:29Z",
+  "updated": "2025-12-19T20:44:29Z",
+  "categories": [
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

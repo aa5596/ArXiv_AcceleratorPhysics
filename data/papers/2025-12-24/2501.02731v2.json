@@ -1,0 +1,18 @@
+{
+  "arxiv_id": "2501.02731v2",
+  "url": "https://arxiv.org/abs/2501.02731v2",
+  "pdf_url": "https://arxiv.org/pdf/2501.02731v2.pdf",
+  "title": "On the Role of Chapman's Hydrostatic Solar Wind Mechanism in Parker's Hydrodynamic Solar Wind Model",
+  "abstract": "The global role of Chapman's hydrostatic solar wind mechanism in Parker's hydrodynamic solar wind model is investigated by using the de Laval nozzle analogy for the generation of flow acceleration in the latter model. The action of solar gravity in Parker's hydrodynamic solar wind model is shown to be geometrically equivalent to a renormalization of the actual wind channel area via a multiplicative factor, which is precisely Chapman's hydrostatic density profile. So, Chapman's hydrostatic solar wind mechanism appears to continue to be operative, on a global level (not just locally near the coronal base), in Parker's hydrodynamic solar wind model, the effects of solar gravity in Parker's hydrodynamic model being essentially encapsulated by Chapman's hydrostatic model. This result is shown to be robust by considering both isothermal gas and polytropic gas models as well as an n-dimensional (n= 1, 2, 3) underlying space for the solar wind.",
+  "authors": [
+    "Bhimsen Shivamoggi"
+  ],
+  "published": "2025-01-06T03:01:59Z",
+  "updated": "2025-12-19T20:14:29Z",
+  "categories": [
+    "astro-ph.SR",
+    "physics.plasm-ph",
+    "physics.space-ph"
+  ],
+  "primary_category": "astro-ph.SR"
+}

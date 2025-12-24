@@ -1,0 +1,27 @@
+{
+  "arxiv_id": "2512.18173v1",
+  "url": "https://arxiv.org/abs/2512.18173v1",
+  "pdf_url": "https://arxiv.org/pdf/2512.18173v1.pdf",
+  "title": "Transfer Learning for Analysis of Collective and Non-Collective Thomson Scattering Spectra",
+  "abstract": "Thomson scattering (TS) diagnostics provide reliable, minimally perturbative measurements of fundamental plasma parameters, such as electron density ($n_e$) and electron temperature ($T_e$). Deep neural networks can provide accurate estimates of $n_e$ and $T_e$ when conventional fitting algorithms may fail, such as when TS spectra are dominated by noise, or when fast analysis is required for real-time operation. Although deep neural networks typically require large training sets, transfer learning can improve model performance on a target task with limited data by leveraging pre-trained models from related source tasks, where select hidden layers are further trained using target data. We present five architecturally diverse deep neural networks, pre-trained on synthetic TS data and adapted for experimentally measured TS data, to evaluate the efficacy of transfer learning in estimating $n_e$ and $T_e$ in both the collective and non-collective scattering regimes. We evaluate errors in $n_e$ and $T_e$ estimates as a function of training set size for models trained with and without transfer learning, and we observe decreases in model error from transfer learning when the training set contains $\\lessapprox$ 200 experimentally measured spectra.",
+  "authors": [
+    "T. Van Hoomissen",
+    "J. Alhuthali",
+    "A. M. Ortiz",
+    "D. A. Mariscal",
+    "R. S. Dorst",
+    "S. Eisenbach",
+    "H. Zhang",
+    "J. J. Pilgram",
+    "C. G. Constantin",
+    "L. Rovige",
+    "C. Niemann",
+    "D. B. Schaeffer"
+  ],
+  "published": "2025-12-20T02:02:28Z",
+  "updated": "2025-12-20T02:02:28Z",
+  "categories": [
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

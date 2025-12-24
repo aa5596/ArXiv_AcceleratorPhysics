@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2504.12500v2",
+  "url": "https://arxiv.org/abs/2504.12500v2",
+  "pdf_url": "https://arxiv.org/pdf/2504.12500v2.pdf",
+  "title": "In situ axion generation and detection in laser-plasma wakefield interaction",
+  "abstract": "We propose a laser-plasma wakefield interaction based scheme for in situ axion generation and detection through the Primakoff process.   Strong electromagnetic fields ($\\gtrsim 10^{11}$\\,V/m) in the wakefield can enhance axion production rates by 2 orders of magnitude compared to conventional light-shining-through-a-wall experiments. By replacing the axion generation stage with laser-wakefield interaction, the axion-photon coupling constraints can achieve the level of $\\gagg \\sim 10^{-10}\\,\\text{GeV}^{-1}$ for axion mass less than 0.1\\,meV.   Besides, the generated axions can convert back into photons in the background fields, leading to axion-regenerated electromagnetic fields (AREM) with unique polarization, frequency, and transverse modes.   This provides a new promising way to search axions by detecting the filtered AREM fields from the background laser and plasma fields.",
+  "authors": [
+    "Xiangyan An",
+    "Min Chen",
+    "Jianglai Liu",
+    "Zhan Bai",
+    "Liangliang Ji",
+    "Zhengming Sheng",
+    "Jie Zhang"
+  ],
+  "published": "2025-04-16T21:32:31Z",
+  "updated": "2025-12-20T11:55:41Z",
+  "categories": [
+    "physics.plasm-ph",
+    "hep-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

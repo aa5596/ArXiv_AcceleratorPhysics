@@ -1,0 +1,17 @@
+{
+  "arxiv_id": "2509.14400v3",
+  "url": "https://arxiv.org/abs/2509.14400v3",
+  "pdf_url": "https://arxiv.org/pdf/2509.14400v3.pdf",
+  "title": "Electron Inertia and Magnetic Reconnection",
+  "abstract": "When electron inertia is the only non-ideal effect in the evolution of a magnetic field $\\vec{B}$, the field lines of $\\vec{B}$ reconnect, but the lines of a related field $\\vec{\\mathcal{B}}$ do not. $\\vec{\\mathcal{B}} \\equiv \\vec{B} + \\vec{\\nabla}\\times \\left( (c/ω_{pe})^2μ_0\\vec{j} \\right)$ with $ω_{pe}$ the plasma frequency and $\\vec{j}$ the current density. The non-reconnecting evolution of $\\vec{\\mathcal{B}}$ was known in systems that depend on only two spatial coordinates. That result is extended to systems that depend on all three spatial coordinates. In three dimensional space, the practical importance of the non-reconnecting evolution of $\\vec{\\mathcal{B}}$ appears limited. When the evolution velocity of $\\vec{\\mathcal{B}}$ is chaotic, reconnection naturally occurs on a timescale that depends only logarithmically on any non-ideal effect that is diffusive, such as resistivity.",
+  "authors": [
+    "Allen H Boozer"
+  ],
+  "published": "2025-09-17T20:02:37Z",
+  "updated": "2025-12-19T21:35:58Z",
+  "categories": [
+    "physics.plasm-ph",
+    "astro-ph.SR"
+  ],
+  "primary_category": "physics.plasm-ph"
+}
