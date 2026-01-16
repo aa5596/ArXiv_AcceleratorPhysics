@@ -1,10 +1,10 @@
 {
-  "total_papers": 8314,
-  "total_days": 165,
-  "average_papers_per_day": 50.38787878787879,
+  "total_papers": 8364,
+  "total_days": 166,
+  "average_papers_per_day": 50.3855421686747,
   "most_common_category": [
     "未分类",
-    5308
+    5358
   ],
-  "last_updated": "2026-01-15"
+  "last_updated": "2026-01-16"
 }
