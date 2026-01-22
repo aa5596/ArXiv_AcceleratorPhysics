@@ -1,0 +1,22 @@
+{
+  "arxiv_id": "2601.12466v1",
+  "url": "https://arxiv.org/abs/2601.12466v1",
+  "pdf_url": "https://arxiv.org/pdf/2601.12466v1.pdf",
+  "title": "Plasmoid formation via competing lower-hybrid drift and Kelvin-Helmholtz instabilities: A hybrid kinetic-gyrokinetic simulation study",
+  "abstract": "We investigate the nonlinear formation of plasmoids in 2D low-beta current sheets through the interplay between the Kelvin-Helmholtz instability (KHI) and the lower-hybrid drift instability (LHDI). Using a hybrid kinetic-gyrokinetic model-based Super Simple Vlasov (ssV) code with fully kinetic ions and drift-kinetic electrons, we simulate Harris-type current sheets and velocity shear layers with strong cross-field density gradients. Our central hypothesis is that steep density gradients drive LHDI, which can grow faster than KHI and initiate an inverse cascade from kinetic to fluid scales, potentially suppressing KHI. Our simulations confirm that, in thin current sheets, LHDI develops rapidly at the sheet edges and nonlinearly merges into larger-scale magnetic islands before KHI can evolve. These LHDI-driven structures distort the velocity shear and suppress classical KH vortices. In contrast, for thicker current sheets or weaker density gradients, KHI dominates and produces the expected rolled-up vortices and associated plasmoids. These findings demonstrate that LHDI-induced turbulence can act as both a seed and a regulator of plasmoid-generating instabilities, mediating cross-scale energy transfer. This mechanism is relevant to thin boundary layers in space plasmas, such as the solar wind magnetosphere interface, and suggests that microturbulence can govern large-scale magnetic topology during collisionless reconnection.",
+  "authors": [
+    "S. Thatikonda",
+    "F. N. De Oliveira-Lopes",
+    "A. Mustonen",
+    "K. Pommois",
+    "D. Told",
+    "F. Jenko"
+  ],
+  "published": "2026-01-18T16:15:58Z",
+  "updated": "2026-01-18T16:15:58Z",
+  "categories": [
+    "physics.plasm-ph",
+    "astro-ph.SR"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

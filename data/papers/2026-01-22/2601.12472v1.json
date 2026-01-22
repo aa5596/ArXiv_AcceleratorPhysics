@@ -1,0 +1,32 @@
+{
+  "arxiv_id": "2601.12472v1",
+  "url": "https://arxiv.org/abs/2601.12472v1",
+  "pdf_url": "https://arxiv.org/pdf/2601.12472v1.pdf",
+  "title": "Development of a novel compact and fast SiPM-based RICH detector for the future ALICE 3 PID system at LHC",
+  "abstract": "A dedicated R\\&D is ongoing for the charged particle identification system of the \\mbox{ALICE 3} experiment proposed for the LHC Run 5 and beyond. One of the subsystems for the high-energy charged particle identification will be a Ring-Imaging Cherenkov (RICH) detector. The possibility of integrating Cherenkov-based charged particle timing measurements is currently under study. The proposed system is based on a proximity-focusing RICH configuration including an aerogel radiator separated from a SiPM array layer by an expansion gap. A thin high-refractive index window of transparent material, acting as a second Cherenkov radiator, is glued on the SiPM array to enable time-of-flight measurements of charged particles by exploiting the yield of Cherenkov photons in the thin window. We assembled a small-scale prototype instrumented with different Hamamatsu SiPM array sensors with pitches ranging from 1 to 3 mm, readout by custom boards equipped with the front-end Petiroc 2A ASICs to measure charges and times. The primary Cherenkov radiator consisted of a 2 cm thick aerogel tile, while various window materials, including SiO$_2$ and MgF$_2$, were used as secondary Cherenkov radiators. The prototype was successfully tested in a campaign at the CERN PS T10 beam line with pions and protons. This paper summarizes the results achieved in the 2023 test beam campaign.",
+  "authors": [
+    "M. N. Mazziotta",
+    "A. R. Altamura",
+    "L. Congedo",
+    "G. De Robertis",
+    "A. Di Mauro",
+    "J. O. Guerra-Pulidoc",
+    "F. Licciulli",
+    "L. Lorusso",
+    "P. Martinengo",
+    "E. Nappi",
+    "N. Nicassio",
+    "G. Paic",
+    "G. Panzarini",
+    "R. Pillera",
+    "G. Volpe"
+  ],
+  "published": "2026-01-18T16:21:35Z",
+  "updated": "2026-01-18T16:21:35Z",
+  "categories": [
+    "physics.ins-det",
+    "hep-ex"
+  ],
+  "primary_category": "physics.ins-det",
+  "doi": "10.1088/1748-0221/20/01/C01001"
+}

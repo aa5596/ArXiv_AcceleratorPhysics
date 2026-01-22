@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2601.12469v1",
+  "url": "https://arxiv.org/abs/2601.12469v1",
+  "pdf_url": "https://arxiv.org/pdf/2601.12469v1.pdf",
+  "title": "SPARC Tokamak Error Field Expectations and Physics-Based Correction Coil Design",
+  "abstract": "Non-axisymmetric magnetic field coils have been designed to provide efficient error field correction and suppress edge localized modes in SPARC - a compact high-field tokamak that is presently under construction at Commonwealth Fusion Systems. These designs utilize the Generalized Perturbed Equilibrium Code's (GPEC's) representation of the multi-modal, non-axisymmetric plasma response to optimize the geometric coupling between 3D coil arrays and the desired core or edge plasma response. Error field correction coils are designed to couple to the plasma-amplified kink that dominates the drive of core resonances. The maximum allowable error field is projected to SPARC using an empirical scaling that is consistent with linear and nonlinear MHD modeling expectations. Asymmetric construction and assembly tolerances are then balanced against the corresponding kA-turns needed for correction to levels below the allowable limit. These physics-driven coil designs provide confidence in our ability to operate SPARC in new high field tokamak regimes without error field induced locked modes.",
+  "authors": [
+    "N. C. Logan",
+    "C. E. Myers",
+    "R. Sweeney",
+    "C. Paz-Soldan",
+    "M. Pharr",
+    "N. Leuthold",
+    "M. Nickerson",
+    "J. Halpern",
+    "I. Stewart"
+  ],
+  "published": "2026-01-18T16:16:34Z",
+  "updated": "2026-01-18T16:16:34Z",
+  "categories": [
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

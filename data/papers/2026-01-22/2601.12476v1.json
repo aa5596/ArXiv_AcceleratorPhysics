@@ -1,0 +1,33 @@
+{
+  "arxiv_id": "2601.12476v1",
+  "url": "https://arxiv.org/abs/2601.12476v1",
+  "pdf_url": "https://arxiv.org/pdf/2601.12476v1.pdf",
+  "title": "Evidence of energy conversion in weakly collisional plasma during an interplanetary coronal mass ejection",
+  "abstract": "Intervals of enhanced turbulent fluctuations are typically less frequent within the magnetic cloud region of an interplanetary coronal mass ejection (ICME). We investigate two such intervals inside an ICME observed by the \\textit{Wind} spacecraft on 8--9 June 2000 and characterize their associated wave populations. We focus on spectral analysis and plasma instability analysis, using ion-scale normalized magnetic helicity and polarization properties with respect to the background magnetic field $B_0$. In the first interval, the ion-scale normalized magnetic helicity shows a left-handed circularly polarized signature. In the second interval, the left-handed signature persists and an additional high-frequency right-handed population appears. The propagation is approximately parallel to $B_0$. The left-handed fluctuations are compatible with Alfvén ion-cyclotron (AIC) waves, while the right-handed fluctuations are consistent with fast magnetosonic/whistler (FM/W) waves. The ICME plasma accesses resonance conditions that support multiple ion-scale wave modes. Evolving anisotropies in the plasma and the approach to marginal stability allow the coexistence of AIC-like and fast-magnetosonic/whistler-like fluctuations, with enhanced electron heating favoring the growth of the FM/W contribution and strengthening the density--magnetic-field magnitude correlation.",
+  "authors": [
+    "Omkar Dhamane",
+    "Anil Raghav",
+    "Simone Benella",
+    "Kishor Kumbhar",
+    "Raffaella D'Amicis",
+    "Oreste Pezzi",
+    "Utkarsh Sharma",
+    "Ashok Silwal",
+    "Panini Maurya",
+    "Mirko Stumpo",
+    "Kalpesh Ghag",
+    "Ajay Kumar",
+    "Mohit Shah",
+    "Mariyam Karari",
+    "Lynn B. Wilson",
+    "Jia Huang",
+    "Daniele Telloni"
+  ],
+  "published": "2026-01-18T16:40:10Z",
+  "updated": "2026-01-18T16:40:10Z",
+  "categories": [
+    "astro-ph.SR",
+    "physics.plasm-ph"
+  ],
+  "primary_category": "astro-ph.SR"
+}

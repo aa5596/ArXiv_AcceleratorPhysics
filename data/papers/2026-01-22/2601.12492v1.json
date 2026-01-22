@@ -1,0 +1,29 @@
+{
+  "arxiv_id": "2601.12492v1",
+  "url": "https://arxiv.org/abs/2601.12492v1",
+  "pdf_url": "https://arxiv.org/pdf/2601.12492v1.pdf",
+  "title": "Test beam performance of a novel RICH detector with timing capabilities for the future ALICE~3 PID system at LHC",
+  "abstract": "The ALICE Collaboration is proposing a completely new apparatus, ALICE 3, for the LHC Run 5 and beyond. A key subsystem for charged particle identification will be a Ring-Imaging Cherenkov (RICH) detector consisting of an aerogel radiator and a photosensitive surface based on Silicon Photomultiplier (SiPM) arrays in a proximity-focusing configuration. A thin high-refractive index slab of transparent material (window), acting as a second Cherenkov radiator, is glued on the entrance face of the SiPM arrays to achieve precise charged particle timing. Requiring time matching between aerogel Cherenkov photon and track hits leads to an improvement of pattern recognition by discarding the uncorrelated SiPM dark count hits. In this work we present the current status of the R\\&D performed for the ALICE 3 RICH detector prototype and the expected full scale system performance. A special focus will be given to the beam test results obtained with a small-scale prototype instrumented with various array of Hamamatsu SiPMs with pitches ranging from 1 to 3 mm. The Cherenkov radiator consisted of a 2 cm thick aerogel tile with a refractive index of 1.03 at 400 nm wavelength. For timing measurements SiPM arrays coupled with two different window materials (SiO$_2$ and MgF$_2$) were used. The prototype was successfully tested in beam test campaigns at the CERN PS T10 beam line. The data were collected with a complete chain of front-end and readout electronics based on the Petiroc 2A and Radioroc 2 together with a picoTDC to measure charges and times. We measured a charged particle detection efficiency above 99\\% and a single photon angular resolution better than 4.2 mrad at the Cherenkov angle saturation with a time resolution better than 70 ps for charged particles.",
+  "authors": [
+    "M. N. Mazziotta",
+    "L. Congedo",
+    "G. De Robertis",
+    "A. Di Mauro",
+    "F. Licciulli",
+    "L. Lorusso",
+    "P. Martinengo",
+    "E. Nappi",
+    "N. Nicassio",
+    "G. Panzarini",
+    "R. Pillera",
+    "G. Volpe"
+  ],
+  "published": "2026-01-18T17:04:48Z",
+  "updated": "2026-01-18T17:04:48Z",
+  "categories": [
+    "physics.ins-det",
+    "hep-ex"
+  ],
+  "primary_category": "physics.ins-det",
+  "doi": "10.1088/1748-0221/20/05/C05038"
+}

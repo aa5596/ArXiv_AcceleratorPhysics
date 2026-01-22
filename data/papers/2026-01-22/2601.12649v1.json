@@ -1,0 +1,24 @@
+{
+  "arxiv_id": "2601.12649v1",
+  "url": "https://arxiv.org/abs/2601.12649v1",
+  "pdf_url": "https://arxiv.org/pdf/2601.12649v1.pdf",
+  "title": "3D atomistic imaging of polymer nanocomposites with Atom Probe Tomography: experimental methodology, preliminary results and future outlook",
+  "abstract": "The use of polymer nanocomposites as gas barrier materials has seen increasing interest, including applications involving hydrogen transport and storage. Better understanding of gas transport through those polymeric systems requires 3D nanoscale detection of distributions and the possible trapping of gas molecules within nanoparticles and polymer/nanoparticle interfaces While atom probe tomography (APT) offers promising means for such nanoscale characterisation, its use for polymers has been mainly limited to thin organic layers deposited onto substrates or pre-fabricated metal needle shaped specimens. This work provides the very first application of APT to bulk polymer nanocomposites. Particularly, site specific atom probe sample preparation by Focused Ion Beam (FIB) liftout has been shown for the first time in a model system of hexagonal boron nanoparticles within a PVDF polymer matrix, using a variety of FIB workflows including Xe FIB, Ga FIB, cryogenic Ga FIB and deuterium charging. Mass spectra from the bulk polymer and the nanoparticle were collected using pulsed laser atom probe using standard conditions and compared. Several challenges encountered during this research including damage of the polymeric matrix during sample preparation were extensively discussed in this paper. Once those challenges have been resolved (e.g. by developing site specific sample preparation protocols), the application of APT to polymer nanocomposites can open new options for nanoscale characterisation of those systems.",
+  "authors": [
+    "James O. Douglas",
+    "Reza Salehiyan",
+    "Aparna Saksena",
+    "Tim M. Schwarz",
+    "Baptiste Gault",
+    "Stella Pedrazzini",
+    "Emilio Martinez-Paneda",
+    "Łukasz Figiel"
+  ],
+  "published": "2026-01-19T01:46:32Z",
+  "updated": "2026-01-19T01:46:32Z",
+  "categories": [
+    "cond-mat.mtrl-sci",
+    "physics.ins-det"
+  ],
+  "primary_category": "cond-mat.mtrl-sci"
+}

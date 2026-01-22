@@ -1,0 +1,34 @@
+{
+  "arxiv_id": "2601.12511v1",
+  "url": "https://arxiv.org/abs/2601.12511v1",
+  "pdf_url": "https://arxiv.org/pdf/2601.12511v1.pdf",
+  "title": "Beam test studies for a SiPM-based RICH detector prototype for the future ALICE~3 experiment",
+  "abstract": "The ALICE Collaboration is proposing a completely new apparatus, ALICE~3, for the LHC Runs~5 and beyond. In this context, a key subsystem for high-energy charged particle identification will be a proximity-focusing ring-imaging Cherenkov detector using aerogel as radiator and silicon photomultipliers (SiPMs) as photon sensors. We assembled a small-scale prototype instrumented with Hamamatsu S13352 and S13361-3075AE-08 SiPM arrays, readout by custom boards equipped with front-end Petiroc 2A ASICs. The Cherenkov radiator consisted of a 2 cm thick hydrophobic aerogel tile with a refractive index of 1.03 separated from the SiPM plane by a 23 cm expansion gap. The prototype was successfully tested in a campaign at the CERN PS T10 beam line with the goal of validating the design bRICH specifications in terms to achieve the target separation power. We measured a single photon angular resolution of 3.8~mrad at the Cherenkov angle saturation value of 242~mrad, as well as the expected scaling of the angular resolution with the increasing number of detected photons. We also studied the contribution of uncorrelated and correlated background sources with respect to the signal and proved the effectiveness of time matching between charged tracks and photon hits to achieve efficient suppression of the SiPM dark count rate background. In this paper, the detector concept, the description of the tested prototype layout and the main beam test results are reported.",
+  "authors": [
+    "A. R. Altamura",
+    "L. Congedo",
+    "G. De Robertis",
+    "D. Di Bari",
+    "A. Di Mauro",
+    "M. Giliberti",
+    "J. O. Guerra-Pulido",
+    "F. Licciulli",
+    "L. Lorusso",
+    "P. Martinengo",
+    "M. N. Mazziotta",
+    "E. Nappi",
+    "N. Nicassio",
+    "G. Paic",
+    "G. Panzarini",
+    "R. Pillera",
+    "G. Volpe"
+  ],
+  "published": "2026-01-18T17:49:47Z",
+  "updated": "2026-01-18T17:49:47Z",
+  "categories": [
+    "physics.ins-det",
+    "hep-ex"
+  ],
+  "primary_category": "physics.ins-det",
+  "doi": "10.1140/epjc/s10052-025-14287-7"
+}

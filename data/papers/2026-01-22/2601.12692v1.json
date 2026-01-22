@@ -1,0 +1,16 @@
+{
+  "arxiv_id": "2601.12692v1",
+  "url": "https://arxiv.org/abs/2601.12692v1",
+  "pdf_url": "https://arxiv.org/pdf/2601.12692v1.pdf",
+  "title": "Dimensional Analysis Approach to Experiments in Z pinch Devices",
+  "abstract": "The physical behavior of discharges in Z pinch devices can be completely deciphered in terms of only three dimensionless parameters. These parameters can be arranged in a way that draw a surface in 3D space. This surface compiles all the accessible information on the macroscopic physical behavior of each possible Z pinch discharge. We analyze the practical problems the drawing of this surface encounters and in view of the situation, we devote the remainder of the article to outline a feasible method for estimating the plasma temperature in Z pinch discharges.",
+  "authors": [
+    "Miguel Cárdenas"
+  ],
+  "published": "2026-01-19T03:29:15Z",
+  "updated": "2026-01-19T03:29:15Z",
+  "categories": [
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}
