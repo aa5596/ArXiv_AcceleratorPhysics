@@ -1,0 +1,27 @@
+{
+  "arxiv_id": "2602.07060v1",
+  "url": "https://arxiv.org/abs/2602.07060v1",
+  "pdf_url": "https://arxiv.org/pdf/2602.07060v1.pdf",
+  "title": "U-Net Based Image Enhancement for Short-time Muon Scattering Tomography",
+  "abstract": "Muon Scattering Tomography (MST) is a promising non-invasive inspection technique, yet the practical application of short-time MST is hindered by poor image quality due to limited muon flux. To address this limitation, we propose a U-Net-based framework trained on Point of Closest Approach (PoCA) images reconstructed with simulation MST data to enhance image quality. When applied to experimental MST data, the framework significantly improves image quality, increasing the Structural Similarity Index Measure (SSIM) from 0.7232 to 0.9699 and decreasing the Learned Perceptual Image Patch Similarity (LPIPS) from 0.3604 to 0.0270. These results demonstrate that our method can effectively enhance low-statistics MST images, thereby paving the way for the practical deployment of short-time MST.",
+  "authors": [
+    "Haochen Wang",
+    "Pei Yu",
+    "Liangwen Chen",
+    "Weibo He",
+    "Yu Zhang",
+    "Yuhong Yu",
+    "Xueheng Zhang",
+    "Lei Yang",
+    "Zhiyu Sun"
+  ],
+  "published": "2026-02-05T10:11:15Z",
+  "updated": "2026-02-05T10:11:15Z",
+  "categories": [
+    "eess.IV",
+    "cs.CV",
+    "physics.ins-det",
+    "physics.med-ph"
+  ],
+  "primary_category": "eess.IV"
+}
