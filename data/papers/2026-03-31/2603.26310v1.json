@@ -1,0 +1,30 @@
+{
+  "arxiv_id": "2603.26310v1",
+  "url": "https://arxiv.org/abs/2603.26310v1",
+  "pdf_url": "https://arxiv.org/pdf/2603.26310v1.pdf",
+  "title": "Applications of a novel model-based real-time observer for electron density profile control experiments in TCV",
+  "abstract": "Real-time control of tokamak plasmas encompasses sustaining a high-performance stationary state, avoiding disruptions, and managing ramp-up and ramp-down phases. Real-time estimation and control of electron density is fundamental for monitoring and controlling particle confinement, heating efficiency, exhaust conditions, impurity concentration, fusion power, and proximity to the density limit. Building on the integration of a multi-rate observer based on RAPDENS into the TCV control system, this study explores its application to density profile control for detachment studies, ECH, and NBH L-mode plasmas, and high-performance H-mode scenarios. TCV experiments demonstrate the observer's capability to support detachment studies in complex divertor geometries, controlling the line-averaged density within the last-closed flux surface while rejecting interferometer pick-up from Scrap-Off Layer density in the divertor. The estimated density profile enables local control of central density in ECH/NBH L-mode plasmas below cutoff conditions; heating-induced profile peaking modification is treated as a disturbance to the control task. Real-time estimation of time-varying transport coefficients, such as the pinch velocity-to-diffusivity ratio, improves model predictive capabilities, and the underlying turbulent transport is characterized via linear and non-linear gyrokinetic simulations with GENE. Simultaneous control of edge-normalized density and toroidal beta in H-mode plasmas is then demonstrated, yielding good confinement, scenario reproducibility, and a diagnostics-independent edge-density metric, while avoiding density limits and diagnostic faults propagation.",
+  "authors": [
+    "F. Pastore",
+    "O. Sauter",
+    "F. Felici",
+    "D. Kropackova",
+    "A. Balestri",
+    "C. Galperti",
+    "O. Kudlacek",
+    "K. Lee",
+    "A. Pau",
+    "T. Ravensbergen",
+    "S. Van Mulders",
+    "B. Vincent",
+    "N. M. T. Vu",
+    "the TCV team",
+    "the EUROfusion Tokamak Exploitation Team"
+  ],
+  "published": "2026-03-27T11:29:35Z",
+  "updated": "2026-03-27T11:29:35Z",
+  "categories": [
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}
