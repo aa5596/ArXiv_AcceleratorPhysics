@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2510.06665v4",
+  "url": "https://arxiv.org/abs/2510.06665v4",
+  "pdf_url": "https://arxiv.org/pdf/2510.06665v4.pdf",
+  "title": "Doping of a Borexino-like Liquid Scintillator with Tellurium-Diols",
+  "abstract": "One promising approach for future neutrinoless double beta decay ($0νββ$) searches is the incorporation of candidate isotopes into liquid scintillator detectors. In this work, a sample of the high-performance 1,2,4-trimethylbenzene-based liquid scintillator used in the Borexino experiment was loaded with different concentrations of Te-diol compounds. To realize the loading, a modified water-free synthesis procedure in a non-acidic organic environment at room temperature was employed. The loaded scintillator mixtures were characterized with respect to their emission spectra, optical absorbance, light yield, and scintillation time profiles under $α$ excitation. Within the experimental uncertainties, only comparatively small changes in the spectral emission shape and optical transmission were observed for Te-loadings up to 2\\%. At the same time, a systematic reduction of the scintillation light yield with increasing Te concentration was measured. At 1\\% Te-loading, an estimated light yield of approximately 8400\\,photons/MeV$_{\\mathrm{ee}}$ was obtained. Furthermore, the scintillation time profile measurements indicate systematically shorter effective decay time constants for increasing Te-loading, consistent with enhanced non-radiative de-excitation processes introduced by the Te-diol complexes. Overall, the results demonstrate that the investigated loading technique can be successfully applied to a pseudocumene-based liquid scintillator while preserving the principal scintillation characteristics of the system.",
+  "authors": [
+    "Hans Th. J. Steiger",
+    "Marco Beretta",
+    "Manuel Böhles",
+    "Alberto Garfagnini",
+    "Arsenii Gavrikov",
+    "Paolo Lombardi",
+    "Kai Loo",
+    "Elena Pasini",
+    "Benedetta Rasera",
+    "Andrea Serafini",
+    "Michael Wurm"
+  ],
+  "published": "2025-10-08T05:32:35Z",
+  "updated": "2026-05-11T02:50:33Z",
+  "categories": [
+    "physics.ins-det"
+  ],
+  "primary_category": "physics.ins-det"
+}

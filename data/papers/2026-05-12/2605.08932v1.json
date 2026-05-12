@@ -1,0 +1,19 @@
+{
+  "arxiv_id": "2605.08932v1",
+  "url": "https://arxiv.org/abs/2605.08932v1",
+  "pdf_url": "https://arxiv.org/pdf/2605.08932v1.pdf",
+  "title": "A study of multicavity concept applied to hexagonal coaxial haloscopes",
+  "abstract": "In this work, a study on the development of scalable multicavity architectures for axion haloscopes, based on a hexagonal coaxial geometry operating at $30$ GHz frequencies, is presented. To enhance the scanning rate and sensitivity within the limited volume of experimental magnet bores, the transition from a baseline single-cavity design to dual and triple-subcavity configurations is investigated. A novel tuning mechanism based on the rotation of one or two inner hexagonal prisms is implemented, providing a robust method to shift the resonant frequency while maintaining high form and quality factors. The results show that the triple-subcavity design achieves an improvement of $\\times3$ over the single-cavity baseline. The scaling potential of quad-subcavity architectures under a strict radial constraint of $25$ mm is further explored. Theoretical analysis confirms that a four-subcavity system is feasible within a certain radial clearance, provided that wall thicknesses are strategically optimised to ensure frequency stability. The practical challenges associated with mode splitting, manufacturing tolerances, and thermal management in these high-order systems are also discussed. This one-port multicavity approach offers a viable path toward increasing the sensitive volume of haloscopes, enabling more efficient exploration of the axion dark matter parameter space in high-frequency regimes.",
+  "authors": [
+    "J. M. García-Barceló",
+    "Jose R. Navarro-Madrid",
+    "Alejandro Díaz-Morcillo"
+  ],
+  "published": "2026-05-09T13:06:00Z",
+  "updated": "2026-05-09T13:06:00Z",
+  "categories": [
+    "hep-ex",
+    "physics.ins-det"
+  ],
+  "primary_category": "hep-ex"
+}

@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "2605.09980v1",
+  "url": "https://arxiv.org/abs/2605.09980v1",
+  "pdf_url": "https://arxiv.org/pdf/2605.09980v1.pdf",
+  "title": "Physical design of cold neutron direct geometry inelastic spectrometer at China Spallation Neutron Source",
+  "abstract": "The Cold-Neutron Inelastic Spectrometer (CNIS) is a direct-geometry, time-of-flight instrument designed for China Spallation Neutron Source (CSNS) and optimized to probe low-energy lattice and magnetic excitations. The instrument integrates a long flight path with bent supermirror guides and an elliptical-focusing geometry to suppress high-energy background while improving cold-neutron delivery to the sample. A flexible multi-disk chopper suite provides pulse shaping, band selection and monochromatization, enabling multi-$E_\\textrm{i}$ operation. Modular features, including an interchangeable high-focusing guide insert, radial collimation and a vacuum ``airbox'' for simplified sample-environment integration, enhance signal-to-noise and operational versatility. Through combined flight-path and chopper optimization, CNIS achieves excellent routine-mode energy resolution and can reach approximately $\\sim 1\\%$ in a dedicated high-resolution configuration. CNIS is planned to commence user operation in 2029, offering a highly flexible platform for cold-neutron inelastic scattering studies.",
+  "authors": [
+    "Qian Zhao",
+    "Xiaowen Zhang",
+    "Songwen Xiao",
+    "Wei Luo",
+    "Zecong Qin",
+    "Zhuang Xu",
+    "Yu Feng",
+    "Xin Tong"
+  ],
+  "published": "2026-05-11T04:45:16Z",
+  "updated": "2026-05-11T04:45:16Z",
+  "categories": [
+    "physics.app-ph",
+    "physics.ins-det"
+  ],
+  "primary_category": "physics.app-ph",
+  "doi": "10.1063/5.0321019"
+}
