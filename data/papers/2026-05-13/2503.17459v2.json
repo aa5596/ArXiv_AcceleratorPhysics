@@ -1,0 +1,34 @@
+{
+  "arxiv_id": "2503.17459v2",
+  "url": "https://arxiv.org/abs/2503.17459v2",
+  "pdf_url": "https://arxiv.org/pdf/2503.17459v2.pdf",
+  "title": "Real-time diffuse correlation spectroscopy with a chip-based correlator for measuring human cerebral blood flow and brain function",
+  "abstract": "Diffuse correlation spectroscopy (DCS) is a noninvasive optical technique that probes microvascular blood flow in deep tissues. Here, we present and validate a new on-chip hardware correlator for high-speed DCS measurements. The correlator is embedded in a custom-built 512 x 512 single-photon avalanche diode (SPAD) array named ATLAS, which computes intensity autocorrelation functions directly on-chip at a sampling rate of 116 Hz - the fastest DCS acquisition reported to date. Unlike conventional DCS systems that suffer from low light throughput and therefore cannot resolve cardiac pulsations at source-detector separations (rho) beyond 30 mm, our massively parallel on-chip architecture computes autocorrelations within each macropixel, eliminating the data-throughput bottleneck. This enables high-SNR, real-time detection of pulsatile blood flow even at rho = 50 mm on the human forehead. In phantom experiments at rho = 25 mm, ATLAS-DCS achieves a 12-fold improvement in signal-to-noise ratio over a conventional single-channel DCS instrument while operating at 116 Hz. In human subjects, we resolve functional hyperemia during a mental arithmetic task at rho = 30 mm. Furthermore, we integrate ATLAS DCS with a frequency-domain near-infrared spectroscopy (FD-NIRS) module, enabling simultaneous monitoring of blood flow and tissue oxygenation. With this combined system, we can concurrently resolve core hemodynamic parameters. The on-chip parallelized DCS design substantially improves detection speed, depth sensitivity, and real-time capability, paving the way for wearable, high-speed cerebral blood flow monitoring in both clinical and research settings.",
+  "authors": [
+    "Quan Wang",
+    "Yuanyuan Hua",
+    "Chenxu Li",
+    "Zhizheng Yuan",
+    "Jing Wang",
+    "Ahmet T. Erdogan",
+    "Hanqing Chen",
+    "Xunting Huang",
+    "Maciej Wojtkiewicz",
+    "Alistair Gorman",
+    "Mingliang Pan",
+    "Yuanzhe Zhang",
+    "Yining Wang",
+    "Neil Finlayson",
+    "Renzhe Bi",
+    "Robert K. Henderson",
+    "Zhen Yuan",
+    "David Day-Uei Li"
+  ],
+  "published": "2025-03-21T18:13:27Z",
+  "updated": "2026-05-09T07:35:54Z",
+  "categories": [
+    "physics.ins-det",
+    "physics.med-ph"
+  ],
+  "primary_category": "physics.ins-det"
+}

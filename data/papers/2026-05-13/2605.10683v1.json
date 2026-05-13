@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2605.10683v1",
+  "url": "https://arxiv.org/abs/2605.10683v1",
+  "pdf_url": "https://arxiv.org/pdf/2605.10683v1.pdf",
+  "title": "Construction, commissioning, and beam test of a pilot 3D-projection opaque water-based liquid scintillator detector",
+  "abstract": "We report on the design, construction, and beam test of a pilot three-dimensional projection detector based on opaque water-based liquid scintillator (oWbLS). The detector consists of an $8 \\times 8 \\times 16$ cm$^3$ acrylic vessel instrumented with three orthogonal planes of Kuraray Y11 multi-clad wavelength-shifting fibers read out by Hamamatsu multi-pixel photon counters. The readout electronics are based on the CITIROC front-end boards developed for the WAGASCI and SuperFGD detectors of the T2K experiment. The detector was filled with oWbLS and tested with cosmic rays and proton beams of 50, 100, 250, and 500 MeV kinetic energy at the NASA Space Radiation Laboratory at Brookhaven National Laboratory. We present three-dimensional event displays of cosmic muon and proton beam candidates, and a study of transverse light confinement via radial charge distribution measurements. The measured data show tighter light confinement than a Geant4 simulation with a 2 cm scattering length, placing the effective scattering length well below 2 cm and confirming effective optical confinement of scintillation light in the oWbLS medium. A first measurement of the hit-level timing resolution using 500 MeV proton beam data yields a single-channel timing resolution of $σ_t \\approx 0.17$--$0.28$ ns with good photostatistics. These results demonstrate the viability of the 3D-projection oWbLS technology as a scalable, fully-active detector concept for next-generation particle physics experiments.",
+  "authors": [
+    "H. Che",
+    "M. V. Diwan",
+    "S. Gokhale",
+    "P. Kumar",
+    "C. Reyes",
+    "R. Rosero",
+    "J. J. Wang",
+    "G. Yang",
+    "M. Yeh"
+  ],
+  "published": "2026-05-11T14:59:55Z",
+  "updated": "2026-05-11T14:59:55Z",
+  "categories": [
+    "physics.ins-det",
+    "hep-ex",
+    "nucl-ex"
+  ],
+  "primary_category": "physics.ins-det"
+}

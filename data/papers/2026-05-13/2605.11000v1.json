@@ -1,0 +1,37 @@
+{
+  "arxiv_id": "2605.11000v1",
+  "url": "https://arxiv.org/abs/2605.11000v1",
+  "pdf_url": "https://arxiv.org/pdf/2605.11000v1.pdf",
+  "title": "The ICESPICE demonstrator for particle/$γ$-$e^{-}$ coincidence experiments at Florida State University",
+  "abstract": "The Internal Conversion Electron SPectrometer In Coincidence Experiments (ICESPICE) demonstrator has been developed at Florida State University to enable particle/gamma-electron coincidence measurements in low-energy nuclear structure studies. ICESPICE is based on the mini-orange spectrometer concept and features a modular design using commercially available permanent magnets arranged in toroidal configurations to transport internal conversion electrons to room-temperature PIPS detectors while suppressing background from undesired particles. The system was optimized through SolidWorks modeling, COMSOL magnetic field simulations, and Geant4 particle tracking to maximize the magnetic transmission probability for electrons around 1 MeV. Commissioning tests using a calibrated 207Bi source demonstrated the performance of multiple spectrometer-detector configurations. Coincidence measurements between CeBr3 detectors from the CeBrA array and PIPS detectors revealed clear gamma-electron correlations. The first in-beam particle-electron measurements using ICESPICE were performed with the Super-Enge Split-Pole Spectrograph (SE-SPS) in the 208Pb(d,t)207Pb reaction. Prompt coincidences between tritons detected with the SE-SPS and electrons detected with ICESPICE were observed. The presented results show that ICESPICE is a promising ancillary detector system for in-beam internal conversion electron spectroscopy at the FSU SE-SPS.",
+  "authors": [
+    "A. L. Conley",
+    "M. Spieker",
+    "R. Aggarwal",
+    "L. T. Baby",
+    "J. Davis",
+    "J. Esparza",
+    "I. Hay",
+    "B. Kelly",
+    "T. Kirk",
+    "M. I. Khawaja",
+    "R. Mahajan",
+    "S. T. Marley",
+    "M. Mestayer",
+    "A. B. Morelock",
+    "A. Peters",
+    "A. M. Ring",
+    "J. Sheridan",
+    "V. Sitaraman",
+    "T. Stuck",
+    "I. Wiedenhöver"
+  ],
+  "published": "2026-05-09T21:17:59Z",
+  "updated": "2026-05-09T21:17:59Z",
+  "categories": [
+    "physics.ins-det",
+    "nucl-ex"
+  ],
+  "primary_category": "physics.ins-det",
+  "doi": "10.1016/j.nima.2026.171389"
+}

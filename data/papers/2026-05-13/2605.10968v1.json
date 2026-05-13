@@ -1,0 +1,29 @@
+{
+  "arxiv_id": "2605.10968v1",
+  "url": "https://arxiv.org/abs/2605.10968v1",
+  "pdf_url": "https://arxiv.org/pdf/2605.10968v1.pdf",
+  "title": "Geometry-enabled magnetic resilience in superconducting nanowire single-photon detectors",
+  "abstract": "While magnetic fields and superconductors are both central to classical and quantum technologies, their combined use is often challenging, as magnetic fields significantly affect superconducting device performance. In superconducting nanowire single-photon detectors (SNSPDs), magnetic fields drastically reduce detection efficiencies, hampering their application in magnetically-active classical and quantum photonics. Here, we systematically characterize the performance of NbTiN SNSPDs under magnetic fields and show the enhancement of their intrinsic detection efficiency (IDE) at lower bias currents and its suppression at higher currents. This leads to SNSPD performance degradation through reduced or disappearing saturation plateaus. We show that the magnitude of this degradation is highly dependent on nanowire width and demonstrate width-optimized SNSPDs with saturating IDE for a wide range of photon energies under application-relevant magnetic fields. Minimizing degradation in superconducting devices under magnetic fields enables applications like detector-integrated spin-optic and atomic quantum processors, high-sensitivity magnetometry, and quantum transduction.",
+  "authors": [
+    "Marinus C. van der Maas",
+    "Lin Jin",
+    "Ilhan Tunç",
+    "Raymond Vermeulen",
+    "Henri Ervasti",
+    "Ravi Gopie",
+    "Jan Riegelmeyer",
+    "Marco Colangelo",
+    "Ryoichi Ishihara",
+    "Carlos Errando-Herranz"
+  ],
+  "published": "2026-05-08T14:11:51Z",
+  "updated": "2026-05-08T14:11:51Z",
+  "categories": [
+    "cond-mat.supr-con",
+    "physics.app-ph",
+    "physics.ins-det",
+    "physics.optics",
+    "quant-ph"
+  ],
+  "primary_category": "cond-mat.supr-con"
+}

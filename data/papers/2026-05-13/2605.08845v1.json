@@ -1,0 +1,19 @@
+{
+  "arxiv_id": "2605.08845v1",
+  "url": "https://arxiv.org/abs/2605.08845v1",
+  "pdf_url": "https://arxiv.org/pdf/2605.08845v1.pdf",
+  "title": "A Modular Zero-Dead-Time Data Acquisition and Real-Time GPU Processing Platform for High Throughput Physics Experiments",
+  "abstract": "High-throughput physics experiments require efficient and increasingly complex real-time processing. This paper presents a modular, software-defined platform combining high-bandwidth PCIe digitizers with consumer GPUs to achieve continuous, zero-dead-time data acquisition. Utilizing NVIDIA CUDA, the system provides a scalable pipeline for real-time fast Fourier transforms and statistical averaging. Benchmarks demonstrate that the platform can sustain continuous processing at sampling rates up to 500 MSa/s, effectively managing data throughputs of 1 GB/s. To validate the in-situ zero-dead-time architecture, end-to-end phase continuity tests were conducted, constraining fractional data loss to below $10^{-12}$. Furthermore, long-term system stability was demonstrated through an uninterrupted one-month data acquisition run. In its current deployment for the WISPLC dark matter experiment, the platform operates at 124 MSa/s with a resolution bandwidth of 0.1 Hz. This implementation enabled a significant reduction in data storage requirements using real-time spectral averaging. The callback-driven software architecture, multi-GPU workload distribution, and custom hardware shielding solutions are detailed, establishing this platform as a flexible and cost-effective alternative to traditional hardware-based pipelines.",
+  "authors": [
+    "Toma-Stefan Cezar",
+    "Marios Maroudas",
+    "Dieter Horns"
+  ],
+  "published": "2026-05-09T09:57:19Z",
+  "updated": "2026-05-09T09:57:19Z",
+  "categories": [
+    "physics.ins-det",
+    "hep-ex"
+  ],
+  "primary_category": "physics.ins-det"
+}

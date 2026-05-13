@@ -1,0 +1,25 @@
+{
+  "arxiv_id": "2605.09174v1",
+  "url": "https://arxiv.org/abs/2605.09174v1",
+  "pdf_url": "https://arxiv.org/pdf/2605.09174v1.pdf",
+  "title": "Ortho-Positronium Three-Photon Decays: Physics Constraints and a Closed-Form Energy Method for Annihilation Vertex Reconstruction",
+  "abstract": "We examine the physical foundations of orthopositronium three-photon decay in the context of annihilation vertex reconstruction, focusing on how energy-momentum conservation constrains the space of physically admissible solutions. Finally, we provide a closed-form analytical derivation of an energy-based vertex reconstruction algorithm.",
+  "authors": [
+    "L. Raczyński",
+    "W. Krzemień",
+    "A. Coussat",
+    "M. Bała",
+    "B. C. Hiesmayr",
+    "K. Klimaszewski",
+    "M. Obara",
+    "R. Y. Shopa"
+  ],
+  "published": "2026-05-09T21:25:15Z",
+  "updated": "2026-05-09T21:25:15Z",
+  "categories": [
+    "hep-ph",
+    "physics.ins-det",
+    "physics.med-ph"
+  ],
+  "primary_category": "hep-ph"
+}

@@ -1,0 +1,18 @@
+{
+  "arxiv_id": "2605.11018v1",
+  "url": "https://arxiv.org/abs/2605.11018v1",
+  "pdf_url": "https://arxiv.org/pdf/2605.11018v1.pdf",
+  "title": "Correction of STEM Distortions",
+  "abstract": "The manuscript considers Scanning Transmission Electron Microscopy (STEM) images and derives transformations needed to correct various distortions occurring during scanning. These transformations form the basis for the correction algorithms implemented in the CEOS Panta Rhei and TEMDM software. The manuscript is intended as a technical reference and is meant to be published only on arXiv rather than in peer-reviewed journals.",
+  "authors": [
+    "Pavel Potapov",
+    "Giulio Guzzinati"
+  ],
+  "published": "2026-05-10T15:16:02Z",
+  "updated": "2026-05-10T15:16:02Z",
+  "categories": [
+    "physics.ins-det",
+    "physics.data-an"
+  ],
+  "primary_category": "physics.ins-det"
+}

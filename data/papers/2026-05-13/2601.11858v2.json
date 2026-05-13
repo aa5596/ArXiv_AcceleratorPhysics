@@ -1,0 +1,17 @@
+{
+  "arxiv_id": "2601.11858v2",
+  "url": "https://arxiv.org/abs/2601.11858v2",
+  "pdf_url": "https://arxiv.org/pdf/2601.11858v2.pdf",
+  "title": "Study of the energy calibration of the DEAP-3600 detector using $^{22}\\mathrm{Na}$ source data and simulations",
+  "abstract": "DEAP-3600 is a single-phase liquid argon (LAr) direct-detection dark matter experiment operating 2 km underground at SNOLAB (Sudbury, Canada). The detector consists of 3.3 tons of LAr contained in a spherical acrylic vessel. At a WIMP mass of 100 GeV, DEAP-3600 has a projected sensitivity of $10^{-46}\\,\\mathrm{cm}^{2}$ for the spin-independent elastic scattering cross section of WIMPs. Radioactive sources have been used for the energy calibration and to test the detector performance. One of the most effective calibration runs has been taken with a $^{22}\\mathrm{Na}$ source deployed in a tube located around the DEAP-3600 steel shell. The simultaneous emission of three $γ$'s by the source provides an excellent tagging for the $^{22}\\mathrm{Na}$ decay. The results concerning the energy response of the detector and the agreement between data and Monte Carlo simulations in DEAP-3600 are investigated in this study.",
+  "authors": [
+    "Ludovico Luzzi"
+  ],
+  "published": "2026-01-17T01:00:26Z",
+  "updated": "2026-05-11T00:23:33Z",
+  "categories": [
+    "physics.ins-det"
+  ],
+  "primary_category": "physics.ins-det",
+  "doi": "10.1088/1748-0221/19/05/C05030"
+}
