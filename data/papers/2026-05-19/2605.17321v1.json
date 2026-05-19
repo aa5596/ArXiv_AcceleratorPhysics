@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2605.17321v1",
+  "url": "https://arxiv.org/abs/2605.17321v1",
+  "pdf_url": "https://arxiv.org/pdf/2605.17321v1.pdf",
+  "title": "Role of Magnetic Field in the Redistribution of Turbulence from Large-Scale Structures to Small-Scale Fluctuations",
+  "abstract": "Magnetized plasmas with equilibrium density gradients support drift-wave turbulence, which is often regulated by self-generated zonal flows. In this work, we experimentally examine the effect of increasing the magnetic field on turbulence characteristics in a linear plasma device. As the magnetic field is increased from 600 to 1000 G, zonal flow is suppressed while the mean flow increases. Spectral analysis of density and potential fluctuations shows a redistribution of power from low-frequency (0.1-1 kHz) to high-frequency (1-300 kHz) components, along with an increase in the spectral slope and the ratio PHF/PLF. This change is linked to a reduction in Reynolds stress due to the loss of correlation between radial and poloidal velocity fluctuations, which possibly weakens the drive for zonal flow generation. Similar behavior is observed near the peak gradient region, also indicating its global nature. The present results suggest a transition from a zonal-flow-dominated regime to a state dominated by smaller-scale fluctuations, possibly influenced by mean flow shear. These findings highlight how the magnetic field redistributes spectral energy across frequency scales in drift-wave turbulent plasmas",
+  "authors": [
+    "Tanmay Karmakar",
+    "Rosh Roy",
+    "Lavkesh Lachhvani",
+    "Raju Daniel",
+    "Bhoomi Khodiyar",
+    "Prabal K. Chattopadhyay",
+    "Abhijit Sen",
+    "Sayak Bose"
+  ],
+  "published": "2026-05-17T08:29:10Z",
+  "updated": "2026-05-17T08:29:10Z",
+  "categories": [
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

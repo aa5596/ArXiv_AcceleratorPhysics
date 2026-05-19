@@ -1,0 +1,20 @@
+{
+  "arxiv_id": "2605.16663v1",
+  "url": "https://arxiv.org/abs/2605.16663v1",
+  "pdf_url": "https://arxiv.org/pdf/2605.16663v1.pdf",
+  "title": "Production of Intense Spin-Polarized Beams of Hydrogen Isotopes by Charge Transfer with High Density Raman-Pumped Alkali-Metal Vapors",
+  "abstract": "It should be possible to generate multi-ampere spin-polarized beams of hydrogen isotopes by repeated charge-transfer collisions in highly spin-polarized Cs vapor. Estimates suggest that off-resonant Raman pumping with kW scale narrowband tunable light at 895 nm should be able to produce a 1 m long, 10 cm diameter volume of 80\\% polarized Cs vapor. The charge transfer collisions between the Cs and hydrogen result in a high nuclear spin-polarized negative ion beam that can be subsequently accelerated to high energy, neutralized, and be used to heat fusion plasmas with resulting increases in the fusion conversion efficiency.",
+  "authors": [
+    "Thad G. Walker",
+    "Cary B. Forest",
+    "Deniz D. Yavuz"
+  ],
+  "published": "2026-05-15T22:01:28Z",
+  "updated": "2026-05-15T22:01:28Z",
+  "categories": [
+    "physics.atom-ph",
+    "nucl-ex",
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.atom-ph"
+}

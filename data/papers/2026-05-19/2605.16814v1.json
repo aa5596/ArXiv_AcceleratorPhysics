@@ -1,0 +1,18 @@
+{
+  "arxiv_id": "2605.16814v1",
+  "url": "https://arxiv.org/abs/2605.16814v1",
+  "pdf_url": "https://arxiv.org/pdf/2605.16814v1.pdf",
+  "title": "Critical velocity-space mode scalings in linear and nonlinear Landau damping for the Vlasov--Poisson system",
+  "abstract": "The velocity-space resolution required to accurately simulate kinetic phenomena in the 1D-1V Vlasov--Poisson system is generally not known a priori. In this work, we determine the upper bound on the resolution requirement for linear and nonlinear Landau damping mediated by collisional diffusion, deriving analytical scalings for the critical Fourier and Hermite velocity-space mode numbers using a unified cascade-balance argument. The resulting scalings depend on the bounce frequency $ω_b$, wavenumber $kλ_D$, and electron-electron collisional frequency $ν$. We validate these predictions against an ensemble of 800 Vlasov--Fokker--Planck simulations, finding strong agreement with the predicted $ω_b$ and $ν$ dependencies.",
+  "authors": [
+    "Noah K. Guberman",
+    "J. Coughlin",
+    "A. S. Joglekar"
+  ],
+  "published": "2026-05-16T05:05:19Z",
+  "updated": "2026-05-16T05:05:19Z",
+  "categories": [
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

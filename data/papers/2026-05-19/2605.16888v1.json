@@ -1,0 +1,21 @@
+{
+  "arxiv_id": "2605.16888v1",
+  "url": "https://arxiv.org/abs/2605.16888v1",
+  "pdf_url": "https://arxiv.org/pdf/2605.16888v1.pdf",
+  "title": "Finite-Temperature Spin Exchange-Correlation Kernel of the Uniform Electron Gas",
+  "abstract": "The finite-temperature spin response of the uniform electron gas (UEG) is a fundamental reference for spin-polarized and magnetized electron liquids, including warm dense matter (WDM), yet it remains far less constrained than charge response. Using variational diagrammatic Monte Carlo, we compute the static spin exchange--correlation (XC) kernel $K_{xc}(q;T)$ of the unpolarized UEG at metallic densities across the quantum-degenerate, warm-dense, and classical regimes. The kernel connects smoothly to zero-temperature spin-response parametrizations at low temperature, while heating suppresses the Fermi-surface-scale spin-correlation structure and weakens the XC-driven Stoner enhancement. Its long-wavelength limit provides a direct response test of the spin stiffness implied by thermal local-spin-density-approximation (LSDA) parametrizations, showing low-temperature consistency while exposing a resolved warm-dense residual in current LSDA parametrizations. In the classical regime, the spin XC kernel becomes nearly local on the Fermi-momentum scale, in sharp contrast to the corresponding charge XC kernel. These results provide a first-principles basis for finite-temperature spin-response theory and magnetized WDM modeling.",
+  "authors": [
+    "Pengcheng Hou",
+    "Zhiyi Li",
+    "Youjin Deng",
+    "Kun Chen"
+  ],
+  "published": "2026-05-16T09:02:11Z",
+  "updated": "2026-05-16T09:02:11Z",
+  "categories": [
+    "cond-mat.str-el",
+    "physics.comp-ph",
+    "physics.plasm-ph"
+  ],
+  "primary_category": "cond-mat.str-el"
+}

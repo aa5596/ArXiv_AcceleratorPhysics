@@ -1,0 +1,21 @@
+{
+  "arxiv_id": "2605.16206v1",
+  "url": "https://arxiv.org/abs/2605.16206v1",
+  "pdf_url": "https://arxiv.org/pdf/2605.16206v1.pdf",
+  "title": "Kinetic Simulations of Laser-Driven Compression and Heating of Magnetised Cryogenic Hydrogen Targets using PIConGPU",
+  "abstract": "We present fully kinetic two-dimensional, three-velocity-component (2D3V) PIConGPU simulations of a three-beam direct-drive interaction with a 15 $μ$m solid-density cryogenic hydrogen cylinder, establishing a predictive numerical baseline for the operational DRACO ($τ=30$ fs) and upcoming PENELOPE ($τ=150$ fs) laser facilities at HZDR. The simulations resolve charge-separation fields on the order of 3 TV/m and reveal a robust kinematic bifurcation of the accelerated population into a fast (1-5 MeV) ion beam and a slower bulk (1-100 keV) flow. We demonstrate analytically and numerically that the charge-separation front ($v_{hb}$) is an intrinsically non-quasi-neutral electrostatic double layer that lies outside the closure assumptions of radiation-hydrodynamic models. A simple $2v_{hb}$ reflection scaling derived directly from the front trajectory tracks the centroid of the constant-energy fast-ion band under the impulsive 30 fs driver and the time-varying upper edge of the swept fast-ion band under the sustained 150 fs driver, across both intensities ($a_{0}=12.7$ and 22.0), establishing this non-thermal mechanism as the dominant acceleration pathway. We then scan an external axial magnetic field from 0 T to 10 kT. Laboratory-achievable 20 T fields leave all macroscopic observables unchanged; fields at the kT scale progressively magnetise the MeV hot-electron population, quench the laser-driven charge-separation mechanism, suppress the fast-ion band, and more than double the net-inward compression time of the short-pulse driver-while extending the outer target envelope. A geometric equivalence argument maps these kT-scale results onto larger-diameter cryogenic hydrogen jets.",
+  "authors": [
+    "Filip Optołowicz",
+    "Klaus Steiniger",
+    "David Blaschke",
+    "Michael Bussmann",
+    "Brian Marre"
+  ],
+  "published": "2026-05-15T17:23:37Z",
+  "updated": "2026-05-15T17:23:37Z",
+  "categories": [
+    "physics.plasm-ph",
+    "physics.comp-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

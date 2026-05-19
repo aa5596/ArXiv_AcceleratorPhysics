@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2605.15427v1",
+  "url": "https://arxiv.org/abs/2605.15427v1",
+  "pdf_url": "https://arxiv.org/pdf/2605.15427v1.pdf",
+  "title": "Delayed current sheet formation due to an external field in pulsed-power-driven reconnection experiments",
+  "abstract": "We present results from pulsed-power-driven magnetic reconnection experiments, in which we drove two exploding wire arrays in parallel to produce colliding plasma flows with anti-parallel magnetic fields of 1.2$\\pm$0.2 T. The experimental volume was surrounded by a Helmholtz coil pair capable of externally applying a field of up to 2 T, parallel to the reconnecting electric field. We diagnosed these experiments using laser interferometric imaging in the direction of the anti-parallel magnetic fields, gated extreme ultraviolet pinhole imaging, and in situ inductive probes. For zero and weak (0.5 T) external fields, we reproduce previous observations in which a dense reconnection layer forms between the two wire arrays. However, when we apply a strong external field (2 T), we observe a void between the arrays rather than a dense layer, and we hypothesise that the external field is frozen out of the plasma and provides a back-pressure which decelerates the flows. Our experimental results are compared with three-dimensional magnetohydrodynamic simulations of the experiment, which qualitatively support this hypothesis. These simulations allow us to study the pressure balance and dynamics of the current sheet aspect ratio, demonstrating the delayed formation of the reconnection layer due to the external field.",
+  "authors": [
+    "T. W. O. Varnish",
+    "G. V. Dowhan",
+    "M. Chen",
+    "D. M. Johnson",
+    "N. M. Jordan",
+    "J. Lee",
+    "A. P. Shah",
+    "R. Shapovalov",
+    "B. J. Sporer",
+    "R. D. McBride",
+    "J. D. Hare"
+  ],
+  "published": "2026-05-14T21:18:27Z",
+  "updated": "2026-05-14T21:18:27Z",
+  "categories": [
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

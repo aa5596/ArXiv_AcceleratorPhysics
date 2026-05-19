@@ -1,0 +1,22 @@
+{
+  "arxiv_id": "2605.16734v1",
+  "url": "https://arxiv.org/abs/2605.16734v1",
+  "pdf_url": "https://arxiv.org/pdf/2605.16734v1.pdf",
+  "title": "FIRM3D: Fast ion reduced models in 3D",
+  "abstract": "The dynamics of energetic particle (EP) species, born from fusion reactions or plasma heating schemes, are critical for predicting the behavior of magnetic confinement fusion experiments and future fusion reactors. Because energetic particles are largely collisionless, the orbits of Monte Carlo samples drawn from a given distribution function can be efficiently integrated in prescribed electromagnetic fields. In addition to the static magneto-hydrodynamic (MHD) equilibrium fields produced by the electromagnetic coils of a fusion device, MHD waves can be excited by -- and resonantly transport -- energetic particle populations. FIRM3D is an open-source Python/C++/CUDA software suite for modeling energetic particle dynamics in 3D magnetic fields, available at https://github.com/ColumbiaStellaratorTheory/firm3d. The core guiding-center integration routines grew out of SIMSOPT (Landreman et al., 2021), but have been extended to include additional physics and diagnostics not typically required in the stellarator optimization context. This standalone framework enables focused development of energetic particle physics capabilities with minimal dependencies, making it accessible to the broader stellarator and plasma physics community. Components of FIRM3D include interfaces with MHD equilibrium and wave stability software (BOOZ_XFORM, AE3D, FAR3D); CPU and GPU parallelized integration of the guiding center orbit equation, with symplectic and Runge-Kutta integrator options; and orbit visualization and transport diagnostics, including Poincare maps, orbit classification, and weighted Birkhoff averaging.",
+  "authors": [
+    "Elizabeth Paul",
+    "Alexey Knyazev",
+    "Michael Czekanski",
+    "Alexandra Lachmann",
+    "Abdullah Hyder",
+    "Christopher Albert",
+    "Matt Landreman"
+  ],
+  "published": "2026-05-16T00:59:27Z",
+  "updated": "2026-05-16T00:59:27Z",
+  "categories": [
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

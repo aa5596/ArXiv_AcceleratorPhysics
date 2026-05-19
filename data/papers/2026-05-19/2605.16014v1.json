@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2605.16014v1",
+  "url": "https://arxiv.org/abs/2605.16014v1",
+  "pdf_url": "https://arxiv.org/pdf/2605.16014v1.pdf",
+  "title": "Advances in laser-assisted nuclear decay and nuclear excitation",
+  "abstract": "From the synthesis and evolution of the elements to the celestial nuclear processes of stellar explosions and neutron star mergers, nuclear physics is the foundation of our understanding of the universe. After more than a century of progress, the field of nuclear physics remains vibrant. The rapid advancement of laser technology has opened unprecedented avenues in nuclear physics, driven by the interdisciplinary convergence of laser physics, nuclear structure, plasma science, and quantum dynamics. This emerging field enables studies on laser-induced nuclear excitation, laser assisted nuclear decay, and precision manipulation of nuclear isomers for optical clocks. This review comprehensively examines the research achievements over the past decade regarding the influence of lasers on radioactive charged particle emissions and nuclear excitation. Regarding theoretical developments, the review details various methods used to evaluate the interactions between lasers and nuclei, including the time-dependent Schrödinger equation for $α$ decay, proton radioactivity, and two-proton radioactivity and Fermi's golden rule for nuclear excitation as well as the application and advancement of various theoretical models and approximation methods. In experimental research, the review synthesizes significant breakthroughs in laser induced nuclear excitation experiments, particularly emphasizing the excitation of the $^{229}$Th, $^{83}$Kr, and $^{45}$Sc. These achievements provide essential groundwork for future breakthroughs in both fundamental nuclear science and its broader technological applications.",
+  "authors": [
+    "Q. Xiao",
+    "J. H. Cheng",
+    "Y. Y. Xu",
+    "Y. T. Zou",
+    "Z. Z. Ren",
+    "A. Ya. Dzyublik",
+    "T. P. Yu"
+  ],
+  "published": "2026-05-15T14:47:24Z",
+  "updated": "2026-05-15T14:47:24Z",
+  "categories": [
+    "physics.plasm-ph",
+    "nucl-th"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

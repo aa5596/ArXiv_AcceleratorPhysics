@@ -1,0 +1,33 @@
+{
+  "arxiv_id": "2605.15485v1",
+  "url": "https://arxiv.org/abs/2605.15485v1",
+  "pdf_url": "https://arxiv.org/pdf/2605.15485v1.pdf",
+  "title": "Re-acceleration of Energetic Ions via Small-Scale Reconnection in Magnetic Fusion Plasmas",
+  "abstract": "We report the first observation on the EXL-50U spherical torus that energetic particles injected by neutral beam injection (NBI) can be stably accelerated to significantly higher energies - reaching up to 2.5 times the injection energy, occurring without significant large-scale magnetohydrodynamic (MHD) bursts. Simulations based on EXL-50U parameters indicate that small-scale magnetic reconnection, mediated by multiple magnetic islands, fails to accelerate bulk thermal ions but efficiently energizes seed fast ions. Unlike global MHD events, such small-scale reconnection is ubiquitous in magnetic confinement devices and does not degrade core confinement. This mechanism offers a novel and potentially universal channel for auxiliary ion heating in future fusion reactors.",
+  "authors": [
+    "Cong Zhang",
+    "Shaodong Song",
+    "Di Luo",
+    "Kai Huang",
+    "Linge Zang",
+    "Huibo Tang",
+    "Yanchao Li",
+    "Yihang Zhao",
+    "Ao Wang",
+    "Hanqing Wang",
+    "Zhenxing Wang",
+    "Lei Han",
+    "Xuxu Zhang",
+    "Jia Li",
+    "Dong Guo",
+    "Yunfeng Liang",
+    "Minsheng Liu",
+    "Yuejiang Shi"
+  ],
+  "published": "2026-05-15T00:04:04Z",
+  "updated": "2026-05-15T00:04:04Z",
+  "categories": [
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}
