@@ -1,0 +1,27 @@
+{
+  "arxiv_id": "2605.18244v1",
+  "url": "https://arxiv.org/abs/2605.18244v1",
+  "pdf_url": "https://arxiv.org/pdf/2605.18244v1.pdf",
+  "title": "Undulator Radiation from a Single Electron: A Temporal Double-Slit Experiment",
+  "abstract": "Double-slit diffraction studies with photons or massive particles rank among the most beautiful experiments in physics. In particular, measurements at very low intensities demonstrate the particle-wave duality and the coherent superposition of states very clearly. In this paper, low-intensity double-slit experiments in the time domain are presented measuring the spectral distribution of synchrotron light from a single relativistic electron in a storage ring. In two consecutive radiation sources (so-called undulators) with a magnetic detour between them, electrons emit two temporally separated light pulses leading to a spectrum with interference fringes, very much like the angular distribution of light behind two spatially separated slits. Independent experiments at two synchrotron light sources (DELTA in Germany and UVSOR-III in Japan) directly demonstrate that the spectral distribution of accumulated synchrotron light from a single electron is essentially the same as the spectrum from a beam of many electrons. While the latter is usually explained as interference between electromagnetic waves from the two undulators, the single-electron experiments demonstrate that coherent photon emission is delocalized over several meters and the accumulated spectral distribution exhibits a deterministic interference pattern at small wavelengths. The experiments presented here were conducted with near-ultraviolet light to avoid an elaborate in-vacuum setup, but the very wide spectral range of synchrotron radiation, from infrared light to X-rays, enables access to regimes not available in laser-based quantum optics experiments.",
+  "authors": [
+    "Shaukat Khan",
+    "Yuya Asai",
+    "Zohair Usfoor",
+    "Tatsuo Kaneyasu",
+    "Carsten Mai",
+    "Hiroshi Miyauchi",
+    "Yasuaki Okano",
+    "Arjun Radha Krishnan",
+    "Wael Salah",
+    "Miho Shimada",
+    "Vivek Vijayan",
+    "Masahiro Katoh"
+  ],
+  "published": "2026-05-18T11:39:00Z",
+  "updated": "2026-05-18T11:39:00Z",
+  "categories": [
+    "physics.acc-ph"
+  ],
+  "primary_category": "physics.acc-ph"
+}

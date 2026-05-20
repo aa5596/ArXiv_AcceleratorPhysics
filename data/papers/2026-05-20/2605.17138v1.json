@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2605.17138v1",
+  "url": "https://arxiv.org/abs/2605.17138v1",
+  "pdf_url": "https://arxiv.org/pdf/2605.17138v1.pdf",
+  "title": "Shafranov shift and finite $β$ effects on Alfvén Eigenmodes and microinstabilities in global electromagnetic gyrokinetic simulations",
+  "abstract": "Future nuclear fusion reactors will have to confine plasma with strong kinetic gradients and small fractions of fusion-born energetic particles (EP) that are ~100 times hotter than the thermal ions. In our analysis, we assume the existence of a stable MHD equilibrium and study the unstable plasma perturbations. In this electromagnetic, kinetic, multi-scale, self-organizing system, all species contribute both to the Shafranov shift (equilibrium effect) and to the plasma $β$ (plasma response). Nonetheless, due to the high complexity of the problem, many works neglect these effects. We use the global, gyrokinetic code ORB5 to study the plasma stability. Starting from an electrostatic, thermal plasma with adiabatic electrons in a $β= 0$ ideal-MHD equilibrium, we systematically increase the realism of our models. And study the linear stability and nonlinear fluxes of Toroidal Alfvén Eigenmodes (TAE), and the Ion Temperature Gradient (ITG), and Kinetic Ballooning Modes (KBM) microinstabilities as they arise. Linearly, we find that Shafranov shift effects are a function of the toroidal mode number, that they are mainly stabilizing, and stronger at longer wavelengths, impacting TAEs the most with a 90% reduction in growth rate for cases which consistently account for the EP pressure in the MHD equilibrium. Leading to a law of diminishing returns for the TAE growth rate as a function of EP fraction. We find that with Shafranov shift asymptotically pushes the ITG frequency up and the TAE frequency down. Furthermore, we show that KBMs are strongly damped by both EPs (kinetic) and Shafranov shift (equilibrium) effects. Nonlinearly we find that the linear TAE stabilization does not effect the saturation levels. Nonetheless, the heat and particle fluxes carried by the TAE, are reduced by the Shafranov shift. While, the ITG fluxes and saturation levels are unaffected by the Shafranov shift.",
+  "authors": [
+    "B. Rofman",
+    "G. Di Giannatale",
+    "A. Mishchenko",
+    "E. Lanti",
+    "A. Bottino",
+    "T. Hayward-Schneider",
+    "J. N. Sama",
+    "A. Biancalani",
+    "B. F. McMillan",
+    "S. Brunner",
+    "L. Villard"
+  ],
+  "published": "2026-05-16T20:07:02Z",
+  "updated": "2026-05-16T20:07:02Z",
+  "categories": [
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

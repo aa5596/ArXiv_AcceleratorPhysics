@@ -1,0 +1,21 @@
+{
+  "arxiv_id": "2605.18386v1",
+  "url": "https://arxiv.org/abs/2605.18386v1",
+  "pdf_url": "https://arxiv.org/pdf/2605.18386v1.pdf",
+  "title": "A single multi-configuration Direct Electron Detector for various electron imaging and diffraction-based techniques in SEM",
+  "abstract": "Addressing the need for efficient and integrated multiscale crystallographic and defect analyses of advanced materials, this paper presents the implementation of a new multi-configuration detection system, integrating a single Timepix3-based direct electron detector (DED) in a scanning electron microscope (SEM). By combining precise translation and rotation movements, this system enables, for the first time, the use of the same detector to realize all principal diffraction geometries. These include conventional Electron BackScatter Diffraction (EBSD), off-axis Reflexion Kikuchi Diffraction (RKD), and Transmission Kikuchi Diffraction (TKD) in on-, off- and near-axis configurations. Furthermore, transitions between all these geometries are accomplished without hardware modification. On the other hand, this work presents efficient reconstruction of electron images using the detector data-driven feature, extending thus its applicability to BackScattered Electron imaging (BSE), Electron Channelling Contrast Imaging (ECCI) and Scanning Transmission Electron Imaging in SEM (STEM-in-SEM) characterizations. High-quality Kikuchi patterns easily indexable were acquired across all geometries as well as micrographs of dislocations in both reflection and transmission modes. This is achieved thanks to the flexibility of the implemented detector, the optimizations made in acquisition parameters, such as energy filtering settings, and the efficiency of the developed custom approach used for electron data post-processing. Through this work, it is demonstrated that with a single DED assisted by an orientable support, it is possible to perform multiple advanced microstructural characterizations of both bulk samples and thin foils in the same SEM.",
+  "authors": [
+    "Nohayla El-Khairaoui",
+    "Julien Guyon",
+    "Nathalie Gey",
+    "Luc Morhain",
+    "Nabila Maloufi"
+  ],
+  "published": "2026-05-18T13:30:46Z",
+  "updated": "2026-05-18T13:30:46Z",
+  "categories": [
+    "physics.ins-det",
+    "cond-mat.mtrl-sci"
+  ],
+  "primary_category": "physics.ins-det"
+}
