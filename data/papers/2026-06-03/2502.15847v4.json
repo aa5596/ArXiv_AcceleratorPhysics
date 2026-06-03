@@ -1,0 +1,21 @@
+{
+  "arxiv_id": "2502.15847v4",
+  "url": "https://arxiv.org/abs/2502.15847v4",
+  "pdf_url": "https://arxiv.org/pdf/2502.15847v4.pdf",
+  "title": "Improving Optics Control and Measurement at RHIC",
+  "abstract": "Maximizing luminosity requires precise control of the optics function at the interaction point (IP), implying that the location ($s^*$) of the beta function's minimum value ($β^*$) must be moved to the collision location ($s_{IP}$) as much as possible. Accurate optics measurements and reliable control of $s^*$ in both planes are therefore essential for optimal collider performance. During Relativistic Heavy Ion Collider (RHIC) operations in 2024, measurements indicate an average horizontal beta beat of approximately $20\\%$ at IP8, accompanied by measurement variation in measured $s^*$ in both planes. In this paper, a sensitivity-matrix-based optics correction scheme is demonstrated to effectively steer the optics toward desired targets using power supply currents of IR quadrupoles in the 8 o'clock interaction region (IR8). In addition, a method for measuring linear optics based on the one-turn map within the interaction regions is developed and systematically compared with established optics measurement methods used in RHIC operations. A comprehensive error analysis is performed for all measurement methods considered. Through these methods, a consistent reduction of $10\\%$ beta beat is achieved by moving $s^*_x$ as well as a significant improvement in the reproducibility of $s^*$ measurements in both planes. The techniques demonstrated here will be further developed to support linear optics analysis and control of the future Electron-Ion Collider project.",
+  "authors": [
+    "W. Fung",
+    "Y. Hao",
+    "X. Gu",
+    "G. Robert-Demolaize"
+  ],
+  "published": "2025-02-20T23:06:41Z",
+  "updated": "2026-05-29T19:18:24Z",
+  "categories": [
+    "physics.acc-ph",
+    "nucl-ex"
+  ],
+  "primary_category": "physics.acc-ph",
+  "doi": "10.1016/j.nima.2026.171698"
+}

@@ -1,0 +1,21 @@
+{
+  "arxiv_id": "2606.00777v1",
+  "url": "https://arxiv.org/abs/2606.00777v1",
+  "pdf_url": "https://arxiv.org/pdf/2606.00777v1.pdf",
+  "title": "Development of flash lithium evaporators for NSTX-U",
+  "abstract": "We present results of in-vacuo refill and operation of a lithium evaporator in LTX-$β$ as the culmination of a larger design basis for a flash lithium evaporator (f-LITER) for wall conditioning in the National Spherical Torus Experiment Upgrade (NSTX-U). The new f-LITER is intended to deliver fresh lithium to plasma-facing components (PFCs) in both the upper and lower-divertor as well as the center-column and outboard regions for double-null operation, while reducing lithium loss, impurity pickup, and service complexity relative to the legacy downward-facing NSTX lithium evaporators that only targeted the lower divertor. The design follows from evaporator development on the Lithium Tokamak Experiment - $β$ (LTX-$β$). Low-thermal-mass evaporators first developed on LTX-$β$ reduced the evaporation cycle to minutes but could only be operated at the beginning of the run day. Run day analysis on LTX-$β$ showed that after evaporation, plasma current, density, and particle pumping evolved, consistent with lithium surface oxidation on comparable timescales. The results motivated an evaporator that can refresh lithium without venting and with reduced impurity exposure. A later generation, Mark-II LTX-$β$ evaporator modified for in-vacuo loading using a liquid-lithium dropper was tested on LTX-$β$ and a dedicated test chamber. Quartz crystal microbalance (QCM) measurements onLTX-$β$ showed 100-nm evaporation on a $\\sim 5$ minute timescale. Temperature-programmed desorption (TPD) showed reduced impurity release after in-vacuo liquid-lithium loading relative to air-exposed solid Li loading of the evaporator. Incorporating multiple generations of development from LTX-$β$, the NSTX-U f-LITER design uses a tantalum mesh basket, liquid-lithium dropper for in-vacuo loading, and a detachable evaporator head for serviceable, remotely actuated lithium delivery.",
+  "authors": [
+    "A. Maan",
+    "R. Majeski",
+    "C. López Pérez",
+    "D. P. Boyle",
+    "T. Le",
+    "R. Lunsford"
+  ],
+  "published": "2026-05-30T15:45:24Z",
+  "updated": "2026-05-30T15:45:24Z",
+  "categories": [
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

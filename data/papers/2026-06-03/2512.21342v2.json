@@ -1,0 +1,21 @@
+{
+  "arxiv_id": "2512.21342v2",
+  "url": "https://arxiv.org/abs/2512.21342v2",
+  "pdf_url": "https://arxiv.org/pdf/2512.21342v2.pdf",
+  "title": "An Enhanced \"Flux-Corrected Transport\"-Based Plasmasphere Refilling Model",
+  "abstract": "A previously developed multi-ion, two-stream Flux-Corrected Transport (FCT) hydrodynamic model for plasmasphere refilling has been extended to incorporate self-consistent electron temperature evolution. The past assumption of a constant temperature along the modeled flux tube has been replaced by solving the electron energy equation, permitting spatially and temporally varying temperature. This improvement provides a more physically complete representation of the pressure and ambipolar electric-field gradients that influence ion transport. The extended model allows us to investigate two-stage refilling behavior established by prior observations and simulations. The model continues to reproduce the expected dominance of H+, enhanced early-time O+ contributions, and the coupling between H+ and He+ through the ambipolar electric field during the transition between stages. Sensitivity experiments with modified initial ion concentrations, including cases representing seasonal effects, highlight the distinct roles of each ion species in shaping the refilling trajectory. Comparisons across L-shells 3 and 4 further confirm the robustness of the model framework for future extension to three-dimensional geometries. Overall, by incorporating more realistic temperature variations, this enhanced model strengthens the physical understanding for interpreting complex multi-ion transport processes during plasmasphere recovery following geomagnetic storms.",
+  "authors": [
+    "Jaden Fitzpatrick",
+    "Kausik Chatterjee",
+    "Naomi Maruyama"
+  ],
+  "published": "2025-12-13T15:01:14Z",
+  "updated": "2026-05-29T19:42:02Z",
+  "categories": [
+    "physics.space-ph",
+    "astro-ph.EP",
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.space-ph",
+  "doi": "10.1029/2025JA034915"
+}

@@ -1,0 +1,32 @@
+{
+  "arxiv_id": "2606.00723v1",
+  "url": "https://arxiv.org/abs/2606.00723v1",
+  "pdf_url": "https://arxiv.org/pdf/2606.00723v1.pdf",
+  "title": "Results of R&D Programmes and LP&CW EXFEL Cryomodule Tests in the Period from 2005 to 2023",
+  "abstract": "In 2005 and 2006, we began to consider the feasibility of long-pulse (LP) and continuous-wave (CW) operation for the E-XFEL. The operation modes considered were assumed to be complementary to the short-pulse operation (SP), with ~1 ms RF pulses and a 10 Hz repetition rate, which at that time had already been chosen and presented in the TDR [1] of the E-XFEL facility. This operation mode originated from the previously proposed linear collider TESLA project [2]. We initiated several R&D programmes in 2005 and 2006 to enable operation modes with a duty factor significantly higher than that of the short-pulse mode, which is still approximately 1%. In this report, we briefly present the initiated R&D programmes and their results, with particular emphasis on the results of the E- XFEL cryomodule tests, which led to minor modifications of the design and subsequently to the implementation of these cryomodules in large-scale X-ray FEL facilities.",
+  "authors": [
+    "J. Sekutowicz",
+    "D. Proch",
+    "J. Eschke",
+    "K. Jensch",
+    "W-D Moeller",
+    "A. Goessel",
+    "W. Cichalewski",
+    "A. Bellandi",
+    "J. Branlard",
+    "D. Kostin",
+    "W. Merz",
+    "N. Mildner",
+    "F. Mittag",
+    "R. Onken",
+    "E. Vogel",
+    "H. Weise",
+    "M. Wiencek"
+  ],
+  "published": "2026-05-30T13:32:24Z",
+  "updated": "2026-05-30T13:32:24Z",
+  "categories": [
+    "physics.acc-ph"
+  ],
+  "primary_category": "physics.acc-ph"
+}

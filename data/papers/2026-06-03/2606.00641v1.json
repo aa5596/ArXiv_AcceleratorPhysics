@@ -1,0 +1,20 @@
+{
+  "arxiv_id": "2606.00641v1",
+  "url": "https://arxiv.org/abs/2606.00641v1",
+  "pdf_url": "https://arxiv.org/pdf/2606.00641v1.pdf",
+  "title": "Lattice Boltzmann Methods for Compressible (Magneto)hydrodynamics",
+  "abstract": "The simulation of magnetohydrodynamic (MHD) flows presents a highly complex, tightly coupled transport problem that poses severe numerical and computational demands. Towards this, we propose a novel class of Lattice Boltzmann Methods (LBM) schemes capable of solving a wide range of transport equation systems with high computational efficiency and scalability. Our approach exploits the algorithmic structure of kinetic formulations to separately transport all state variables of Strang-splitted conservation equations alongside their characteristics, yielding decoupled, fully local operations.   To demonstrate the capability of this framework on complex, numerically demanding multiphysics interactions, we apply it to these MHD flows. Specifically, we discretize ideal compressible and resistive incompressible MHD systems, which naturally encompass hydrodynamic limits such as the compressible Euler and incompressible Navier-Stokes equations.   Rigorous performance analysis of the implementation within the platform-transparent multi-physics framework OpenLB demonstrates up to 98.9\\% of the hardware roofline. We validate our approach against established incompressible and compressible MHD benchmarks across multiple resolutions. Finally, we simulate a moving, surface-resolved magnetized asteroid modeled after 16 Psyche in a supersonic early solar wind flow. This showcases the framework's advanced support for dynamic solid geometries, shifting magnetic fields, and fluid-structure interaction.",
+  "authors": [
+    "Fedor Bukreev",
+    "Adrian Kummerländer",
+    "Mathias J. Krause"
+  ],
+  "published": "2026-05-30T09:37:10Z",
+  "updated": "2026-05-30T09:37:10Z",
+  "categories": [
+    "physics.flu-dyn",
+    "physics.comp-ph",
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.flu-dyn"
+}
