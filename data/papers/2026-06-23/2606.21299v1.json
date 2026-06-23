@@ -1,0 +1,26 @@
+{
+  "arxiv_id": "2606.21299v1",
+  "url": "https://arxiv.org/abs/2606.21299v1",
+  "pdf_url": "https://arxiv.org/pdf/2606.21299v1.pdf",
+  "title": "Characterization of GaN:Si and ZnO:Ga for position-resolved fast timing applications",
+  "abstract": "We present the characterization of two fast, crystalline inorganic scintillators, silicon-doped gallium nitride (GaN:Si) and gallium-doped zinc oxide (ZnO:Ga), and compare their performance with cerium-doped yttrium aluminium perovskite (YAP:Ce) for in-vacuum alpha-detection applications that require high-performance timing, position, and energy resolution, such as 3D elemental mapping, medical imaging, and homeland security applications. In this paper, we propose ZnO:Ga and GaN:Si as high-performance drop-in replacements for the alpha detector in Associated Particle Imaging (API) systems. However, the results reported here also have wide applicability. Prior work has reported on polycrystalline forms of ZnO:Ga, which suffer from self-absorption. To our knowledge, GaN:Si has not been proposed to be used in API systems. We present room-temperature scintillation time constants obtained via X-ray-induced time-correlated single-photon counting for both proposed materials. They both exhibit exceedingly fast rise times of <15ps, and high brightness >1000ph/MeV with resolved alpha-peaks. Single-crystal ZnO:Ga and single-crystal GaN:Si yield single-component decays of 805ps and 32ps, respectively. Using a plastic scintillator reference setup, coincidence timing resolution (CTR) and detector timing resolution (DTR) measurements demonstrate a >3x improvement in timing resolution compared to traditional YAP:Ce. GaN:Si and ZnO:Ga exhibit (35(9))ps and (49(5))ps DTR, respectively, compared to(144(2))ps for conventional, single-crystal YAP:Ce. Finally, we evaluate their position resolution in an experimental setup designed for API and measure better than 0.2mm for YAP:Ce and approximately 1mm for GaN:Si. We obtain a position resolution of 0.3mm for ZnO:Ga from simulations. We also present alpha-induced ionoluminescence emission spectra that reveal direct, red-shifted near-bandgap emission.",
+  "authors": [
+    "Julius Meyer",
+    "Joshua W. Cates",
+    "Woon-Seng Choong",
+    "Juan Cristhian Luque Gutierrez",
+    "Federico Moretti",
+    "Ryan Pavlovsky",
+    "Mauricio Ayllon Unzueta",
+    "Weronika W. Wolszczak",
+    "Markus Roth",
+    "Arun Persaud"
+  ],
+  "published": "2026-06-19T10:22:44Z",
+  "updated": "2026-06-19T10:22:44Z",
+  "categories": [
+    "physics.ins-det",
+    "nucl-ex"
+  ],
+  "primary_category": "physics.ins-det"
+}

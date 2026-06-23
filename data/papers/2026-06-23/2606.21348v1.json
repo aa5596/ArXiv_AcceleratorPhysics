@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2606.21348v1",
+  "url": "https://arxiv.org/abs/2606.21348v1",
+  "pdf_url": "https://arxiv.org/pdf/2606.21348v1.pdf",
+  "title": "Enhanced electron-beam lithography to reduce the frequency scatter of 200-400 GHz superconducting microstrip resonators for on-chip filterbank spectrometers",
+  "abstract": "Integrated superconducting spectrometers (ISSs) provide the instantaneous bandwidth, sensitivity, and scalable architecture for large-scale spectroscopic surveys in submillimeter-wave astronomy and cosmology. However, the accuracy with which the resonant frequencies of superconducting microstrip band pass filters can be spaced, has limited the spectral resolution for these spectrometers with continuous spectral coverage to $\\frac{F}{ΔF} < 500$. The origin of this frequency scatter has been largely unknown. In this work, we demonstrate a four-fold improvement in the frequency spacing of superconducting microstrip resonators by optimizing electron-beam lithography. We find that reducing the beam step size (BSS) on the nanometer scale reduces the random frequency scatter, and that avoiding main-field stitching across filter patterns can eliminate a systematic frequency shift between groups of resonators, indicating the different origins of these two modes of frequency deviation. These findings demonstrate that nanometer-scale control of lithographic processes is imperative for the realization of the next-generation integrated superconducting spectrometers with higher spectral resolution.",
+  "authors": [
+    "L. G. G. Olde Scholtenhuis",
+    "D. J. Thoen",
+    "J. J. A. Baselmans",
+    "K. Karatsu",
+    "L. H. Martin",
+    "S. Vollebregt",
+    "A. Endo"
+  ],
+  "published": "2026-06-19T11:44:54Z",
+  "updated": "2026-06-19T11:44:54Z",
+  "categories": [
+    "physics.ins-det",
+    "astro-ph.IM"
+  ],
+  "primary_category": "physics.ins-det"
+}

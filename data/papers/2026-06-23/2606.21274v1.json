@@ -1,0 +1,22 @@
+{
+  "arxiv_id": "2606.21274v1",
+  "url": "https://arxiv.org/abs/2606.21274v1",
+  "pdf_url": "https://arxiv.org/pdf/2606.21274v1.pdf",
+  "title": "Nested active pointing control for interspacecraft laser interferometry",
+  "abstract": "Precise pointing control is a critical requirement for interspacecraft laser interferometry, as angular misalignment introduces measurement noise and even leads to laser link loss. We present a nested control architecture that uses differential wavefront sensing signals to drive a fast steering mirror (FSM) to track the incoming beam, while feeding the FSM's angular changes back to the attitude and orbit control system (AOCS) to suppress angle-dependent optical path variations. This scheme is experimentally validated in our hexapod-based setup. Relative to standalone FSM actuation, the nested configuration enhanced pointing stability by 6.9 dB and 4.9 dB in the horizontal and vertical directions across the frequency band from 3 mHz to the AOCS actuation's unity-gain frequency. Additionally, tilt-to-length coupling was suppressed by an order of magnitude below 6 mHz and by two orders of magnitude below 0.45 mHz. These results demonstrate the feasibility of nested active pointing control for future interspacecraft laser interferometry missions.",
+  "authors": [
+    "Daikang Wei",
+    "Christoph Bode",
+    "Yihao Yan",
+    "Vitali Müller",
+    "Juan José Esteban Delgado",
+    "Gerhard Heinzel"
+  ],
+  "published": "2026-06-19T09:49:37Z",
+  "updated": "2026-06-19T09:49:37Z",
+  "categories": [
+    "physics.optics",
+    "physics.ins-det"
+  ],
+  "primary_category": "physics.optics"
+}

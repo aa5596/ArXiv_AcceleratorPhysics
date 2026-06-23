@@ -1,0 +1,31 @@
+{
+  "arxiv_id": "2606.21443v1",
+  "url": "https://arxiv.org/abs/2606.21443v1",
+  "pdf_url": "https://arxiv.org/pdf/2606.21443v1.pdf",
+  "title": "Test of the JUNO 20-inch PMTs during Installation",
+  "abstract": "Photomultiplier tubes (PMTs) are widely used in neutrino experiments. As a new-generation neutrino observatory, JUNO requires an excellent energy resolution of 3% at 1 MeV. This will be realized with a 20 kton liquid scintillator detector instrumented with more than 20000 20-inch PMTs and 25600 3-inch PMTs. These PMTs were successfully installed in JUNO from October 2022 to December 2024. During the installation, seven test campaigns were performed to validate the PMT functionality, including measurements dark count rate, gain, waveform, and charge spectrum. In this paper, we present the implementation of these tests and the corresponding results for the 20-inch PMTs throughout the installation process.",
+  "authors": [
+    "Haojie Dong",
+    "Zhaoyuan Peng",
+    "Zhonghua Qin",
+    "Wan Xie",
+    "Haoqi Lu",
+    "Jun Hu",
+    "Lei Fan",
+    "Xiaoshan Jiang",
+    "Chao Chen",
+    "Xiaolu Ji",
+    "Fei Li",
+    "Shenghui Liu",
+    "Xiaochuan Xie",
+    "Mei Ye",
+    "Hongzhao Yu",
+    "Zeyuan Yu"
+  ],
+  "published": "2026-06-19T14:04:16Z",
+  "updated": "2026-06-19T14:04:16Z",
+  "categories": [
+    "physics.ins-det"
+  ],
+  "primary_category": "physics.ins-det"
+}

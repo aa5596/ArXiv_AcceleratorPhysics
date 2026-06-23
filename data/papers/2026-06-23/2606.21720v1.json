@@ -1,0 +1,23 @@
+{
+  "arxiv_id": "2606.21720v1",
+  "url": "https://arxiv.org/abs/2606.21720v1",
+  "pdf_url": "https://arxiv.org/pdf/2606.21720v1.pdf",
+  "title": "Digital Beam Pattern Optimisation for the GRAO 32-m Telescope: A Comparative Analysis of FIR Filter Design Methods",
+  "abstract": "The scientific utility of large single-dish radio telescopes depends critically on the stability and fidelity of their beam patterns, which govern angular resolution, sensitivity, and polarimetric accuracy. For the 32-m Ghana Radio Astronomy Observatory (GRAO) antenna, electromagnetic simulations reveal residual sidelobes, structural diffraction, and cross-polar leakage that limit performance in high-dynamic-range and polarisation-sensitive observations. To address these limitations, we develop a finite-impulse-response (FIR) spatial filtering framework that reformulates beam optimisation as a digital signal processing problem. By exploiting the equivalence between angular displacement and spatial frequency, classical FIR design methods, window-based and Parks-McClellan algorithms are adapted to operate directly on simulated Jones fields. This approach enables controlled suppression of high spatial frequency artefacts responsible for sidelobes and polarisation mixing, while preserving the telescope's diffraction-limited resolution. Applied to the GRAO 5 GHz beam model, the method achieves substantial reductions in near-in sidelobe ripple, improves beam smoothness, and lowers cross-polar leakage below -30 dB at boresight. These improvements translate into enhanced calibration stability and polarimetric precision, strengthening the telescope's capacity for Very Long Baseline Interferometry, spectral-line surveys, and pulsar timing. Beyond GRAO, the method provides a generalisable, non-invasive, and computationally efficient pathway for beam control applicable to other single-dish and phased-array instruments. The results establish digital spatial filtering as a practical complement to conventional optical or mechanical optimisation, advancing the integration of electromagnetic modelling and signal processing in next-generation radio astronomical instrumentation.",
+  "authors": [
+    "Theophilus Ansah-Narh",
+    "Nia Imara",
+    "Benedicta Woode",
+    "Emmanuel Proven Adzri"
+  ],
+  "published": "2026-06-19T20:10:02Z",
+  "updated": "2026-06-19T20:10:02Z",
+  "categories": [
+    "astro-ph.IM",
+    "eess.SP",
+    "math-ph",
+    "physics.comp-ph",
+    "physics.ins-det"
+  ],
+  "primary_category": "astro-ph.IM"
+}
