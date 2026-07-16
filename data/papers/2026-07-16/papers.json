@@ -1,0 +1,1174 @@
+[
+  {
+    "arxiv_id": "2607.13791v1",
+    "url": "https://arxiv.org/abs/2607.13791v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.13791v1.pdf",
+    "title": "Robust Betatron-Tune Measurement from Schottky Spectra: Complementary Classical and Deep-Learning Paradigms",
+    "abstract": "Schottky spectra provide key beam diagnostics, with betatron sidebands encoding the fractional tune. Reliable tune measurement is particularly important for third-order resonance slow extraction in compact medical proton synchrotrons, where low signal-to-noise ratios and limited frequency resolution can compromise conventional peak-detection and curve-fitting methods. This work develops two complementary tune estimators with a shared spectral front-end but different temporal representations. The classical estimator coherently pools motion-compensated spectra, detects the sideband using a multi-width matched-filter bank, and performs sub-bin estimation through local argmax and an adaptive MAD-gated centroid. The deep-learning estimator converts each spectrum into a tune-likelihood map using a convolutional neural network with FFT-based global convolutions, then propagates the posterior with a discrete two-dimensional (q,v) Bayesian tracker under a Gaussian motion model while also reporting posterior uncertainty. On a synthetic dynamic-tune benchmark, the deep-learning estimator outperforms published baselines across the operating range, while the classical estimator exceeds the latency-compensated baseline and requires neither training data nor GPU acceleration. On near-stationary SAPT beam data, both methods operate end-to-end, with the deep-learning model requiring no retraining. Median per-frame latency remains below 1 ms on commodity hardware, supporting real-time-capable tune measurement in compact medical synchrotrons.",
+    "authors": [
+      "Peihan Sun",
+      "Manzhou Zhang",
+      "Renxian Yuan",
+      "Deming Li",
+      "Jian Dong"
+    ],
+    "published": "2026-07-15T12:54:27Z",
+    "updated": "2026-07-15T12:54:27Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2607.12984v1",
+    "url": "https://arxiv.org/abs/2607.12984v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.12984v1.pdf",
+    "title": "Single-Shot High-Energy Muon and Particle Radiography with a Multi-GeV Laser-Wakefield-Accelerator-Driven Source",
+    "abstract": "We report the first demonstration of single-shot particle radiography using a 1-10 GeV laser-wakefield-generated beam of muons, pions, and neutrons. The test objects were imaged ~15 m from the beam source, through dense lead shielding followed by the walls of a building and a truck. The muon content of the beam was directly confirmed using large volume scintillator-based detectors, which recorded particle decay events with timing delays consistent with the muon lifetime. Simulations confirm that the high energy component of the beam transmitted through the test object is nearly entirely composed of muons, directly showing their highly penetrative nature, with a single-shot fluence equivalent to >8 hours of integration of cosmic ray muons near the horizon. Our work establishes single-shot high-energy particle radiography with a laser-wakefield-accelerator-driven source.",
+    "authors": [
+      "Kaixin Zhu",
+      "G. Jackson Williams",
+      "Roberto Versaci",
+      "Ela Rockafellow",
+      "Anna Cimmino",
+      "Jaron E. Shrock",
+      "Reed Hollinger",
+      "Gabriele M. Grittani",
+      "Jiří Šišma",
+      "Ari Sloss",
+      "Nikola Durand",
+      "Nischal Tripathi",
+      "Jay Jablonski",
+      "James King",
+      "Gerardo Palma",
+      "Zach Rautio",
+      "Bryan Sullivan",
+      "Shoujun Wang",
+      "Frederica Sorkin",
+      "Sina Zahedpour",
+      "Ping Zhang",
+      "Bo Miao",
+      "Andrew Yandow",
+      "Mayank Gupta",
+      "Scott W. Hancock",
+      "Scott C. Wilks",
+      "Vincent Tang",
+      "David Warner",
+      "Jorge J. Rocca",
+      "John Harton",
+      "Howard M. Milchberg",
+      "Brendan A. Reagan"
+    ],
+    "published": "2026-07-14T17:26:12Z",
+    "updated": "2026-07-14T17:26:12Z",
+    "categories": [
+      "physics.plasm-ph",
+      "hep-ex",
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.plasm-ph"
+  },
+  {
+    "arxiv_id": "2601.06921v2",
+    "url": "https://arxiv.org/abs/2601.06921v2",
+    "pdf_url": "https://arxiv.org/pdf/2601.06921v2.pdf",
+    "title": "Influence of bending parameters on crystalline undulator radiation peak stability for 530 MeV positron channelling",
+    "abstract": "We investigate the stability of crystalline undulator radiation (CUR) peaks emitted by 530 MeV positron channelling in periodically bent C(110) crystals with varying bending amplitudes and bending periods. Relativistic molecular dynamics simulations were performed to quantify how these parameters affect the intensity and position of the CUR peak. The continuous potential approximation was used to identify isolines of constant peak energy, providing a reference for regions of spectral stability. MD results show that increasing the bending amplitude shifts the CUR peak to lower photon energies, while decreasing the period shifts it to higher energies, with both trends accompanied by enhanced dechannelling. For crystal parameters similar to recent experiments conducted at the MAinz MIkrotron (MAMI), the simulated CUR peak appears near 0.515 MeV. These results demonstrate that the CUR peak remains stable across a broad range of bending amplitudes and periods, providing quantitative estimates of the sensitivity of the emitted radiation to variations in the crystal bending parameters.",
+    "authors": [
+      "Matthew D. Dickers",
+      "Felipe Fantuzzi",
+      "Nigel J. Mason",
+      "Andrei V. Korol",
+      "Andrey V. Solov'yov"
+    ],
+    "published": "2026-01-11T14:06:53Z",
+    "updated": "2026-07-14T12:11:50Z",
+    "categories": [
+      "physics.acc-ph",
+      "physics.app-ph",
+      "physics.atom-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2604.03702v2",
+    "url": "https://arxiv.org/abs/2604.03702v2",
+    "pdf_url": "https://arxiv.org/pdf/2604.03702v2.pdf",
+    "title": "Analytical evaluation of surface barrier and resistance in iron-based superconducting multilayers for Superconducting Radio-Frequency applications",
+    "abstract": "New superconducting materials, particularly iron-based superconductors (IBS), have recently attracted attention for their potential applications in particle detectors and accelerators. This paper discusses the application of these materials in multilayer structures for radio-frequency resonators used to accelerate charged particles, with the aim of improving performance compared to bulk niobium. These materials are compared with previously studied multilayers composed of conventional superconductors in terms of the maximum magnetic field they can withstand, their surface resistance, and their power loss per unit surface area. Finally, perspectives and future applications aimed at increasing operating temperatures are discussed.",
+    "authors": [
+      "Carlos Redondo Herrero",
+      "Akira Miyazaki"
+    ],
+    "published": "2026-04-04T12:13:34Z",
+    "updated": "2026-07-13T13:11:17Z",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mtrl-sci",
+      "physics.acc-ph"
+    ],
+    "primary_category": "cond-mat.supr-con"
+  },
+  {
+    "arxiv_id": "2607.11407v1",
+    "url": "https://arxiv.org/abs/2607.11407v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.11407v1.pdf",
+    "title": "Beam based undulator trajectory alignment at European XFEL",
+    "abstract": "Precise alignment of the undulator trajectory onto a straight line is a per-requisite for high fidelity SASE operation, which in turn also enables non-standard operation modes like self-seeding or two-color operation. At European XFEL electron and photon beam-based method are combined with a step-by-step performance-based optimization to ensure that the trajectory is on a straight line over most of the length of the about 250 m long undulator system.",
+    "authors": [
+      "Winfried Decking",
+      "Frank Brinker",
+      "Lars Froehlich",
+      "Matthias Scholz",
+      "Wolfgang Freund"
+    ],
+    "published": "2026-07-13T11:13:33Z",
+    "updated": "2026-07-13T11:13:33Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2605.19650v3",
+    "url": "https://arxiv.org/abs/2605.19650v3",
+    "pdf_url": "https://arxiv.org/pdf/2605.19650v3.pdf",
+    "title": "Design and Development of the P-cubed Target Insertion Device (P$^3$-TID)",
+    "abstract": "The P-cubed Target Insertion Device (P$^3$-TID) is a research instrument dedicated to test novel positron source target configurations inside of the proof-of-principle PSI Positron Production (P-cubed or P$^3$) experiment at the Paul Scherrer Institute. The device allows an easy installation, positioning and replacement of different fixed targets. The present article describes its mechanical design at a detailed level.",
+    "authors": [
+      "R. Mena-Andrade",
+      "J-L. Grenard",
+      "K. Guergar",
+      "R. Seidenbinder",
+      "M. I. Besana",
+      "N. Vallis",
+      "M. Zykova",
+      "D. Hauenstein",
+      "R. Zennaro",
+      "P. Craievich",
+      "A. Perillo-Marcone"
+    ],
+    "published": "2026-05-19T10:41:22Z",
+    "updated": "2026-07-12T16:19:40Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2607.10497v1",
+    "url": "https://arxiv.org/abs/2607.10497v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.10497v1.pdf",
+    "title": "Investigation of transverse instability in efficient plasma-based accelerators",
+    "abstract": "Simultaneously maximizing power-transfer efficiency and preserving beam quality in plasma-based accelerators is constrained by the transverse beam breakup instability. We present an analytical transverse wake model derived from the plasma wake potential that self-consistently captures deformed cavity boundaries under intense beam loading. This model maps efficiency limits against stability thresholds across a parametric scan to isolate an operating window. Three-dimensional particle-in-cell simulations validate the theoretical model, showing that the analytical centroid evolution matches numerical tracking during the acceleration of a tailored trapezoidal electron bunch over a 1 m propagation distance. The bunch achieves an energy gain of up to 16.5 GeV with nearly preserved transverse emittance, and a wake-to-trailing bunch power-transfer efficiency of nearly 80%, with a final relative energy spread of less than 1.5%. These results show that the efficiency-instability barrier can be circumvented through precise determination of transverse wake force and tailored beam loading, providing a design path toward compact, high-luminosity particle colliders.",
+    "authors": [
+      "Arohi Jain",
+      "Navid Vafaei-Najafbadi"
+    ],
+    "published": "2026-07-11T22:15:50Z",
+    "updated": "2026-07-11T22:15:50Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2607.09457v1",
+    "url": "https://arxiv.org/abs/2607.09457v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.09457v1.pdf",
+    "title": "Report on the Advanced Linear Collider Study Group (ALEGRO) Workshop 2026",
+    "abstract": "The 7th ALEGRO workshop, hosted by INFN Frascati National Laboratories from 3rd to 5th March 2026, brought together the international Advanced Novel Accelerators (ANA) community to discuss the role of advanced wakefield accelerators (AWA) in particle and high-energy physics. Organized under the ICFA-ANA panel, the workshop highlighted recent progress in plasma- and structure-based wakefield acceleration and strengthened international collaboration toward future energy-frontier colliders.   A major focus was the ongoing 10 TeV linear collider design study, launched in 2025 following the US P5 recommendations. A dedicated session covered accelerator concepts, enabling technologies, and the associated physics case, while recognizing that future priorities will depend on the outcome of the European Strategy for Particle Physics Update.   The workshop also reviewed nearer-term applications of advanced accelerators, including fixed-target experiments, injectors for future colliders and light sources, plasma-based Higgs factory concepts, and proton-driven plasma wakefield acceleration. Beyond high-energy physics, sessions covered free-electron lasers, synchrotron light sources, and strong-field QED. Recent demonstrations of FEL lasing with plasma-accelerated electron beams highlighted significant progress in beam quality and accelerator performance.   Operational challenges for reliable user facilities, including high-availability laser and electron-beam systems, were discussed alongside the growing role of artificial intelligence and machine learning for accelerator optimization and control.   This report summarizes the workshop discussions and conclusions from the chairs, together with short contributions from the presenters, providing an overview of the current status and future prospects of advanced wakefield accelerators.",
+    "authors": [
+      "L. Verra",
+      "P. Muggli",
+      "B. Cross",
+      "E. Adli",
+      "R. Babjak",
+      "T. Barklow",
+      "F. Bencivenga",
+      "C. Benedetti",
+      "C. Benedetti",
+      "M. Buscher",
+      "S. S. Bulanov",
+      "A. Caldwell",
+      "G. Chen",
+      "O. Chubenko",
+      "R. D'Arcy",
+      "S. Diederichs",
+      "K. Downham",
+      "J. Farmer",
+      "M. Ferrario",
+      "A. Ferran Pousa",
+      "A. Formenti",
+      "M. Fuchs",
+      "S. Gessner",
+      "L. Giannessi",
+      "Z. Gong",
+      "J. Grames",
+      "T. Grismayer",
+      "H. Jaworska",
+      "L. Ji",
+      "V. Kain",
+      "S. Karkare",
+      "A. Knetsch",
+      "C. Lindstrom",
+      "N. Lopes",
+      "N. Lopes",
+      "F. Massimo",
+      "C. Masciovecchio",
+      "P. Oliveira",
+      "T. Opferkuch",
+      "J. Osterhoff",
+      "J. Osterhoff",
+      "S. Pagan Griso",
+      "G. Penco",
+      "J. Power",
+      "A. Pukhov",
+      "T. P. Rakitzis",
+      "A. Rastogi",
+      "L. Reichwein",
+      "C. B. Schroeder",
+      "L. O. Silva",
+      "A. Sinn",
+      "D. Sofikitis",
+      "D. Storey",
+      "M. Thévenet",
+      "M. Trovò",
+      "M. Turner",
+      "M. Vranic",
+      "F. Willeke",
+      "T. Wilson",
+      "M. Wing",
+      "W. Zhang",
+      "Chuan Zheng"
+    ],
+    "published": "2026-07-10T14:28:32Z",
+    "updated": "2026-07-10T14:28:32Z",
+    "categories": [
+      "physics.acc-ph",
+      "hep-ex",
+      "hep-th",
+      "physics.plasm-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2512.20356v3",
+    "url": "https://arxiv.org/abs/2512.20356v3",
+    "pdf_url": "https://arxiv.org/pdf/2512.20356v3.pdf",
+    "title": "Optimizing the interaction geometry of inverse Compton scattering x-ray sources",
+    "abstract": "Inverse Compton scattering (ICS) is a promising method for generating coherent and tunable x-rays in a compact setup. In this paper, we present a theoretical framework describing the output of an ICS x-ray source for arbitrary interaction angles between pulsed electron and laser beams, in the Thomson regime. This allows for analytic optimization of the x-ray beam properties by varying the parameters defining the geometry. In general, different x-ray applications require optimization of different x-ray beam properties, such as energy spread for x-ray spectroscopy and angular spread for x-ray scattering measurements. In this paper, we restrict ourselves to optimization of the x-ray brilliance, which is a comprehensive figure of merit for x-ray beam quality. The framework can be used, however, to optimize other x-ray properties. We investigate two specific ICS interaction geometries in particular: head-on scattering of a laser beam off an electron beam; and scattering of a laser beam off an electron beam in a co-propagating geometry, interacting under a grazing angle. For head-on scattering we show that a tightly focused, cylindrically symmetric laser pulse, which balances laser intensity and interaction time, optimizes the x-ray brilliance. For a co-propagating, grazing angle geometry, an elliptical focus of the laser pulse is required to mitigate the geometric reduction of the interaction time. We find that the latter geometry is especially useful for soft x-ray generation.",
+    "authors": [
+      "C. W. Sweers",
+      "O. J. Luiten"
+    ],
+    "published": "2025-12-23T13:37:11Z",
+    "updated": "2026-07-10T11:53:52Z",
+    "categories": [
+      "physics.acc-ph",
+      "physics.optics"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2607.09243v1",
+    "url": "https://arxiv.org/abs/2607.09243v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.09243v1.pdf",
+    "title": "Weak-Strong Steady-State Microbunching Accelerator Light Source",
+    "abstract": "We propose a phase space manipulation involving one energy modulation sandwiched by two dispersion sections which converts a bunched particle beam or bunch train to ultra-high-harmonic density modulation, while the energy modulation in principle can be arbitrarily weak. The same scheme can also be used for energy bunching, creating energy levels in a bunched beam. We further propose a mechanism invoking three laser modulators in a storage ring to longitudinally focus the electron beam both weakly and strongly, such that a microbunch train and its high-density-harmonics or energy bunching form and sustain turn-by-turn. We call this mechanism weak-strong steady-state microbunching (Weak-Strong SSMB). The longitudinal beta function can vary by seven orders of magnitude along such a ring, with the minimal value squeezed to 10 nm. An example application of Weak-Strong SSMB for kW coherent EUV radiation is presented. Extension to X-ray can be anticipated. An energy-leveled electron beam enables $γ$-ray frequency comb production. The ideas can be scaled to wavelengths like RF and THz, for bunch length and energy spread control, ultrashort X-ray and coherent THz generation. Our work establishes a new paradigm for longitudinal dynamics study, accelerator light source development, and opens great potential for accelerator physics and technology.",
+    "authors": [
+      "Xiujie Deng",
+      "Alexander Wu Chao",
+      "Wenhui Huang",
+      "Zhilong Pan",
+      "Chuanxiang Tang",
+      "Jingyuan Zhao"
+    ],
+    "published": "2026-07-10T09:40:20Z",
+    "updated": "2026-07-10T09:40:20Z",
+    "categories": [
+      "physics.acc-ph",
+      "physics.app-ph",
+      "physics.optics",
+      "physics.plasm-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2607.09037v1",
+    "url": "https://arxiv.org/abs/2607.09037v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.09037v1.pdf",
+    "title": "First Synchrotron Injection Attempt into The SuperKEKB High Energy Ring",
+    "abstract": "A synchrotron injection scheme for the SuperKEKB electron high-energy ring (HER) was implemented and experimentally evaluated as the first attempt with a top-up injection during beam collisions. The lattice at the HER injection point was configured to provide a large horizontal dispersion of -1.6 m, and the injection beam energy was accordingly set to +0.6% above the ring energy. Since the beam extraction system is located near the injection point, the optics design was constrained to ensure compatibility with its requirements. A systematic tuning procedure of the injection parameters has been established with turn-by-turn BPMs(TbT-BPMs) in the ring, by which the betatron amplitude of the injected beam was successfully removed. Using optimized ring optics, synchrotron injection into the HER was successfully demonstrated, followed by the establishment of stable collisions and the production of luminosity.",
+    "authors": [
+      "N. Iida",
+      "Y. Funakoshi",
+      "H. Kaji",
+      "T. Kamitani",
+      "M. Kikuchi",
+      "K. Kodama",
+      "H. Koiso",
+      "T. Mimashi",
+      "G. Mitsuka",
+      "T. Mori",
+      "Y. Ohnishi",
+      "Y. Seimiya",
+      "K. Shibata",
+      "H. Sugimoto",
+      "M. Tawada",
+      "T. Ueda",
+      "R. Ueki",
+      "T. Yoshimoto",
+      "M. Li",
+      "K. Oide"
+    ],
+    "published": "2026-07-10T02:10:23Z",
+    "updated": "2026-07-10T02:10:23Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2607.08205v1",
+    "url": "https://arxiv.org/abs/2607.08205v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.08205v1.pdf",
+    "title": "Development of a Silicon-Based Ultra-Fast X-Ray Beam Size Monitor for SuperKEKB",
+    "abstract": "We present the development of a silicon-based ultra-fast X-ray beam size monitor (SiXRM) for SuperKEKB. The system enables, for the first time at SuperKEKB, bunch-by-bunch measurements of the vertical beam size using synchrotron radiation. The detector combines a silicon strip sensor board, amplifier boards, and fast waveform readout electronics. Beam measurements demonstrate clear reconstruction of the bunch structure and X-ray images for individual bunches. The measured beam sizes show good agreement with those obtained from the existing CMOS-based XRM system. The measurement precision is estimated to be better than 6.4 $μ$m. This system provides a powerful tool for studying beam dynamics and optimizing luminosity in high-luminosity colliders.",
+    "authors": [
+      "Matthew Andrew",
+      "Riku Nomaru",
+      "Gaku Mitsuka",
+      "Keisuke Yoshihara",
+      "Cody Driver",
+      "Christopher J. Kenny",
+      "Bela Urbschat",
+      "Gary Varner",
+      "John W. Flanagan"
+    ],
+    "published": "2026-07-09T08:03:47Z",
+    "updated": "2026-07-09T08:03:47Z",
+    "categories": [
+      "physics.ins-det",
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.ins-det"
+  },
+  {
+    "arxiv_id": "2607.08069v1",
+    "url": "https://arxiv.org/abs/2607.08069v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.08069v1.pdf",
+    "title": "Multi-GeV Electron Combs from a Plasma Wakefield Accelerator",
+    "abstract": "Plasma accelerators now produce GeV-class electron beams with brightness and stability sufficient to drive free-electron lasers. Beyond this, they possess a unique yet largely unexplored capability: shaping the phase space of the beam in situ during injection, on femtosecond or shorter timescales. Here we demonstrate this capability by generating a multi-GeV electron comb comprising more than ten microbunches simultaneously separated in both energy and time. Periodic pinching of the drive beam inside its self-excited plasma wake sequentially injects microbunches via ionization of embedded helium atoms at successive betatron oscillations, while the gently varying plasma density maps each bunchlet to a distinct wake phase, compressing electrons trapped over a ~17 cm region into a comb only micrometers long. Individual microbunches exhibit percent-level energy spreads, energy spacing up to ten percent, and contain several picocoulomb charge. The percent-level spreads and parabolic energy-spacing trend provide experimental evidence for sub-femtosecond microbunch durations and few-femtosecond separations as revealed by beam-loading analysis and confirmed by particle-in-cell simulations. This work demonstrates femtosecond, in-situ phase-space shaping in plasma accelerators, paving the way for electron beams with tailored energy-time structure.",
+    "authors": [
+      "Chaojie Zhang",
+      "Douglas Storey",
+      "Alexander Knetsch",
+      "Brendan D. O'Shea",
+      "Robert Ariniello",
+      "Sébastien Corde",
+      "Thamine N. Dalichaouch",
+      "Claudio Emma",
+      "Ole G. Finnerud",
+      "Spencer Gessner",
+      "Claire Hansel",
+      "Valentina Lee",
+      "Carl A. Lindstrøm",
+      "Michael Litos",
+      "Nathan Majernik",
+      "Kenneth A. Marsh",
+      "Warren B. Mori",
+      "Mark J. Hogan",
+      "Chan Joshi"
+    ],
+    "published": "2026-07-09T02:53:29Z",
+    "updated": "2026-07-09T02:53:29Z",
+    "categories": [
+      "physics.acc-ph",
+      "physics.plasm-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2607.07979v1",
+    "url": "https://arxiv.org/abs/2607.07979v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.07979v1.pdf",
+    "title": "TeV Electron Beams from Plasma Acceleration via Regenerative Cascading",
+    "abstract": "Plasma accelerators sustain gradients orders of magnitude higher than conventional radiofrequency machines, but most proposed paths to TeV energies still require tens of stages, each demanding sub-micrometer alignment, femtosecond synchronization, and precise matching of the accelerating trailing bunch. Here we introduce plasma wakefield acceleration via regenerative cascading, in which each stage self-injects a fresh trailing electron bunch and the accelerated trailing bunch becomes the driver for the next stage. This approach has several advantages: energy multiplication instead of addition; automatic alignment, synchronization, and matching of the trailing bunch to the wake; and trailing bunch brightness reset in each stage. Particle-in-cell simulations show the generation of a 1.1 TeV electron beam with ~0.3% rms energy spread and 0.12 nC charge from a two-stage, sub-kilometer plasma accelerator driven by a 45 GeV, 100 nC beam. The low energy spread is achieved via dynamic beam loading in the evolving wake of the post-depletion driver that acts as a built-in energy dechirper.",
+    "authors": [
+      "Chaojie Zhang",
+      "Chan Joshi"
+    ],
+    "published": "2026-07-08T23:10:20Z",
+    "updated": "2026-07-08T23:10:20Z",
+    "categories": [
+      "physics.acc-ph",
+      "physics.plasm-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2606.31615v2",
+    "url": "https://arxiv.org/abs/2606.31615v2",
+    "pdf_url": "https://arxiv.org/pdf/2606.31615v2.pdf",
+    "title": "Time domain analysis of bunched e-beam tapering-enhanced superradiance at zero-slippage conditions",
+    "abstract": "Exceptionally, a bunched electron beam can get trapped by its own spontaneously emitted synchrotron undulator radiation in the self-interaction scheme of TES (Tapering Enhanced Superradiance). In this scheme, excess radiative energy is extracted from the beam by tapering the undulator after the bunch trapping. To avoid slippage of the radiation wavepacket away from the bunch, the interaction takes place in a waveguide with a slow group velocity mode. Here we study the time domain waveform of the Electric Field and the radiation energy buildup in this scheme. We compare its analytical theory and numerical simulations in an ideal exemplary setup based on a rectangular waveguide and a planar undulator",
+    "authors": [
+      "Amir Weinberg",
+      "Leon Feigin",
+      "Ariel Nause",
+      "Avraham Gover"
+    ],
+    "published": "2026-06-30T13:04:13Z",
+    "updated": "2026-07-08T09:33:36Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2607.06759v1",
+    "url": "https://arxiv.org/abs/2607.06759v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.06759v1.pdf",
+    "title": "Five-Dimensional Beam Sigma Matrix Determination in Transport Lines with Differentiable Simulation",
+    "abstract": "Precise measurement of the beam sigma matrix is essential for matching the optics in transport lines and ensuring reliable accelerator operation. In this work, we present a method for measuring and reconstructing the non-temporal five-dimensional beam sigma matrix using quadrupole scans performed in a dispersive transport region. The proposed approach enables characterization of the beam moments using only quadrupoles and beam transverse profile diagnostics, without requiring longitudinal diagnostics or a dedicated beamline section. To achieve robust and computationally efficient reconstruction, we formulate the problem within a differentiable simulation framework, allowing direct gradient-based optimization of the initial beam covariance matrix. We demonstrate the method experimentally in the Booster-to-Storage-ring (BTS) transport line at the Advanced Photon Source (APS), where it produces consistent reconstructions of the beam sigma matrix from measurements. We further show that the framework is flexible with respect to the number and placement of diagnostic screens, making it applicable to a broad range of existing transport-line configurations. These results establish the proposed 5D beam sigma matrix reconstruction method as a practical and broadly deployable approach for fast, efficient beam characterization during accelerator operation.",
+    "authors": [
+      "Chenran Xu",
+      "Louis Emery",
+      "Osama Mohsen",
+      "Ryan Roussel",
+      "Kent P. Wootton",
+      "Yine Sun",
+      "Michael Borland"
+    ],
+    "published": "2026-07-07T19:41:24Z",
+    "updated": "2026-07-07T19:41:24Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2607.06458v1",
+    "url": "https://arxiv.org/abs/2607.06458v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.06458v1.pdf",
+    "title": "Exact 1D Nonlinear Solutions for Proton-Driven Plasma Wakefields: Benchmarking Against AWAKE Data Envelopes",
+    "abstract": "The analytical modeling of a plasma wakefield driven by a relativistic proton beam is an element in optimizing advanced plasma-based acceleration schemes. In this work, we present a 1D nonlinear fluid framework under the quasi-static approximation to describe the wake potential excited by a positively charged proton driver. We examine our model using a two-bunch pump-probe configuration, demonstrating close agreement between the analytical invariants and adaptive numerical integrations. The distinct geometric curvature changes observed at the micro-bunch boundaries are shown to be physical consequences of step-discontinuities in the second derivative of the wake potential across the beam interfaces. Furthermore, by scaling this numerical framework to a train of $N=100$ micro-bunches undergoing seeded self-modulation (SSM), we model the physical parameters of the CERN AWAKE facility ($n_0 = 7.0 \\times 10^{14}\\text{ cm}^{-3}$). Our model replicates the characteristic linear growth envelope and matches the calibrated field envelope boundaries of approximately $\\pm 0.75\\text{ GV/m}$ inferred from the experiment. This piece-wise framework provides a computationally efficient foundation for investigating customized, asymmetric micro-bunch profiles designed to optimize the transformer ratio beyond the fundamental symmetric limit of 2.",
+    "authors": [
+      "D. Tsiklauri"
+    ],
+    "published": "2026-07-07T16:21:44Z",
+    "updated": "2026-07-07T16:21:44Z",
+    "categories": [
+      "physics.plasm-ph",
+      "astro-ph.HE",
+      "astro-ph.SR",
+      "physics.acc-ph",
+      "physics.space-ph"
+    ],
+    "primary_category": "physics.plasm-ph"
+  },
+  {
+    "arxiv_id": "2607.06226v1",
+    "url": "https://arxiv.org/abs/2607.06226v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.06226v1.pdf",
+    "title": "Characterizing an inverse Compton X-ray source and determining its electron beam parameters using a genetic algorithm",
+    "abstract": "Inverse Compton X-ray sources are laboratory-scale devices providing quasi-monochromatic synchrotron radiation which is generated by laser photons Compton-scattering off highly relativistic electrons. Since the shape and width of the X-ray spectrum are determined by the properties of the colliding beams, these must be carefully optimised. However, device compactness limits the space for diagnostics, rendering a complete characterisation challenging, especially if an electron storage ring is combined with a laser enhancement cavity. Here, a framework for laser, electron and X-ray beam parameter determination is proposed to address this issue. First, methods for determining the laser- and X-ray parameters are presented. Knowing these, electron beam parameters are retrieved from the shape of the X-ray spectrum. To this end, an analytical physical model enabling a rapid calculation of inverse Compton scattering spectra is developed and combined with a genetic algorithm. This strategy's effectiveness is demonstrated by applying the concept at the Munich Compact Light Source, a storage ring-based inverse Compton X-ray source facility. Since the analytical model is computationally very inexpensive, the proposed framework could enable real-time monitoring of inverse Compton X-ray sources or be used as a non-invasive diagnostic based on a single spectrum for the electron beam emittance of storage rings or accelerators.",
+    "authors": [
+      "Johannes Melcher",
+      "Jen-Fu Tu",
+      "Balša Terzić",
+      "Martin Dierolf",
+      "Erik Johnson",
+      "Franz Pfeiffer",
+      "Geoffrey Krafft",
+      "Benedikt Günther"
+    ],
+    "published": "2026-07-07T12:50:13Z",
+    "updated": "2026-07-07T12:50:13Z",
+    "categories": [
+      "physics.acc-ph",
+      "physics.optics"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2607.04994v2",
+    "url": "https://arxiv.org/abs/2607.04994v2",
+    "pdf_url": "https://arxiv.org/pdf/2607.04994v2.pdf",
+    "title": "Quasi mono-energetic, relativistic electron acceleration in a femtosecond, high intensity laser excited solid magnet",
+    "abstract": "The interaction of ultraintense lasers with magnetized overdense plasmas reveals a fundamentally new regime of laser-driven particle acceleration. Particle-in-cell simulations demonstrate the generation of directional, quasi-monoenergetic electrons in the MeV energy range superimposed on a broad thermal electron background with the estimated acceleration gradient of 3.6 MeV/μm, which is the highest till date. In contrast to conventional laser-plasma accelerators, which rely on underdense plasmas and are therefore constrained to relatively low plasma densities and limited beam charge, the present scheme operates in plasmas with densities orders of magnitude higher, opening new possibilities for the generation of high-flux energetic electron beams. A central result of this work is the demonstration of the excitation of electron Bernstein waves during relativistic laser interaction with magnetized overdense plasmas. The subsequent Landau damping of these electrostatic warm-plasma modes selectively transfers energy to resonant electrons, leading to the emergence of quasi-monoenergetic spectral peaks at energies that can be tuned through the applied magnetic field. To support the simulation results, we experimentally demonstrate the directional emission of energetic electrons from a simple permanent-magnet target irradiated by an ultraintense laser pulse, highlighting the practical feasibility of controlled electron-beam generation in dense plasma environments. These findings establish electron Bernstein waves as an efficient mediator of laser energy coupling in overdense plasmas and introduce a new paradigm for controlled particle acceleration and energy deposition in high-energy-density plasma systems.",
+    "authors": [
+      "Trishul Dhalia",
+      "Anandam Choudhary",
+      "C. Aparajit",
+      "Amit D. Lad",
+      "Ankit Dulat",
+      "Yash M. Ved",
+      "Rohit Juneja",
+      "Amita Das",
+      "G Ravindra Kumar"
+    ],
+    "published": "2026-07-06T12:29:16Z",
+    "updated": "2026-07-07T10:27:53Z",
+    "categories": [
+      "physics.plasm-ph",
+      "physics.acc-ph",
+      "physics.comp-ph"
+    ],
+    "primary_category": "physics.plasm-ph"
+  },
+  {
+    "arxiv_id": "2607.05618v1",
+    "url": "https://arxiv.org/abs/2607.05618v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.05618v1.pdf",
+    "title": "Using Chromaticity to Suppress Instabilities at $γ_t$ Transition",
+    "abstract": "For many synchrotrons which cross $γ_t$ transition, a high intensity threshold has been identified beyond which significant beam losses are observed. These losses are due to a high-intensity mode coupling instability, which can be suppressed by adjusting the chromaticity curve to cross zero slightly after $γ_t$ transition.",
+    "authors": [
+      "M. A. Balcewicz",
+      "J. Eldred"
+    ],
+    "published": "2026-07-06T20:28:09Z",
+    "updated": "2026-07-06T20:28:09Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2607.04312v1",
+    "url": "https://arxiv.org/abs/2607.04312v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.04312v1.pdf",
+    "title": "Beam-excited resonant modes in RF cavities",
+    "abstract": "Beam-excited resonant modes in RF cavities are important sources of beam-coupling impedance and coupled-bunch instabilities in high-current storage rings. We develop a unified framework for longitudinal and transverse resonant impedances based on Maxwell's equations and generalized cavity-voltage definitions, and derive analytical expressions for impedances obtained from finite-length truncated wakefields. The formulation enables the resonant frequencies, normalized longitudinal and transverse shunt impedances, and, when sufficiently constrained, the quality factors to be extracted from practical wakefield simulations without requiring fully converged long-range wakes. The method is validated with an axisymmetric pillbox cavity through comparison with analytical results and eigenmode calculations. It is then applied to the RF cavity of the Storage-Ring-based Coherent Light Source (SRCLS), where the extracted HOM parameters are used to reconstruct total impedance spectra, evaluate coupled-bunch instability thresholds, and guide cavity-geometry optimization. The results demonstrate an efficient connection between wakefield analysis, eigenmode characterization, and beam-stability evaluation for practical RF-cavity designs.",
+    "authors": [
+      "Yanxu Wang",
+      "Demin Zhou",
+      "Ji Li",
+      "Weijie Fan",
+      "Qinglei Zhang",
+      "Chao Feng",
+      "Zhentang Zhao"
+    ],
+    "published": "2026-07-05T14:01:49Z",
+    "updated": "2026-07-05T14:01:49Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2509.17255v2",
+    "url": "https://arxiv.org/abs/2509.17255v2",
+    "pdf_url": "https://arxiv.org/pdf/2509.17255v2.pdf",
+    "title": "Agentic Artificial Intelligence for Multistage Physics Experiments at a Large-Scale User Facility Particle Accelerator",
+    "abstract": "We present the first language-model-driven agentic artificial intelligence (AI) system to autonomously execute multi-stage physics experiments on a production synchrotron light source. Implemented at the Advanced Light Source particle accelerator, the system translates natural language user prompts into structured execution plans that combine archive data retrieval, control-system channel resolution, automated script generation, controlled machine interaction, and analysis. In a representative machine physics task, we show that preparation time was reduced by two orders of magnitude relative to manual scripting even for a system expert, while operator-standard safety constraints were strictly upheld. Core architectural features, plan-first orchestration, bounded tool access, and dynamic capability selection, enable transparent, auditable execution with fully reproducible artifacts. These results establish a blueprint for the safe integration of agentic AI into accelerator experiments and demanding machine physics studies, as well as routine operations, with direct portability across accelerators worldwide and, more broadly, to other large-scale scientific infrastructures.",
+    "authors": [
+      "Thorsten Hellert",
+      "Drew Bertwistle",
+      "Simon C. Leemann",
+      "Antonin Sulc",
+      "Marco Venturini"
+    ],
+    "published": "2025-09-21T22:11:03Z",
+    "updated": "2026-07-04T21:07:57Z",
+    "categories": [
+      "physics.acc-ph",
+      "cs.AI"
+    ],
+    "primary_category": "physics.acc-ph",
+    "doi": "10.1103/jtqy-9jz1"
+  },
+  {
+    "arxiv_id": "2607.03895v1",
+    "url": "https://arxiv.org/abs/2607.03895v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.03895v1.pdf",
+    "title": "Beam-Level Nonlinear Compton Spectra via a Neural Network Surrogate Model",
+    "abstract": "Nonlinear Compton scattering enables sources of intense high-energy radiation. However, predicting source-level spectra for realistic electron beams typically requires computationally expensive trajectory-based calculations, whereas existing analytical models for spectral envelopes are limited to a restricted range of laser pulse parameters. Here, we demonstrate that, for electron beams with sufficiently broad phase-space distributions, beam-level nonlinear Compton spectra can be predicted without lengthy numerical calculations. Our approach combines a fast neural-network surrogate for single-electron spectral envelopes with particle-wise Lorentz transformations. Benchmarked against trajectory-based numerical calculations with thousands of macroparticles, the surrogate reproduces the macroscopic spectral-angular structure while reducing the computational cost by orders of magnitude.",
+    "authors": [
+      "Antonina Timoshenko",
+      "Maxim Malakhov",
+      "Alexander Fedotov",
+      "Sergey Rykovanov"
+    ],
+    "published": "2026-07-04T14:25:22Z",
+    "updated": "2026-07-04T14:25:22Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2607.02373v2",
+    "url": "https://arxiv.org/abs/2607.02373v2",
+    "pdf_url": "https://arxiv.org/pdf/2607.02373v2.pdf",
+    "title": "Brilliant multi-GeV Compton gamma-ray source seeded by a photon accelerator",
+    "abstract": "High-brilliance sources of polarized gamma rays are widely sought after to pump and probe matter at subatomic length scales. However, existing accelerator facilities and optical lasers cannot reach a sufficiently high center-of-mass energy to produce polarized, multi-GeV gamma rays from unpolarized electrons via inverse Compton scattering. Here we propose a scheme where the optical laser photons are first \"accelerated\" to the extreme ultraviolet in a beam-driven plasma wakefield, then reflected by a plasma mirror back onto a trailing electron beam, producing a flash of gamma rays. Numerical simulations demonstrate this light source can achieve a high peak-brilliance (10^25 photons/s mm^2 mrad^2 0.1% BW) and a high degree of circular (95 %) or linear (77 %) polarization at multi-GeV photon energies, paving the way for the production of spin-polarized positrons and tests of light-by-light scattering.",
+    "authors": [
+      "Michael J. Quin",
+      "Stepan S. Bulanov",
+      "Arkady Gonoskov",
+      "Christopher D. Murphy",
+      "Mattias Marklund",
+      "Alexander G. R. Thomas",
+      "Thomas G. Blackburn"
+    ],
+    "published": "2026-07-02T16:14:05Z",
+    "updated": "2026-07-03T17:34:07Z",
+    "categories": [
+      "physics.plasm-ph",
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.plasm-ph"
+  },
+  {
+    "arxiv_id": "2604.07305v2",
+    "url": "https://arxiv.org/abs/2604.07305v2",
+    "pdf_url": "https://arxiv.org/pdf/2604.07305v2.pdf",
+    "title": "Phase-Selective Excitation of Betatron Oscillations by Nonadiabatic Magnetic-Field Switching",
+    "abstract": "Nonadiabatic removal of an external transverse magnetic field provides a phase-selective mechanism for controlling betatron oscillations in laser wakefield accelerators. When the field is switched off on a timescale shorter than the betatron period, the equilibrium orbit shifts abruptly and acts as an impulsive transverse drive. The induced motion interferes coherently with the preexisting betatron oscillation, leading to phase-dependent enhancement or suppression of the oscillation amplitude. A theoretical model shows that the excitation is governed by the dimensionless switching parameter $χ=ω_βL_s/c$, which distinguishes nonadiabatic and adiabatic regimes. Particle-in-cell simulations confirm the predicted scaling and demonstrate controllable modulation of the betatron radiation spectrum while leaving longitudinal acceleration largely unaffected. These results establish magnetic-field switching as a direct mechanism for phase control of relativistic betatron oscillations in plasma-based accelerators.",
+    "authors": [
+      "R. S. Anandu",
+      "B. Ramakrishna"
+    ],
+    "published": "2026-04-08T17:14:03Z",
+    "updated": "2026-07-03T10:34:31Z",
+    "categories": [
+      "physics.plasm-ph",
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.plasm-ph"
+  },
+  {
+    "arxiv_id": "2607.03002v1",
+    "url": "https://arxiv.org/abs/2607.03002v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.03002v1.pdf",
+    "title": "Fringe field induced spin-OAM mixing of twisted electrons",
+    "abstract": "We study spin effects in twisted-electron propagation through the entrance or exit region of an axially symmetric magnetic coil. Starting from the Foldy-Wouthuysen reduction of the Dirac equation, we derive a paraxial spinor equation in which the longitudinally varying solenoidal field produces, in addition to the usual diagonal Zeeman term, a transverse Pauli coupling proportional to the fringe-field gradient. The scalar transverse dynamics is treated exactly by the Ermakov mapping, which absorbs the longitudinally dependent focusing into a metaplectic scaling transformation and reduces the orbital evolution to that of a stationary two-dimensional oscillator. On this background, the transverse Pauli term is treated perturbatively and yields an explicit first-order correction for arbitrary realistic solenoidal profiles. Axial symmetry implies conservation of the total projection of angular momentum, so each spin flip is accompanied by a compensating one-quantum change of orbital angular momentum. In addition, the linear coordinate structure of the perturbation restricts the first-order dynamics to at most two neighboring radial sidebands for each incoming oscillator component. We derive the corresponding transition amplitudes and show how their phases are governed jointly by the Ermakov accumulation and the diagonal spin-orbital rotation. The resulting framework provides a direct way to quantify spin-orbit mixing of twisted electrons in realistic magnetic lenses and solenoidal beam-line elements, and it identifies a route toward controlled spin-OAM conversion in engineered sequences of magnetic-field edges.",
+    "authors": [
+      "S. V. Gatalina",
+      "S. S. Baturin"
+    ],
+    "published": "2026-07-03T06:36:16Z",
+    "updated": "2026-07-03T06:36:16Z",
+    "categories": [
+      "quant-ph",
+      "physics.acc-ph",
+      "physics.optics"
+    ],
+    "primary_category": "quant-ph"
+  },
+  {
+    "arxiv_id": "2607.02476v1",
+    "url": "https://arxiv.org/abs/2607.02476v1",
+    "pdf_url": "https://arxiv.org/pdf/2607.02476v1.pdf",
+    "title": "Cryogenic RF characterization of the MAGO cavity for high-frequency gravitational-wave detection",
+    "abstract": "Superconducting radio-frequency (SRF) cavities are promising resonant sensors for gravitational-wave detection in the kHz-MHz frequency range. We report the cryogenic RF characterization of a prototype superconducting niobium cavity with an unconventional geometry designed for narrow electromagnetic mode separation. Following an adapted surface preparation procedure, cryogenic tests were performed at Fermilab and DESY at temperatures down to 2\\,K. Mechanical tuning at room temperature achieved a mode splitting of approximately 11\\,kHz at cryogenic temperature. High electromagnetic quality factors consistent with previous prototype cavities were measured. The measurements further revealed phase transfer characteristics relevant for stable low-level RF control as well as indications of mode coupling potentially caused by one-point multipacting. In addition, first cryogenic measurements of the mechanical eigenmodes yielded mechanical quality factors significantly below commonly assumed theoretical values. These results demonstrate the successful application of established SRF preparation and characterization techniques to a non-standard resonator geometry and provide important experimental input for the development of future SRF-based gravitational-wave detectors.",
+    "authors": [
+      "Can Dokuyucu",
+      "Bianca Giaccone",
+      "Tom Krokotsch",
+      "Giovanni Marconato",
+      "Krisztian Peters",
+      "Marc Wenskat",
+      "Julien Branlard",
+      "Vijay Chouhan",
+      "Ivan Gonin",
+      "Anna Grassellino",
+      "Wolfgang Hillert",
+      "Timergali Khabiboulline",
+      "Oleksandr Melnychuk",
+      "Gudrid Moortgat-Pick",
+      "Alexandr Netepenko",
+      "Sam Posen"
+    ],
+    "published": "2026-07-02T17:46:37Z",
+    "updated": "2026-07-02T17:46:37Z",
+    "categories": [
+      "physics.ins-det",
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.ins-det"
+  },
+  {
+    "arxiv_id": "2602.20622v3",
+    "url": "https://arxiv.org/abs/2602.20622v3",
+    "pdf_url": "https://arxiv.org/pdf/2602.20622v3.pdf",
+    "title": "Laser Synchronisation Over One Hundred Kilometers With Stability at Picosecond Scale",
+    "abstract": "Large-scale systems, such as very large accelerators used for fundamental research, require the implementation of precise timing and synchronization systems over distances of several kilometers. Femtosecond synchronisation has been reached by the implementation of costly and complex clock distribution systems. However, many devices, such as accelerator diagnostics or detectors for physics at colliders, only require picosecond stability and, in some cases, similar accuracy. An approach that is based on the CERN White Rabbit protocol, deployed on an electronic system capable of generating arbitrary frequencies with Hertz precision, is proposed here. Results of performance tests for the synchronization of a laser system, typically employed as a diagnostic for electron/positron beam polarimetry in accelerators, are provided in this Paper. We demonstrate that the system can synchronize a pulsed laser with picosecond stability over one hundred kilometers on the short-term. The long-term stability over half a day is found to be of 5.5~ps for the 100~km link. The accuracy of the phase difference corresponding to $\\pm 20$~ps is obtained. This work paves the way for the deployment of White-Rabbit-based synchronization systems for accelerator components, such as lasers, but also for large-scale detectors.",
+    "authors": [
+      "Alice Renaux",
+      "Ronic Chiche",
+      "A. Martens",
+      "Antoine Back",
+      "Paul-Éric Pottie",
+      "Daniel Charlet"
+    ],
+    "published": "2026-02-24T07:18:42Z",
+    "updated": "2026-07-02T10:13:53Z",
+    "categories": [
+      "physics.acc-ph",
+      "physics.ins-det"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2604.24783v3",
+    "url": "https://arxiv.org/abs/2604.24783v3",
+    "pdf_url": "https://arxiv.org/pdf/2604.24783v3.pdf",
+    "title": "Hyperstatistics",
+    "abstract": "We propose a general approach, named by us hyperstatistics, to treat complex systems, in which Boltzmann-Gibbs statistics breaks down in domains of the system. Hyperstatistics preserves the concavity of nonadditive $q$-entropy. We obtain analytical closed-form expressions for the here proposed $q$-generalized Boltzmann factor $B_q$ considering uniform, $γ$, Log-normal, F, and the $q$-$γ$ probability distribution functions. Remarkably, for all investigated distribution functions, $B_q$ reduces to a $q$-exponential-type function. To demonstrate the applicability of hyperstatistics, we use a table top experiment of the discharge of a capacitor considering $γ$-distributed relaxation times, the pressure decay over time associated with the pumping of $^4$He lines of a closed cycle cryostat, midrapidity data for $p$-Pb collisions at the LHC, as well as data set for acceleration distribution in turbulent systems. Furthermore, we deduce the power-law-like dielectric response using the $q$-$γ$-distribution function. Our proposal is applicable to systems with inherent non-Boltzmann-Gibbsian statistics in domains of the system.",
+    "authors": [
+      "Lucas Squillante",
+      "Samuel M. Soares",
+      "Constantino Tsallis",
+      "Mariano de Souza"
+    ],
+    "published": "2026-04-23T22:30:25Z",
+    "updated": "2026-07-01T19:09:42Z",
+    "categories": [
+      "cond-mat.stat-mech",
+      "hep-ex",
+      "hep-th",
+      "nucl-th",
+      "physics.acc-ph",
+      "physics.data-an",
+      "physics.ins-det"
+    ],
+    "primary_category": "cond-mat.stat-mech"
+  },
+  {
+    "arxiv_id": "2605.27613v2",
+    "url": "https://arxiv.org/abs/2605.27613v2",
+    "pdf_url": "https://arxiv.org/pdf/2605.27613v2.pdf",
+    "title": "Longitudinal beam dynamics with active cavity systems",
+    "abstract": "In storage-ring-based light sources, harmonic cavities are commonly employed to lengthen the bunch, thereby mitigating collective effects and increasing beam lifetime. While this dual-RF configuration provides important benefits, it also introduces additional challenges. In particular, the impedance of the fundamental cavity modes can drive the beam into a longitudinal coupled-bunch unstable regime. To mitigate this effect, low-level RF (LLRF) feedback is introduced to reduce the effective impedance experienced by the beam. This work investigates longitudinal beam dynamics in the PETRA-IV dual-RF system with normal-conducting cavities, explicitly accounting for the LLRF feedback loop. Both analytical modeling and numerical simulations are used to characterize the onset and growth of coupled-bunch instabilities. The results show that, with appropriately chosen LLRF parameters, the destabilizing effect of the cavity fundamental mode can be effectively suppressed, enabling stable operation of the storage ring at the design beam current. This work highlights the critical role of RF feedback systems in ensuring robust longitudinal stability, thereby supporting the realization of PETRA-IV design goals and contributing to the development of next-generation synchrotron light sources, where high brilliance and operational reliability are essential.",
+    "authors": [
+      "Chao Li",
+      "Yong-Chul Chae",
+      "Sven Pfeiffer",
+      "Chris Christou"
+    ],
+    "published": "2026-05-26T19:27:16Z",
+    "updated": "2026-06-30T14:38:12Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2606.31335v1",
+    "url": "https://arxiv.org/abs/2606.31335v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.31335v1.pdf",
+    "title": "High-Power Polarization-Controlled Attosecond-Scale Soft X-ray Pulses",
+    "abstract": "We demonstrate a versatile platform for high-power attosecond soft X-ray pulse generation with polarization and photon energy control at the SwissFEL free-electron laser. An isolated high-current spike embedded within a long electron-beam pedestal emits soft X-ray pulses with single-spike spectra and multi-electronvolt bandwidths in the tunable magnetic fields of Apple-X undulators. Demonstrated pulse parameters include a photon energy range of 450--1070 eV, circular as well as linear polarization, and pulse energies from tens to above hundred microjoules. By tuning the longitudinal slice-dependent transverse electron beam orbit we can rapidly switch between attosecond and few femtosecond pulse length. By exploiting magnetic chicanes in the undulator line we can produce two-colour pulse pairs with tunable delay or increase the pulse energy beyond 200~\\textmu J through multi-stage amplification schemes. High-resolution longitudinal phase-space measurements and start-to-end simulations in addition to spectral measurements provide consistent evidence for attosecond-scale pulse durations. This unique combination of high pulse energy and polarization control of attosecond-scale soft X-ray pulses enables the element-specific investigations of spin and chiral dynamics on the natural time scale of electron motion.",
+    "authors": [
+      "Zhaoheng Guo",
+      "Carlo Vicario",
+      "Andre Al Haddad",
+      "Christopher Arrell",
+      "Andreas Dax",
+      "Umit Demirbas",
+      "Nicole Hiller",
+      "Martin Huppert",
+      "Christoph Kittel",
+      "Gregor Knopp",
+      "Eduard Prat",
+      "Sven Reiche",
+      "Antoine Sarracini",
+      "Thomas Schietinger",
+      "Kirsten Schnorr",
+      "Alexandre Trisorio",
+      "Didier Voulot",
+      "Tobias Weilbach",
+      "Hankai Zhang",
+      "Christoph Bostedt",
+      "Philipp Dijkstal"
+    ],
+    "published": "2026-06-30T08:35:53Z",
+    "updated": "2026-06-30T08:35:53Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2606.12091v2",
+    "url": "https://arxiv.org/abs/2606.12091v2",
+    "pdf_url": "https://arxiv.org/pdf/2606.12091v2.pdf",
+    "title": "Improvement of Heat-Treated Niobium Surface by In-situ Plasma Treatment Applied to Superconducting RF Resonator",
+    "abstract": "A specific heat treatment at 300 C, named medium-temperature baking (Mid-T baking) is applied to superconducting radio-frequency (SRF) accelerating cavities to improve the quality factor (Qo) at medium accelerating fields (10 to 20 MV/m). This treatment is very successful when done properly as it can reduce by almost a factor of two the power dissipations in this field range. However, surface contamination can lead to the degradation of Qo instead. Plasma-based surface treatment provides an effective approach to eliminate contaminants from the Niobium surface. In this study an insitu plasma cleaning process with argon containing 10 % O2 was performed to remove hydrocarbons from Niobium surface. The treatment was applied before and after a heat treatment at 500 C under ultra-high vacuum conditions (Mid-T baking). Changes in chemical speciation and oxide layer alteration induced by plasma processing were analyzed using insitu X-ray photoelectron spectroscopy (XPS) and exsitu scanning electron microscopy (SEM). The results show that plasma treatment modifies the composition of Niobium oxides, converting a Nb2O5 layer into NbO2. Furthermore, a plasma treatment before Mid-T baking helps reduce unstable oxides such as NbxO and significantly increases the proportion of metallic Niobium at the surface. The Niobium sample treated by plasma prior to Mid-T baking showed a 53 % reduction in carbide formation. Moreover, the C1s component attributed to NbC bonds shifts toward lower binding energy, indicating the formation of a more metallic NbC phase. Whereas without plasma treatment, the higher binding energy component observed after Mid T baking is consistent with Nb2C.",
+    "authors": [
+      "C. Boutelaa",
+      "S. Gruszka",
+      "C. Cheney",
+      "J. Yemane",
+      "T. Gerardin",
+      "E. Mistretta",
+      "J. Demailly",
+      "R. Laxdal",
+      "P. Kolb",
+      "J. Keir",
+      "B. Mercier",
+      "N. Prud homme",
+      "G. Sattonnay",
+      "D. Longuevergne"
+    ],
+    "published": "2026-06-10T13:50:20Z",
+    "updated": "2026-06-29T22:24:58Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2606.29005v1",
+    "url": "https://arxiv.org/abs/2606.29005v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.29005v1.pdf",
+    "title": "Thermal and electromechanical response of ultra-thin carbon-strip polarimeter targets in relativistic bunched beams",
+    "abstract": "Thin carbon-strip targets provide fast relative hadron beam polarimetry, but their response in intense relativistic bunched beams is not governed by local stopping-power heating alone. We develop a coupled response model that combines beam-target overlap, secondary-electron escape, retained heat, target motion, transient heat transport, RF-induced strip-end heating, beam-induced forces, resistance changes, and slack-strip deformation. RHIC target observations constrain the relevant motion, force, and nonlocal-heating scales and show that target survival depends on both beam-center heating and electromagnetic boundary conditions near the strip ends. Applying the model to Booster, AGS, RHIC, and EIC proton and $^{3}\\mathrm{He}$ cases shows that the RHIC proton lifetime scale is reproduced at the order-of-magnitude level, while the RHIC target-holder fin results require the additional RF/end-heating mechanism. For EIC proton flattop operation, carbon-strip polarimetry may remain viable only with reduced dwell time, sufficient detector acceptance, and suppression of RF-induced end heating. For cooled-emittance $^{3}\\mathrm{He}$, the calculated sublimation-loss scale is far beyond a straightforward RHIC-like carbon-strip extrapolation. Conventional carbon strips are therefore unlikely to remain viable for the most demanding EIC light-ion cases without major changes in target motion, target technology, or diagnostic concept.",
+    "authors": [
+      "F. Rathmann",
+      "O. Eyser",
+      "M. Sangroula",
+      "P. Shanmuganathan",
+      "V. Shmakova"
+    ],
+    "published": "2026-06-27T16:44:15Z",
+    "updated": "2026-06-27T16:44:15Z",
+    "categories": [
+      "physics.acc-ph",
+      "nucl-ex"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2606.28638v1",
+    "url": "https://arxiv.org/abs/2606.28638v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.28638v1.pdf",
+    "title": "An extension of Lambertson method to horizontally asymmetric Beam Position Monitors",
+    "abstract": "Lambertson method is a classical approach that can indirectly measure the electrical center offset in the beam position monitor (BPM) due to imperfections in the pickup buttons. It applies to BPMs that are symmetric in both the horizontal and vertical directions. In this paper, we present our extension of this method to BPMs that are asymmetric in the horizontal direction, and we apply it to such BPMs in ALS Upgrade project at Lawrence Berkeley National Laboratory.",
+    "authors": [
+      "T. Luo",
+      "C. Sun",
+      "J. De Chant",
+      "A. Zabala"
+    ],
+    "published": "2026-06-26T22:49:21Z",
+    "updated": "2026-06-26T22:49:21Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2606.28001v1",
+    "url": "https://arxiv.org/abs/2606.28001v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.28001v1.pdf",
+    "title": "Diagnosing Ghost Bunches with the Upstream Extinction Monitor in the Mu2e Experiment",
+    "abstract": "The Mu2e experiment has a stringent requirement for extinction of the pulsed proton beam, referring to the elimination of particles between proton bunches to a relative level of 10$^-10$, which means a single out-of-time particle in the inter-pulse gaps for every 250 complete proton pulses. As the construction of the Mu2e experiment nears completion, it is crucially important to make an early measurement of the beam extinction in its current condition. Hence the upstream extinction monitor was constructed and operated to probe for problems in the proton pulse structure or a higher than expected incidence rate of out-of-time particles. The analysis in this work comes from data taken in March 2026. The long data run showed a significant presence of out-of-time particles from ghost bunches in the Delivery Ring approximately 388 ns after the centers of the main proton pulses. These are hypothesized to be the result of a combination of a RF frequency mismatch, particle space charge, and machine impedance during the rebunching sequence in the Recycler Ring, which can lead to particles leaking into adjacent buckets, but further studies and simulations are needed to confirm this",
+    "authors": [
+      "R. Hensley",
+      "E. Prebys",
+      "A. Gaponenko"
+    ],
+    "published": "2026-06-26T11:58:42Z",
+    "updated": "2026-06-26T11:58:42Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2606.27889v1",
+    "url": "https://arxiv.org/abs/2606.27889v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.27889v1.pdf",
+    "title": "Electrons with Anomalous Energy Generated in Gas-Filled and Vacuum Diodes",
+    "abstract": "It is shown that, when high-voltage pulses (with a voltage amplitude exceeding 100 kV in centimeter gaps) with a leading edge duration of 1 ns or shorter are applied to gas-filled and vacuum electric discharge diodes, electrons with kinetic energies nominally exceeding the amplitude of the applied voltage are detected. In the experiments, electron beam attenuation curves were measured in absorbers consisting of Al foil of varying thicknesses. These curves were used to reconstruct the electron beam energy spectrum by regularizing the solution of an integral equation based on deep machine learning. The obtained spectra contain electrons with anomalously high energies, the proportion of which, depending on the conditions, can reach 25 percent. A control experiment with a long voltage pulse on a large-area vacuum diode (voltage 150 kV, pulse duration 35 microseconds, vacuum gap 12 cm, electrode area 75 x 15 cm2) showed that the proportion of electrons with anomalous energies is less than 0.2 percent. Experiments have shown that the main mechanism for generating electrons with anomalous energy is the spatio-temporal synchronism of the motion of fast electrons in the enhanced field formed in the gap by space charge.",
+    "authors": [
+      "Victor F. Tarasenko",
+      "Vasily Yu. Kozhevnikov",
+      "Andrey V. Kozyrev",
+      "Evgenii Kh. Baksht",
+      "Maxim S. Vorobyov"
+    ],
+    "published": "2026-06-26T09:33:16Z",
+    "updated": "2026-06-26T09:33:16Z",
+    "categories": [
+      "physics.plasm-ph",
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.plasm-ph"
+  },
+  {
+    "arxiv_id": "2606.26514v1",
+    "url": "https://arxiv.org/abs/2606.26514v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.26514v1.pdf",
+    "title": "Systematic Derivation of Reliable Wake Functions for Complex Structures from Mesh-Based Wakefield Simulations",
+    "abstract": "Wakefield calculations are essential for analyzing beam-driven electromagnetic structures in accelerators. Although analytical wake functions are available for simple symmetric structures, complex geometries generally require mesh-based electromagnetic simulations, which provide finite-bunch wake potentials rather than point-charge wake functions directly. In this study, we present a systematic deconvolution-based method for extracting reliable wake functions from numerically calculated wake potentials using the prescribed drive-bunch distribution. The method is validated with a rectangular dielectric-lined waveguide (DLW), where the extracted longitudinal wake functions agree well with analytical solutions in both the short- and long-range regimes when the drive bunch is sufficiently short. The extracted wake function is further implemented in particle-tracking simulations, producing phase-space distributions consistent with those obtained using a built-in analytical wake-function model. The method is also applied to a modified rectangular DLW with a non-uniform horizontal dielectric distribution. The extracted longitudinal and transverse wake functions and corresponding beam impedances show that the dominant deflecting wakefield can be substantially reduced without significantly degrading the longitudinal wakefield. These results demonstrate the reliability and applicability of the proposed method for complex dielectric-loaded structures.",
+    "authors": [
+      "Chih-Kai Liu",
+      "Wai-Keung Lau",
+      "Shih-Hung Chen",
+      "Wei-Yuan Chiang"
+    ],
+    "published": "2026-06-25T01:38:05Z",
+    "updated": "2026-06-25T01:38:05Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2606.26484v1",
+    "url": "https://arxiv.org/abs/2606.26484v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.26484v1.pdf",
+    "title": "Two-and-a-half dimensional symplectic space-charge solver",
+    "abstract": "The nonlinear space-charge effect plays a significant role in high-intensity accelerators and has been extensively studied using multi-particle tracking methods. In this paper, we present a novel 2.5-dimensional symplectic space-charge solver specifically designed for long beam bunches. We begin by detailing its application to a transverse Gaussian density distribution under open boundary conditions in a straight system, where a semi-analytical expression is derived. We then demonstrate the solver's adaptation to arbitrary distributions in open space, as well as within rectangular and round conducting pipes. Finally, we discuss the extension of this solver to circular accelerator systems. This study shows that the fast 2.5-dimensional solver can be a good approximation to the fully three-dimensional solver for long bunches in large circular accelerators.",
+    "authors": [
+      "Ji Qiang"
+    ],
+    "published": "2026-06-25T00:42:55Z",
+    "updated": "2026-06-25T00:42:55Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.acc-ph",
+    "doi": "10.1103/npx1-nclt"
+  },
+  {
+    "arxiv_id": "2606.30672v1",
+    "url": "https://arxiv.org/abs/2606.30672v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.30672v1.pdf",
+    "title": "Comments on the paper \"Eliminating beam-induced depolarizing effects in the hydrogen jet target for high-precision proton beam polarimetry at the Electron-Ion Collider\"",
+    "abstract": "A critical review of the methodology used in F. Rathmann et al., Phys. Rev. Accel. Beams 29, 021001 (2026), to evaluate beam-induced depolarization of the Atomic Polarized Hydrogen Gas Jet (HJET) target at the Electron--Ion Collider (EIC) is presented. It is shown that several key assumptions underlying that analysis -- including the introduction of a photon emission threshold, the application of Fermi's Golden Rule to coherent hyperfine transitions, the interpretation of power broadening as a physical linewidth increase, and the treatment of spatial magnetic fields -- are either incorrect or internally inconsistent. As a consequence, the predicted large depolarization effects are demonstrated to be artifacts of the adopted methodology rather than genuine physical phenomena. A consistent quantum-mechanical treatment based on the time-dependent Schrödinger equation shows that beam-induced depolarization probabilities at the EIC are negligibly small.",
+    "authors": [
+      "Andrei Poblaguev"
+    ],
+    "published": "2026-06-24T21:10:24Z",
+    "updated": "2026-06-24T21:10:24Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2601.17220v3",
+    "url": "https://arxiv.org/abs/2601.17220v3",
+    "pdf_url": "https://arxiv.org/pdf/2601.17220v3.pdf",
+    "title": "Evaluation of the beam-induced depolarization of the HJET target at the EIC",
+    "abstract": "The Polarized Atomic Hydrogen Gas Jet Target (HJET) has played a central role in the absolute calibration of proton beam polarization at RHIC and is foreseen as a key component of the hadron polarimetry program at the future Electron--Ion Collider (EIC). The substantially higher beam current, reduced bunch spacing, and shorter bunch length planned for EIC operation motivate a careful reassessment of possible beam-induced depolarization of the jet target. In this paper, the depolarization of ground-state hydrogen atoms caused by the time-dependent magnetic field of the circulating polarized proton beam is quantitatively evaluated. The hydrogen atom is treated as a four-level hyperfine system in a holding magnetic field, and transitions driven by harmonic components of the bunch-induced magnetic field are analyzed using time-dependent quantum-mechanical evolution along atomic trajectories. Numerical tracking of hydrogen atoms through the beam region is performed using nominal EIC beam parameters. It is shown that, for a holding field of $120 \\mathrm{mT}$ (as used at RHIC), the resulting depolarization of the jet target at the EIC is negligibly small, $\\lesssim 0.01\\%$, and well below the level relevant for EIC polarization accuracy requirements. The stability of this result with respect to plausible variations of the EIC proton beam parameters is also evaluated. In addition, possible effects under alternative experimental conditions are also examined.",
+    "authors": [
+      "A. A. Poblaguev"
+    ],
+    "published": "2026-01-23T23:08:45Z",
+    "updated": "2026-06-24T20:35:46Z",
+    "categories": [
+      "physics.ins-det",
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.ins-det",
+    "doi": "10.1016/j.nima.2026.171776"
+  },
+  {
+    "arxiv_id": "2606.25944v1",
+    "url": "https://arxiv.org/abs/2606.25944v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.25944v1.pdf",
+    "title": "Dispersion Suppression for Wedge-Based Final Cooling at a 10 TeV Muon Collider",
+    "abstract": "Achieving a luminosity of $\\gtrsim 10^{34} cm^{-2} s^{-1}$ in a $10 \\text{ } TeV$ Muon Collider, given the short lifetime of a muon, requires reducing the 6D emittance of the muon beam through a process known as ionization cooling. In the final stage of this cooling process, the transverse emittance must be reduced to $22 \\text{ } μm$, typically by allowing longitudinal emittance growth up to downstream acceptance limits. While the current International Muon Collider Collaboration designs involve $40 \\text{ } T$ solenoids to reach the transverse emittance target, such high-field solenoids come with several challenges, including mechanical stress management, quench protection, and potential limitations in relying on High Temperature Superconductor technology. Designed as an alternative to using such solenoids while simultaneously reaching target transverse emittance, the previously proposed wedge-based, reverse emittance-exchange cooling scheme requires excellent dispersion suppression. In this study, we design and simulate a dispersion suppressor channel for the wedge-based final cooling design that reduces dispersion in the target direction to a target value of $D_x \\sim 0.001 \\text{ } m$.",
+    "authors": [
+      "Inci Karaaslan",
+      "Karri DiPetrillo",
+      "David Neuffer",
+      "Diktys Stratakis",
+      "Katsuya Yonehara"
+    ],
+    "published": "2026-06-24T15:20:29Z",
+    "updated": "2026-06-24T15:20:29Z",
+    "categories": [
+      "physics.acc-ph",
+      "hep-ex"
+    ],
+    "primary_category": "physics.acc-ph",
+    "doi": "10.18429/JACoW-IPAC2026-WEP1345"
+  },
+  {
+    "arxiv_id": "2606.25663v1",
+    "url": "https://arxiv.org/abs/2606.25663v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.25663v1.pdf",
+    "title": "Features of long particle beam self-modulated in plasma",
+    "abstract": "Under certain conditions, a long particle beam self-modulates in a dense plasma, that is, it breaks down into a train of short, stable microbunches under the influence of its own wakefield. During this process, the beam also changes its radial profile: initially having a Gaussian shape, it evolves to a highly peaked equilibrium state with a density singularity on the axis. This change makes individual beam slices several times more efficient at exciting the wakefield. We have developed an analytical iterative model describing the transverse equilibrium state of the microbunches, which is applicable to most beam cross-sections. The model is based either on the conservation of the transverse adiabatic invariant or on empirically established relationships in cases where adiabaticity is violated. It predicts the radial profiles of beam density and wakefield potential, as well as the particle distribution in the transverse phase space. The model is benchmarked against numerical simulations and demonstrates a high degree of accuracy. In addition to the full model, we present simplified engineering formulas based on elementary functions that bypass iterative procedures",
+    "authors": [
+      "Vlada Yarygova",
+      "Konstantin Lotov"
+    ],
+    "published": "2026-06-24T10:20:44Z",
+    "updated": "2026-06-24T10:20:44Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2606.25159v1",
+    "url": "https://arxiv.org/abs/2606.25159v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.25159v1.pdf",
+    "title": "Accelerator Complex Evolution at Fermilab",
+    "abstract": "The largest hadron accelerator facility in the US is undergoing radical changes and the undertaking of new HEP-driven neutrino research. This talk will discuss the wide-ranging projects and impacts to the accelerator community taking place at FNAL.",
+    "authors": [
+      "M. Convery"
+    ],
+    "published": "2026-06-23T20:46:01Z",
+    "updated": "2026-06-23T20:46:01Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2606.25140v1",
+    "url": "https://arxiv.org/abs/2606.25140v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.25140v1.pdf",
+    "title": "Slow Extraction Beam Commissioning for the Mu2e Experiment at Fermilab",
+    "abstract": "Following the successful completion of the Muon g-2 experiment run at Fermilab, the Muon Campus facility has been reconfigured from delivering 3 GeV muon beams to the g-2 storage ring to providing slow-extracted 8 GeV proton beam spills for the Mu2e experiment. The first full-scale commissioning run with slow extraction was conducted during the 2025 run, followed by the second run in early 2026. We present the results and current status of this commissioning campaign.",
+    "authors": [
+      "V. Nagaslaev",
+      "G. Annala",
+      "J. Berlioz",
+      "G. Deinlein",
+      "B. Drendel",
+      "J. Morgan",
+      "A. Narayanan",
+      "J. StJohn",
+      "D. Still",
+      "D. VanderMeulen"
+    ],
+    "published": "2026-06-23T20:10:44Z",
+    "updated": "2026-06-23T20:10:44Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2601.02272v2",
+    "url": "https://arxiv.org/abs/2601.02272v2",
+    "pdf_url": "https://arxiv.org/pdf/2601.02272v2.pdf",
+    "title": "Effect of Synchrotron Radiation on Staged Plasma Wakefield Accelerators",
+    "abstract": "In a staged, beam-driven, plasma wakefield accelerator, electrons are accelerated in a sequence of plasma stages, each powered by a driver electron bunch. Between each stage, a magnetic chicane is used to dispose of the spent driver and to inject the new fresh one, while transporting the witness bunch. We discuss the effect of synchrotron radiation in the interstage section on the accelerating gradient and on the final energy reach of such a machine.",
+    "authors": [
+      "Livio Verra",
+      "Alexander Knetsch",
+      "Doug Storey"
+    ],
+    "published": "2026-01-05T17:01:45Z",
+    "updated": "2026-06-23T14:56:55Z",
+    "categories": [
+      "physics.acc-ph",
+      "hep-ex"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2606.24594v1",
+    "url": "https://arxiv.org/abs/2606.24594v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.24594v1.pdf",
+    "title": "Design criteria for a beam-driven resonant passive transverse deflector for longitudinal beam diagnostics",
+    "abstract": "Conventional radio-frequency (rf) transverse deflecting structures provide high-resolution longitudinal beam diagnostics, but require externally generated high-power rf, waveguide distribution, synchronization and input coupling at the operating frequency. We propose design criteria for a beam-driven resonant passive transverse deflector that does not require an external rf source. A leading drive bunch excites long-range wakefields in an off-axis periodic copper structure and a delayed witness bunch experiences the transverse wake near a zero crossing. The concept is based on the large temporal slope available from high-frequency wake components. A structure designed for installation after the second bunch compressor in the three-bunch-compressor layout of the European XFEL is optimized to place the zero crossing of the drive-bunch-induced transverse wake potential approximately one rf-bucket spacing of the 1.3 GHz linac, behind the drive bunch. The selected geometry produces a multi-mode transverse kick dominated by TM-like modes. We use time-domain wake simulations, frequency-domain decomposition, cell-number scaling, mechanical-tolerance scans, orbit-offset studies and uniform thermal scaling to determine the operating point and its sensitivity. For this geometry, the zero crossing occurs at s0 = 230.6 mm, with a per-cell temporal slope of Scell = 1.186 mV/(pC fs cell). For a compact 1 m structure operated with a 250 pC drive bunch and a 700 MeV witness beam, the estimated temporal resolution is about 33 fs.",
+    "authors": [
+      "D. Bazyl",
+      "W. Decking",
+      "S. Tomin",
+      "I. Zagorodnov"
+    ],
+    "published": "2026-06-23T13:52:29Z",
+    "updated": "2026-06-23T13:52:29Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2606.24590v1",
+    "url": "https://arxiv.org/abs/2606.24590v1",
+    "pdf_url": "https://arxiv.org/pdf/2606.24590v1.pdf",
+    "title": "Compilation of lessons learned from ESS cryomodule and benchmarking with projects in implementation phase",
+    "abstract": "This document presents a deliverable of the project Innovate for Sustainable Accelerating Systems (iSAS), funded by the EU under its program HORIZON-INFRA-2023-TECH-01 via grant agreement n°101131435 (deliverable D16, WP5). It contains an analysis on elliptical cryomodules developed for the European Spallation Source (ESS) and a benchmark of high-beta cryomodules across six leading international facilities.",
+    "authors": [
+      "N. Elias",
+      "K. Canderan",
+      "V. Parma",
+      "P. Pierini",
+      "H. Przibliski",
+      "E. Simpson",
+      "M. Skiba",
+      "M. Baylac",
+      "J. D Hondt",
+      "J. Knobloch",
+      "C. Pira",
+      "A. Stocchi"
+    ],
+    "published": "2026-06-23T13:51:58Z",
+    "updated": "2026-06-23T13:51:58Z",
+    "categories": [
+      "physics.acc-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2603.28827v2",
+    "url": "https://arxiv.org/abs/2603.28827v2",
+    "pdf_url": "https://arxiv.org/pdf/2603.28827v2.pdf",
+    "title": "Quantum Coherence and Giant Enhancement of Positron Channeling Radiation",
+    "abstract": "We present a quantum-mechanical treatment of positron channeling radiation in a planar harmonic potential that explicitly accounts for interference between transition amplitudes from different transverse energy levels. Because the planar channel potential for positrons in diamond~(110) is well approximated by a parabola, the transverse spectrum is equidistant, $\\varepsilon_n = Ω(n+\\tfrac{1}{2})$, and all $n \\to n{-}j$ transitions radiate at the same Doppler-shifted frequency. The sudden-approximation entry of the positron into the crystal produces a \\emph{Glauber coherent state}~\\cite{Glauber1963} with Poisson-distributed level populations $|c_n|^2 = e^{-n_0}n_0^n/n!$ and mean occupation $n_0 \\propto θ_{\\rm in}^2$. Phase synchronization between the $c_n$ and the dipole matrix elements ensures constructive interference of all contributing amplitudes. Three exact scaling laws follow: (i)~$I_{\\rm incoh}\\propto n_0\\proptoθ_{\\rm in}^2$; (ii)~$I_{\\rm coh}\\propto n_0^2\\proptoθ_{\\rm in}^4$; (iii)~$\\mathcal{G}\\equiv I_{\\rm coh}/I_{\\rm incoh}\\approx n_0   \\proptoθ_{\\rm in}^2$. Numerically, $\\mathcal{G} = 12\\text{--}31$ for positron energies of $4\\text{--}14$~GeV in diamond~(110) at $θ_{\\rm in}=31\\;μ$rad, in agreement with the experimental first-harmonic peak positions of Avakyan \\emph{et al.}~\\cite{Avakyan1982} to within 15\\%. The transition from $N$- to $N^2$-scaling of radiated intensity, driven by quantum coherence, opens a route toward high-intensity monochromatic gamma-ray sources.",
+    "authors": [
+      "Michael Shatnev"
+    ],
+    "published": "2026-03-29T17:16:28Z",
+    "updated": "2026-06-23T13:05:19Z",
+    "categories": [
+      "quant-ph",
+      "hep-ex",
+      "physics.acc-ph"
+    ],
+    "primary_category": "quant-ph"
+  },
+  {
+    "arxiv_id": "2011.01638v4",
+    "url": "https://arxiv.org/abs/2011.01638v4",
+    "pdf_url": "https://arxiv.org/pdf/2011.01638v4.pdf",
+    "title": "Colliders",
+    "abstract": "Modern particle physics relies on high energy particle accelerators to provide collisions of various types of elementary particles in order to deduce fundamental laws of physics or properties of individual particles. The only way to generate particle collisions at extremely high energies is to collide particles of counter-rotating beams...called \"particle-colliders\". This write-up gives a short briefing on the physics motivation of various particle colliders ($e^+e^-$ colliders, $pp$ colliders, ...), a summary of the historical evolution and a mathematical treatment to describe collider performance.",
+    "authors": [
+      "Hermann Schmickler"
+    ],
+    "published": "2020-11-03T11:27:18Z",
+    "updated": "2026-06-23T10:08:14Z",
+    "categories": [
+      "physics.acc-ph",
+      "physics.ed-ph"
+    ],
+    "primary_category": "physics.acc-ph"
+  },
+  {
+    "arxiv_id": "2606.19192v3",
+    "url": "https://arxiv.org/abs/2606.19192v3",
+    "pdf_url": "https://arxiv.org/pdf/2606.19192v3.pdf",
+    "title": "Direct large-area observation of subsurface plastic activity in conditioned copper electrodes",
+    "abstract": "High-field conditioning is the process by which radio-frequency structures in particle accelerators and other high-gradient devices reach their operating fields, yet the underlying physical mechanism remains an open question. Models and indirect measurements point to subsurface dislocation dynamics, but large-area structural measurements have been missing. We present electron backscatter diffraction measurements spanning millimeter-scale regions on a copper cathode conditioned at pulsed direct-current fields up to $\\sim$80~MV/m in a sloped-anode geometry, which imposes a known gradient of field exposure across a single electrode. Across nine regions of interest spanning this exposure range, the mean intragrain misorientation of field-exposed regions exceeds that of unexposed references by $\\sim$75\\%; the difference is reproduced by three independent misorientation metrics and confirmed by Kolmogorov--Smirnov tests. To our knowledge, this is the first large-area observation of structural differences between conditioned and unconditioned regions of a high-field electrode. The misorientation separates into three tiers (high-field center and edge, low-field periphery, and unexposed reference) that match the spatial profile of the conditioning-state variable $E_S$ predicted by Monte Carlo simulations. These observations point to the evolving subsurface dislocation population as a candidate physical basis of conditioning.",
+    "authors": [
+      "Yinon Ashkenazy",
+      "Inna Popov",
+      "Victoria M. Bjelland",
+      "William L. Millar",
+      "Walter Wuensch"
+    ],
+    "published": "2026-06-17T15:34:11Z",
+    "updated": "2026-06-23T07:31:36Z",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "physics.acc-ph"
+    ],
+    "primary_category": "cond-mat.mtrl-sci"
+  }
+]
