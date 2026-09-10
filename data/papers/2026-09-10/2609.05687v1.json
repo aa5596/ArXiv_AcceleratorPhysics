@@ -1,0 +1,16 @@
+{
+  "arxiv_id": "2609.05687v1",
+  "url": "https://arxiv.org/abs/2609.05687v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.05687v1.pdf",
+  "title": "A Minimal Self-Consistent Model for the Nonlinear Dynamics of Asymmetric Capacitively Coupled Radio-Frequency Plasmas",
+  "abstract": "We develop a minimal self-consistent lumped-element model for the nonlinear radio-frequency dynamics of geometrically asymmetric capacitively coupled plasmas. The fast electrical response is described by three dynamical variables: the powered-sheath charge, the blocking-capacitor voltage, and the discharge current. The periodic RF solution is coupled to stationary particle and energy balances, which determine the electron temperature and plasma density from the operating conditions and the absorbed power. For an argon discharge, the model produces nonlinear current oscillations and a broad higher-harmonic response associated with the plasma series resonance. Variation of the RF voltage leads to correlated changes in the harmonic spectrum, absorbed power, and plasma density. Linearization about the periodic state relates the high-frequency response to the time-dependent differential sheath elastance. A moment-based effective elastance provides a compact estimate of the corresponding characteristic PSR frequency. The model thereby connects nonlinear RF dynamics and plasma sustainment within a minimal self-consistent description.",
+  "authors": [
+    "Thomas Mussenbrock"
+  ],
+  "published": "2026-09-04T19:48:35Z",
+  "updated": "2026-09-04T19:48:35Z",
+  "categories": [
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

@@ -1,0 +1,19 @@
+{
+  "arxiv_id": "2609.05712v1",
+  "url": "https://arxiv.org/abs/2609.05712v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.05712v1.pdf",
+  "title": "Novel approach to general curvilinear coordinates for plasma fluid applications",
+  "abstract": "In general geometry, plasma fluid equations include nonlinear geometric sources associated with fictitious forces, which pose significant challenges to computer simulations. We reformulate the plasma fluid hierarchy to rigorously preserve geometry and conservation properties critical to numerical simulations, while concealing the geometric sources. In their discrete form, the reformulated models conserve mass, angular momentum, and energy naturally, by simple analogy with the continuum equations. These conservation properties have minimal requirements in discrete space, namely, the anti-symmetry of the first derivative and the orthogonality of the scalar and cross products. By decoupling magnetic geometry, coordinate systems, and numerical discretization, this enables maximum flexibility while preserving physics fidelity. As a testbed, we apply the novel representation to the resistive magnetohydrodynamic system, which involves a complete set of curvilinear operations. We verify the correctness of the approach using steady state liquid metal flows and the classic Orszag-Tang vortex.",
+  "authors": [
+    "Federico D. Halpern Tess N. Bernard",
+    "Oleksandr Koshkarov",
+    "Ronald E. Waltz"
+  ],
+  "published": "2026-09-04T20:42:25Z",
+  "updated": "2026-09-04T20:42:25Z",
+  "categories": [
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.plasm-ph",
+  "doi": "10.1063/5.0326037"
+}
