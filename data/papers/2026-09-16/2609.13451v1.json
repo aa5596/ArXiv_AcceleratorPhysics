@@ -1,0 +1,20 @@
+{
+  "arxiv_id": "2609.13451v1",
+  "url": "https://arxiv.org/abs/2609.13451v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.13451v1.pdf",
+  "title": "Sensitivities of electron-scale core transport in MAST Upgrade",
+  "abstract": "Integrated modelling of the Mega Ampere Spherical Tokamak Upgrade (MAST-U) indicates that turbulent electron heat transport can dominate over ion transport across a range of operating regimes. Only a limited set of instabilities are able to produce this behaviour, with the primary candidates being microtearing modes (MTMs) and electron temperature gradient (ETG) driven modes. This work investigates electron-scale core transport in two L-mode plasmas and one H-mode plasma on MAST-U using local gyrokinetic analysis. The linear and nonlinear sensitivities of ETG modes are examined, with particular focus on their dependence on electron temperature gradients and ExB shearing rates. In L-mode discharges, ETG modes are found to be linearly unstable over a broad radial region and can drive experimentally relevant levels of electron heat transport, particularly towards the outer core. The transport is strongly sensitive to both the electron temperature gradient and the ExB shear, with nonlinear simulations showing stiff transport and good agreement with experimental estimates within uncertainty. Towards the core, however, ETG-driven transport is reduced and is insufficient to fully explain the observed anomalous heat flux. In contrast, in the H-mode plasma ETG modes are found to be stable or only weakly unstable in the core, resulting in negligible electron-scale transport. This is attributed to higher equilibrium pressure gradients and reduced electron temperature gradients, both of which stabilise ETG turbulence. Following the collapse of the core rotation profile, ETG modes can become unstable towards the outer core, but typically remain insufficient to account for the full level of transport. Overall, ETG turbulence can play a significant role in setting electron heat transport in L-mode plasmas, particularly at larger radii, but is unlikely to dominate in high-performance H-mode conditions.",
+  "authors": [
+    "B. S. Patel",
+    "T. Adkins",
+    "S. Blackmore",
+    "D. Kennedy",
+    "C. Vincent"
+  ],
+  "published": "2026-09-11T19:08:38Z",
+  "updated": "2026-09-11T19:08:38Z",
+  "categories": [
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

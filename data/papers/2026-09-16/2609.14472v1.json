@@ -1,0 +1,22 @@
+{
+  "arxiv_id": "2609.14472v1",
+  "url": "https://arxiv.org/abs/2609.14472v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.14472v1.pdf",
+  "title": "Superradiant Thomson Scattering via Oscillating Quasiparticles",
+  "abstract": "The recently proposed concept of generalized superradiance (GS) allows for the generation of coherent radiation without the need for complex compression or prebunching of relativistic electrons. However, the quasiparticles in current GS schemes are formed through local electron accumulation and their sizes exceed 100 nm, restricting the achievable radiation wavelength. In this study, we demonstrate a realization of narrow quasiparticles with <10 nm widths through sheet-crossing. When an energy chirped electron beam collides with an intense laser pulse, lower energy electrons at the front slip back, forming an accelerating quasiparticle. These quasiparticles undergo transverse oscillations within the laser field, thereby extending GS emission from the Cherenkov regime into the synchrotron regime. Three-dimensional particle-in-cell simulations indicate the production of gigawatt-class chirped radiation in the 10-100 nm range. The proposed scheme is compatible with existing Thomson scattering facilities, paving the way for the generation of coherent ultrafast radiation.",
+  "authors": [
+    "Qianyi Ma",
+    "Yuhui Xia",
+    "Zhenan Wang",
+    "Letian Liu",
+    "Zhiyan Yang",
+    "Xinlu Xu",
+    "Xueqing Yan"
+  ],
+  "published": "2026-09-13T12:29:02Z",
+  "updated": "2026-09-13T12:29:02Z",
+  "categories": [
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

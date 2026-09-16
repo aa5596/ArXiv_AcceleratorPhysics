@@ -1,0 +1,16 @@
+{
+  "arxiv_id": "2608.22050v2",
+  "url": "https://arxiv.org/abs/2608.22050v2",
+  "pdf_url": "https://arxiv.org/pdf/2608.22050v2.pdf",
+  "title": "Modified Kalman Filtering Derived from Non-Maxwellian Distribution Functions in Open Systems",
+  "abstract": "Kalman filtering (KF) recursively infers plasma quantities, represented by a state, from noisy diagnostics while propagating uncertainty in the inferred state separately from diagnostic noise. For linear dynamical and measurement models with Gaussian probability density functions (PDFs), the state mean and covariance provide the KF description. We modify this KF for open plasmas with particle and energy sources by extending the physical state from Maxwellian variables to retained NMDF coordinates, whose evolution follows a projection of the nonlinear Landau-Fokker-Planck equation. The same NMDF state is propagated through a fixed diagnostic response to obtain the corresponding measurement PDF. Because a non-Gaussian likelihood can drive the posterior outside the Gaussian family, the mean-covariance representation is extended to a finite moment closure whose coordinates are related to the retained moments through their Jacobian. The recursive prediction-correction structure is preserved, recovering conventional KF results for linear models with Gaussian PDFs. As a proof of concept, we use seven published non-Gaussian Alcator C-Mod Langmuir-probe current PDFs. For each target PDF, NMDF response parameters are calibrated from the other probe PDFs and frozen; this excluded target tests independent prediction. This test shows that different plasma regions require different NMDF structures, instead of the standard assumption of Maxwellian velocity distributions across all regimes and locations. Because the published measurement PDFs do not retain time ordering, this proof of concept does not yet test recursive uncertainty dynamics. Implementing the projected Landau-Fokker-Planck prediction with time-resolved diagnostics is the next step toward full validation of the modified KF.",
+  "authors": [
+    "Olivier Izacard"
+  ],
+  "published": "2026-08-22T17:31:17Z",
+  "updated": "2026-09-10T22:48:52Z",
+  "categories": [
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

@@ -1,0 +1,28 @@
+{
+  "arxiv_id": "2605.31046v5",
+  "url": "https://arxiv.org/abs/2605.31046v5",
+  "pdf_url": "https://arxiv.org/pdf/2605.31046v5.pdf",
+  "title": "Extreme, transient bursts of energy in the auroral ionosphere. I. Predictive radar tracking",
+  "abstract": "Three-metre Farley-Buneman irregularities observed by the \\textsc{icebear} VHF radar organize into clusters whose apparent motion follows the electric field mapped from the magnetosphere. We track these clusters automatically: each is bounded by an $α$-shape at every time step, consecutive frames are associated by an optimal assignment combining shape overlap with a predicted displacement. Births, deaths, splits, and mergers are monitored, and each trajectory is reduced to per-segment velocities by piecewise linear regression. Tracked speeds are validated against in-situ ion drifts measured by DMSP F16 during two conjunctions in May 2021. Across four years of disturbed conditions, the speed distribution of 74,517 tracked clusters agrees with Swarm A cross-track ion drifts to within a factor of two in probability density for all speeds between 300 and 4000 m/s, and the radar-tracked speed distribution continues as a power law well beyond the noise limit imposed on Swarm by spacecraft attitude jitter. Binning by geomagnetic activity yields a parameterization of the field dispersion conditional on threshold exceedance, $σ^2 = 3.68 \\times 10^5$ (SME/100 nT)$^{0.353}$~m$^2$ s$^{-2}$, equivalent to 30 to 60 mV/m across the observed activity range, which supplies the amplitude statistics entering the variance term of height-integrated Joule dissipation. During the 10 May 2024 super-storm, on closed field lines equatorward of the dayside cusp, we retrieved an upper-tail sample of this distribution, finding a cluster moving at $11,240\\pm660$ m/s and implying a field of approximately 560 mV/m. Together with the unstable fraction of a space weather model's grid volume, our parameterization can in future close the sub-grid contribution to the storm-time heating budget in the auroral ionosphere.",
+  "authors": [
+    "Magnus F Ivarsen",
+    "Jean-Pierre St-Maurice",
+    "Devin R Huyghebaert",
+    "Yukinaga Miyashita",
+    "Saif Marei",
+    "Jordan Cho",
+    "Mahith Madhanakumar",
+    "Megan Gillies",
+    "Dan Billett",
+    "Glenn C Hussey"
+  ],
+  "published": "2026-05-29T09:21:09Z",
+  "updated": "2026-09-11T08:10:03Z",
+  "categories": [
+    "physics.space-ph",
+    "astro-ph.EP",
+    "astro-ph.IM",
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.space-ph"
+}

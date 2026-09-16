@@ -1,0 +1,18 @@
+{
+  "arxiv_id": "2609.14536v1",
+  "url": "https://arxiv.org/abs/2609.14536v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.14536v1.pdf",
+  "title": "Ion-Acoustic-Like Modes in Ion-Loaded Pulsar-Wind Current Sheets: A Pressure-Balanced Existence Criterion",
+  "abstract": "Pulsar wind electron--positron plasma lacks the heavy inertial species required for the conventional ion-acoustic-like compressive modes. However, if ions are mixed into the reconnecting striped-wind current sheet, a low-frequency compressive branch can appear. We develop a local, comoving-frame theory for such ion-acoustic-like modes in an ion-loaded, pressure-balanced pulsar-wind current sheet. The background model connects directly to pulsar observables through the light-cylinder magnetic field and Goldreich--Julian density, while the sheet structure is represented by a Harris-like field reversal and species-dependent compression factors. The pair species are treated as inertialess thermodynamic shielding populations, whereas the ions are described by a warm, nonrelativistic, magnetized fluid. Pressure balance fixes the pair and ion temperatures rather than prescribing them freely. This gives a closed expression for the pair-shielded ion-acoustic speed in terms of pulsar spin parameters. We derive the warm-ion electrostatic dispersion relation and discuss the conditions under which the ion-acoustic-like branch can exist in such a current sheet. We find that the ion-acoustic-like mode does not occur for all sheet parameters but is restricted to specific regions of parameter space. Thus, ion loading alone is not sufficient to sustain the mode; the local current-sheet conditions determine where an admissible ion-acoustic-like mode can exist. Consequently, any wave-driven anomalous dissipation or particle heating mediated by this mode must be highly localized rather than distributed uniformly across the striped wind. This framework provide the physical domain where the mode can exist, providing the necessary foundation for future studies of kinetic excitation and damping.",
+  "authors": [
+    "Manpreet Singh",
+    "Ripin Kohli",
+    "Siming Liu"
+  ],
+  "published": "2026-09-13T14:16:38Z",
+  "updated": "2026-09-13T14:16:38Z",
+  "categories": [
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

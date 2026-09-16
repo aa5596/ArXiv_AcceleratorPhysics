@@ -1,0 +1,17 @@
+{
+  "arxiv_id": "2609.12935v1",
+  "url": "https://arxiv.org/abs/2609.12935v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.12935v1.pdf",
+  "title": "A Variational Formulation of the MHD Induction Equation",
+  "abstract": "We present a variational formulation of the induction equation in magnetohydrodynamics (MHD) based on Gauss's principle of least constraint. The central result is the Euler--Lagrange equation $\\mathbf{Z}_B = -\\nabla h_m$, where $h_m = \\mathbf{A}\\cdot\\mathbf{B}$ is the magnetic helicity density. This reveals that the magnetic helicity gradient $\\nabla h_m$ acts as the constraint force maintaining the solenoidality of the magnetic field, exactly as the pressure gradient $\\nabla p$ maintains incompressibility in Taha et al.'s pressure-gradient minimization principle. The magnetic helicity density---which, though gauge-dependent locally, yields a gauge-invariant variational principle---naturally emerges as the Lagrange multiplier enforcing $\\nabla\\cdot\\mathbf{B}=0$. At the solution, the field minimizes the norm of the magnetic helicity gradient $\\|\\nabla h_m\\|^2$. This establishes a structural analogy: magnetic helicity is to the magnetic field as pressure is to velocity. The variational principle connects to Woltjer's theorem, Taylor relaxation, and the Hamiltonian structure of MHD.",
+  "authors": [
+    "Ahmed Farooq"
+  ],
+  "published": "2026-09-11T14:58:10Z",
+  "updated": "2026-09-11T14:58:10Z",
+  "categories": [
+    "physics.flu-dyn",
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.flu-dyn"
+}

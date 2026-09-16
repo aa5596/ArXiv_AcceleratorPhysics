@@ -1,0 +1,29 @@
+{
+  "arxiv_id": "2609.12474v1",
+  "url": "https://arxiv.org/abs/2609.12474v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.12474v1.pdf",
+  "title": "First Experimental Evidence of Helicon Current Drive",
+  "abstract": "Helicon current drive is an attractive solution for driving current to sustain steady state tokamak operation in reactor conditions. Dedicated DIII-D experiments have been conducted with a MW-level helicon system and successfully demonstrated core power deposition and current drive with helicon waves launched via a traveling wave antenna. The profile of the measured electron temperature response to helicon power injection is in good agreement with time-dependent integrated modeling that incorporates ray tracing and the effects of thermal transport simultaneously. When the helicon power is injected continuously to drive co-$I_p$ current, the reconstructed safety factor profile flattens significantly faster and sawteeth are triggered earlier than in comparison shots where the helicon is replaced by a comparable amount of electron cyclotron heating. Calculation of the helicon-driven current profile yields a peaked profile in the core, consistent with the observed power deposition profile and in good agreement with ray tracing predictions. Taken together, these experimental results represent strong evidence for the first definitive observation of auxiliary current drive due to helicon waves on any device.",
+  "authors": [
+    "J. B. Lestz",
+    "R. I. Pinsker",
+    "B. Van Compernolle",
+    "S. X. Tang",
+    "A. Dupuy",
+    "A. M. Garofalo",
+    "L. McAllister",
+    "C. P. Moeller",
+    "C. C. Petty",
+    "M. Porkolab",
+    "M. P. Ross",
+    "G. Rutherford",
+    "A. Torrezan"
+  ],
+  "published": "2026-09-11T06:15:17Z",
+  "updated": "2026-09-11T06:15:17Z",
+  "categories": [
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.plasm-ph",
+  "doi": "10.1103/mbn4-fd4v"
+}

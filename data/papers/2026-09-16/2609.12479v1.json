@@ -1,0 +1,18 @@
+{
+  "arxiv_id": "2609.12479v1",
+  "url": "https://arxiv.org/abs/2609.12479v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.12479v1.pdf",
+  "title": "Nonuniform Hydrodynamic Plasma-Wave Instability in a Gated Electron Channel",
+  "abstract": "We report a theoretical and numerical study of plasma-wave instability in a current-driven InGaAs/GaAs gated electron channel. A finite drain current drives the channel away from a uniform plasma-wave cavity: the carrier density and plasma velocity decrease toward the drain, while the electron drift velocity increases. This current-induced spatial nonuniformity modifies both the propagation time and amplification of plasma waves and becomes increasingly important as the sonic regime is approached. Using a hydrodynamic description combined with the unified charge-control model, we determine the nonuniform steady state and analyze the resulting plasma-wave frequency and instability growth rate. The oscillation frequency is found to be governed by wave propagation through the entire channel rather than by the local drain conditions, leading to a pronounced current-induced frequency reduction that is not captured by a uniform-channel approximation. The instability results from the competition between boundary-induced plasma wave gain and distributed losses due to momentum relaxation and electron viscosity. The finite-viscosity theory shows good quantitative agreement with the simulation data over the subsonic regime and regularizes the singular behavior of the inviscid description near the sonic point. At higher currents, the dynamics become increasingly sensitive to the near-sonic structure and contact boundary conditions, indicating that the eventual suppression of the instability cannot be attributed to bulk hydrodynamics alone.",
+  "authors": [
+    "Yuhui Zhang"
+  ],
+  "published": "2026-09-11T06:21:59Z",
+  "updated": "2026-09-11T06:21:59Z",
+  "categories": [
+    "physics.plasm-ph",
+    "eess.SP",
+    "physics.app-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

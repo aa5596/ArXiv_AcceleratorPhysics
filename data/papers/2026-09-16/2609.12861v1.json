@@ -1,0 +1,20 @@
+{
+  "arxiv_id": "2609.12861v1",
+  "url": "https://arxiv.org/abs/2609.12861v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.12861v1.pdf",
+  "title": "Damping Ring Optimization in Natural Emittance and IBS Dominated Regimes",
+  "abstract": "Linear electron-positron colliders enable precision measurements of Standard Model observables and beyond. Modern linear colliders need damping rings wherein the emittance of the source is damped and asymmetrized. A previous work [Phys. Rev. ST Accel. Beams 4, 021001 (2001)] delineated a systematic procedure for damping ring design. In this paper, we apply those principles, and frame damping ring design as a constrained numerical minimization problem when including intrabeam scattering. We use a multi-objective genetic optimization to map the transition from natural- emittance-dominated to intrabeam-scattering-dominated regimes. We compare to analytic results where possible to good agreement. The analysis is applied to parameters for the C$^{3}$ collider concept, but the procedure is fully generalizable to other linac parameters.",
+  "authors": [
+    "Matthew Andorf",
+    "Nigel Lockyer",
+    "Emilio Nanni",
+    "Caterina Vernieri",
+    "Jared Maxson"
+  ],
+  "published": "2026-09-11T13:48:00Z",
+  "updated": "2026-09-11T13:48:00Z",
+  "categories": [
+    "physics.acc-ph"
+  ],
+  "primary_category": "physics.acc-ph"
+}
