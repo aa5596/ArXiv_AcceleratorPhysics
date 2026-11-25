@@ -1,0 +1,22 @@
+{
+  "arxiv_id": "2608.08448v2",
+  "url": "https://arxiv.org/abs/2608.08448v2",
+  "pdf_url": "https://arxiv.org/pdf/2608.08448v2.pdf",
+  "title": "2D Magnetic Reconnection and Plasmoid Evolution in Partially Ionized Plasmas",
+  "abstract": "Magnetic reconnection in partially ionized plasmas is an important channel for energy release. While the plasmoid instability is well characterized in 2D fully ionized plasmas, its behavior in the presence of neutral-dominated plasma remains poorly understood in the nonlinear, high-Lundquist-number ($S = 10^5$) regime. We present high-resolution ($16384 \\times 4096$ cells) isothermal two-dimensional two-fluid (ion $+$ neutral) simulations of Harris-sheet reconnection without ionization or recombination, comparing fully ionized and partially ionized (ionization fraction $ξ= 10^{-1}$ and $10^{-2}$) regimes. Ambipolar drift promotes early current-sheet thinning, while ion-neutral decoupling modifies the subsequent plasmoid evolution. During the simulated interval, the $ξ=10^{-2}$ run remains fragmented into a chain of small plasmoids, whereas the fully ionized run develops a macroscopic ``monster'' plasmoid. Below the neutral-ion decoupling scale $\\ell_{\\rm dec}$, ions concentrate into the plasmoids, reaching peak overdensities $ρ_i/ρ_{i,0} \\approx 10$ ($ξ= 10^{-1}$) and $3-5\\times10^{3}$ ($ξ= 10^{-2}$), while the neutrals remain comparatively smooth. This local pile-up raises the ionization fraction and recouples the two fluids within the plasmoids. Measured from the out-of-plane electric field at the reconnection sites, the reconnection rate in the $ξ= 10^{-2}$ case achieves $R_{\\rm rec}\\approx0.01$, whereas the $ξ= 10^{-1}$ case rises to a rate $\\approx0.02$ and further to $0.035$ when apparent coalescence occurs. In the $ξ= 10^{-2}$ case, the ambipolar drift drives a rapid ion inflow $\\sim0.5\\,v_{A,0}$ into the layer at the same reconnection sites, far above the neutral inflow velocity $\\sim0.1\\,v_{A,0}$. Here, $v_{A,0}$ is the upstream total Alfvén speed.",
+  "authors": [
+    "Yue Hu",
+    "Siyao Xu",
+    "Grzegorz Kowal",
+    "James M. Stone",
+    "Alex Lazarian",
+    "Hui Li"
+  ],
+  "published": "2026-08-09T03:31:53Z",
+  "updated": "2026-11-23T20:03:32Z",
+  "categories": [
+    "astro-ph.HE",
+    "physics.plasm-ph"
+  ],
+  "primary_category": "astro-ph.HE"
+}

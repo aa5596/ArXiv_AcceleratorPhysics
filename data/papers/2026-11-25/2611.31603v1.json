@@ -1,0 +1,19 @@
+{
+  "arxiv_id": "2611.31603v1",
+  "url": "https://arxiv.org/abs/2611.31603v1",
+  "pdf_url": "https://arxiv.org/pdf/2611.31603v1.pdf",
+  "title": "Exact force-free three-dimensional toroidal equilibria and the sawtooth q(0) problem",
+  "abstract": "We construct exact, closed-form solutions of curl of B=lambda B with nested toroidal flux surfaces around a closed magnetic axis, finite rotational transform and, in general, no continuous Euclidean symmetry. They are counterexamples to Grad's conjecture in its pressureless form. Inside a regular flux surface that fits in a ball of radius r_b with |lambda| r_b<4.49, each is the unique minimum of magnetic energy at fixed toroidal flux and helicity, so each is a Taylor state. The rotational transform is a ratio of one-dimensional integrals. Our primary application is the sawtooth q(0) problem in tokamaks. In one configuration, q crosses unity on a smooth torus of closed field lines, with no island and no current sheet. Across the family, minimum-energy fixed-boundary states with q(0)<1<q_wall exist; in our scans q(0) reaches 0.84 at tight aspect ratio and about 0.94 at conventional aspect ratio. At comparable helicity-to-flux ratio, configurations with different boundary shapes have either sign of the magnetic shear. These fixed-boundary equilibria are candidates for relaxed cores, which need not be axisymmetric. Their dynamical accessibility and their matching to the surrounding plasma remain open.",
+  "authors": [
+    "W. Sengupta",
+    "A. Bhattacharjee",
+    "T. J. Klotz",
+    "A. O. Brown"
+  ],
+  "published": "2026-11-23T21:47:46Z",
+  "updated": "2026-11-23T21:47:46Z",
+  "categories": [
+    "physics.plasm-ph"
+  ],
+  "primary_category": "physics.plasm-ph"
+}

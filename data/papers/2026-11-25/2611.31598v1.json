@@ -1,0 +1,22 @@
+{
+  "arxiv_id": "2611.31598v1",
+  "url": "https://arxiv.org/abs/2611.31598v1",
+  "pdf_url": "https://arxiv.org/pdf/2611.31598v1.pdf",
+  "title": "CEDVR: A virtual reality event display for CMS",
+  "abstract": "Collision event displays are widely used in high-energy physics (HEP) experiments, enabling researchers to visualize and debug raw and reconstructed event data, and to communicate aspects of individual events to broader audiences. Such event displays are typically viewed on a conventional two-dimensional computer screen. To enhance immersion and interactivity with CMS data, we have developed a virtual reality (VR) software package named CEDVR (for CMS Event Display in Virtual Reality) that uses widely-available VR headsets and hand controllers. This application provides an immersive detector-coordinate view and a novel, complementary LEGO-style view. CEDVR provides easy access to physics object properties and object filtering, and incorporates novel VR features for navigation and object selection. Compatible with consumer-grade Quest headsets, CEDVR is a useful visualization tool for CMS physicists, and contains built-in sample events that support educational and public outreach initiatives.",
+  "authors": [
+    "Andrew Su",
+    "Nathan Joshua",
+    "Ethan Hsu",
+    "Joseph Malham",
+    "Muhammad Ansar Iqbal",
+    "Jay Hauser"
+  ],
+  "published": "2026-11-23T21:44:11Z",
+  "updated": "2026-11-23T21:44:11Z",
+  "categories": [
+    "physics.ins-det",
+    "hep-ex"
+  ],
+  "primary_category": "physics.ins-det"
+}
